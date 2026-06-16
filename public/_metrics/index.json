@@ -1,12 +1,5 @@
 [
   {
-    "file": "2026-03-18T06-30-30Z.json",
-    "timestamp": "2026-03-18T06:30:30Z",
-    "status": "success",
-    "trackerCount": 0,
-    "errorCount": 0
-  },
-  {
     "file": "2026-03-19T06-27-21Z.json",
     "timestamp": "2026-03-19T06:27:21Z",
     "status": "success",
@@ -1632,6 +1625,14 @@
     "timestamp": "2026-06-15T19:12:20Z",
     "status": "success",
     "trackerCount": 64,
+    "errorCount": 0,
+    "pipeline": "nightly"
+  },
+  {
+    "file": "2026-06-16T18-41-04Z.json",
+    "timestamp": "2026-06-16T18:41:04Z",
+    "status": "failure",
+    "trackerCount": 59,
     "errorCount": 0,
     "pipeline": "nightly"
   }
