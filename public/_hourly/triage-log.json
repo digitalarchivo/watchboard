@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-06-26T21:08:50.381Z",
+  "lastPruned": "2026-06-26T22:34:52.648Z",
   "entries": [
     {
       "timestamp": "2026-06-12T22:46:20.327Z",
@@ -99800,6 +99800,533 @@
         "source": "tg:disclosetv",
         "timestamp": "2026-06-26T21:08:49.927Z",
         "matchedTracker": "germany",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.515Z",
+      "candidate": {
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-06-26T22:34:51.356Z",
+        "matchedTracker": "venezuela",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.516Z",
+      "candidate": {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-06-26T22:34:51.356Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.516Z",
+      "candidate": {
+        "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2ctSTVRY0JybXlNZXVWazdTVnMxZ2ZIdF85ZVZBaFd1WFB0UUlka1d4N08tbWhCY3FEMy1ya2lsRzZUMDFrMy10T0RpbXpncU9wVlUySTVZNDM2bDhSalJBUGgxVmZxR3ROU19RcDNjU1k5OUVobEtLX05SVHpLbHFIR01zZ9IBiwFBVV95cUxPSTBLUFlzaHlkY1NUVW9TWmc0OXpJMlpfZXRfZWxwOERmZ0tibFNEemxFZGVQcnhNV1FvNllXcFo4ZFhvUUFnSVFSOWlvS09EM3h5ZlNHLUZ0V1o5MUctZG5WVTFOQk9QQ21ZcnRhV3hvM3Q2LTM2RWs2cXpRelJpX2ZLM1Q5cWxMNFNr?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.517Z",
+      "candidate": {
+        "title": "Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says - AP News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1lwcVc4a1RVM0RhenNCcVhMaHRWUzE0YTlXQm8yeExSWko5UFNlMmZXYVEzZDlHUUhlRlQ1WGp1Vy12LVZySHM3V1F0WUJTeWR0aTdINTlGTGMwTWN2UEx4NGNlT0REM2Z2VmlKcU1YU3QzYnM4bkZYSlMxd2Vud285cllVNVE?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": "peace-processes",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.518Z",
+      "candidate": {
+        "title": "Prosecutors in Kirk Case Found in Contempt for Media Statement - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbGQ0UFlERG1TSTF5SWFUOVVjalRMajdFYTF1Nk5kVFN6amJ2bnc0Y3Rxdm1YRDhNUFRlYVVYT09WMmh1eWYzMHV0eUxrZDJXNk5TMkdETUMyZVlad1BRZXdDaUM2UGVPcmExc2hWdWd0ZlozMURuSDU5OHVvSnRPU0hlaWFGb1N5cFRXdU1lVzlURU9jZ2c?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.518Z",
+      "candidate": {
+        "title": "Texas makes Bible passages required reading for millions of public school students - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkdPMllUNndGWllGTjVad0I0ZENMZGJNLXc0eTJkUlhWZVk2MENUOHBnWmZGbWdQc2pPTWs1aTZwVGtNSXdHUUNPcTEwY1owUkI4eG1nNkNhR09hQktjbHY5ek53Q1dvOUJxVktnMmxWQnJ6d2Ywbi1CLXRSSjNuYnZ2X3BxZDFwdjAxQ0Q4LTJ1eDFP?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.519Z",
+      "candidate": {
+        "title": "Heat wave blasting Europe is the worst ever recorded, researchers say - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkctUjJhZmhqNlRjUjFsYzVCalZJY2dtRlRzTzdYN3BQUkhOcHkyd1pZWXVFWFZmQjlnbHpVQUpmRnM4Q3ZTMDY3RXM4dWFRT05vb2Nnbmxyd19hdnhGSXhIZU00cWo0QmttSlpKR0RQZnBYdzJ1VXRaSk0xYzVzY0JXVzAzcXV3cC1veTJ4SnNLRUd6Nm5lUC1rMVg5ajhtc3hhSHczajViUQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": "france",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.519Z",
+      "candidate": {
+        "title": "YouTube Shorts Nixes 'Dislikes' And Lets You Double The Playback Speed - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYXhrSXUyVGdTSmVKcUxMWEJkYkgyU0kyNTBJWW5qSDZzREgxV3JmTVBZWVIwaU1VMjE0cWlpMm5pNHllQVc4VFVkakZLUlZ0YnBYeHZYM2NaNGJ6Vm5FRVMtY0EwWE0zNTl2d2NBMU9yam1DMDlJSE9lMUJrSkFHS3MwVlNLREwzTkRJUG1BTnVBaEtt?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.520Z",
+      "candidate": {
+        "title": "Millie Bobby Brown, David Harbour Set Netflix Spy Series After Stranger Things - Variety",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeS1BYTZQbHdyb2xRUjluZVExWHlyUmJIVEdWRXBnOWFESWR5UzJFM1ZWQVg1UnZxdDN4NDRxZFN6YkRrNms1dkZUVkhFTUx5cWpuakIyZGQ1bmRDTm1NVzV5SGtXY05GVU40SWZCcVI1N3k0UHhIVVFaRTI1VUZueHUtRXdLOTItX2R3aHpBQkhYRXlsNFBCMU04RU5qa2JURkRuN3d6b3hCdWpXWmc5cllR?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-06-26T22:34:51.407Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.520Z",
+      "candidate": {
+        "title": "Vuelven a suspender clases y llaman a home office en CDMX por el Mundial - Aristegui Noticias",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFBKVF9ZMjJUWnFtX293MnA1cWpDZ0FIdXhKRG9fN1FjUG9QdzNJamFlclN1WUtSUFJzdEdjMEwyZ01BVUVPSEJwcFlQU3NfUHpVLWN5cmlreTNtdDVidnBwNml4MnFkZUZwZVJzNDZmdDJMWEc3OU81VkhzQ0M1d3BEUm1qQk9SX3JSaWJJWHpabzA4YjYwLXJUanpnYWVyaGRLTXBpSGlYNXlFNk1hRnMxSVktUQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-06-26T22:34:51.481Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.521Z",
+      "candidate": {
+        "title": "El ‘Pato Merlín’ ya es marca registrada; la SE y el IMPI entregan constancia a su dueña - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzRSaTZCZlp6WVk3MjVSQmVGUW9XOTVtUUM3RGNhMHpXRmVIazhiQmFESDFzUzJ3NncwTXpTWmdEYzl3cFItMlFVdzJHVGJBV3ZHQm05cWxJRk9abW1zN3RDanZOb1h6bTNDSEFiYS16dTBLbS1iZllqLWg4eEZ0dlowcTREcF81QzJ1elg4MDNoNzdDMF9zdFNUTk1vdzJmaWQzc2oxMndLalB4VDFzNnNvcHhneTlrajdyUkQ4dzNNOWlPV1U2cmNwSHh2NzJBdG1V?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-06-26T22:34:51.481Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.521Z",
+      "candidate": {
+        "title": "Sheinbaum se pronuncia sobre el patrimonio de Gertz Manero - El Informador",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVl1VlpXeU85SC1mcGlTWUpxNUVnbkZaWDdVWlNObFh6MUExbnRuQ3dGY0JUb2Yxem0wazBuaHE4Y3I5VXJDRmR6aTBtaFNsZkRiYm1wWEo3aDVMd25PRXFKUXd4WmstRHl0ODhIV1JtRVdIRFg2NFRnSmVNNmVoWXhTRVZFNGE2OW1pcERwTExKNnpWVnJKUzF1ZzdkMFpSZG9zX1QzM3BLdGZiQ3JF0gG0AUFVX3lxTE9lbGhLWTJvMU5IVi1uUW5tMFVVWUZRRzVhMkhYcEN2bW1RbWl5eHNsY3BfakxSNjhrcnhRUVRkOXpDZWlZakpSZTZycXRlYWhzaWpyNDJvUXRnUG1oOUp1WDliLVdjOVZuODRKamFtWWl4bzAxYVBESjhfZ0luRk9pVk1Na1BHamtaR3Yzb0lnQzJRM21nYTl6U3lDVTZsSHNFMEd3R0xBNlpaVVp6S2swQVBPOQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-06-26T22:34:51.481Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.528Z",
+      "candidate": {
+        "title": "Cárteles mexicanos controlan producción de metanfetamina en Norteamérica: ONU; son los principales proveedores de esa droga - El Universal",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORGtMMDZZWXF1bTYwMzQxU2EtbmhkcGhsTk5PZEZvb2E5cTFBRXMwelJJbnJBNzRrdTUyN1U4RjQ1blJxY2pscXJtT0phV20tcGVUOFFOQlVxY040Z0ZuVkF6VG9yVTRVMWo0WmdOa3RDd283R0JmR01maTlVeGlQTk5vRHR0SFFFbzNNaEE0Q2xWVHRRQnJoeDV0ODc2eVRWNS1uZGJHRnNaTUdtRGJyX1ZVUWhtNkZFNUIwaWZPYkFEdndvSHdHUWtoWkhCTEJVV3A1dlJaWEg1cWkzZXF1V1AtX3o5eThzUTVGTTc1VnTSAYQCQVVfeXFMTm8tSkpmMmhWd0tJQ0xUZ3NISEREUmNrVnlOS0ZkXzZIcDNJb2xTYnpYWmNackt5azdSUk9saE1GXzdySlhqNFlsa1ZEblE4WU5EUERHZjVDX0JnZmN5MTNITENKTmlmTVM0OXlvR24yNjFEQmRjVHJLd0N2aUJjR09tS1BFZ0xUTjlBeFk0V0EyN2gyQUgzclhjV0Jma0hTd3I4R19sT1I1WEhuLTRkRnoyU1FSM0YzUjdJMUZBNmw5THhMeFktNGZMTFpFaFN5SFJROFg1aE5MRHlsdDVPMzB6Wk5YRkVIa09OeW1sQmw4Y05oRTdKSTZQZ0QxUUFhMk9hR0o?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-06-26T22:34:51.481Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.529Z",
+      "candidate": {
+        "title": "Sismo de magnitud 6.7 sacude Filipinas; es el tercero de alta intensidad en menos de un mes - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFdDTmhjdWlrdTRNODloQVUzeUc2S0tOWnJxS0JqSnhSczFKZTVqSTBQWDJhUEtOZ2luMU9vYUVIX25wa3QwSkdVVjZrMWVBYTZTaGRkcXBZZU4xQmZYcWhqUFJ5Nk9SeXRnVXN4MGg4eW1OaVZOU2I0SkplV2daX3cwc2R1OTRuSVYwTFJZTEU1Q28?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-06-26T22:34:51.481Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.530Z",
+      "candidate": {
+        "title": "Texas state school board approves mandated reading list including Bible passages reut.rs/4f4DNxo",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7wzwuxiu2b",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T22:01:22Z",
+        "matchedTracker": "battery-revolution",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.530Z",
+      "candidate": {
+        "title": "GameStop pledges to pursue eBay takeover reut.rs/4g9LHGT",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7wgasia42f",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:50:21Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.531Z",
+      "candidate": {
+        "title": "Neuville takes lead from Ogier after day one in Acropolis Rally Greece reut.rs/43UVYzx",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7w5epprf22",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:45:23Z",
+        "matchedTracker": "world-war-2",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.532Z",
+      "candidate": {
+        "title": "Insurance broker Hub International files confidentially for US IPO reut.rs/4oSIsWE",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7vuhjvgg2k",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:40:24Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.533Z",
+      "candidate": {
+        "title": "Saks Global emerges from bankruptcy under new corporate name, lower debt reut.rs/4wimCOZ",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7vl4ptag2i",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:35:11Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.533Z",
+      "candidate": {
+        "title": "Undefeated heavyweight champion Oleksandr Usyk vacates titles ahead of 'last dance' reut.rs/4oSGNQU",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7uzd7ws627",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:25:14Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.534Z",
+      "candidate": {
+        "title": "US rights advocates welcome 'Alligator Alcatraz' closure, say systemic worries remain reut.rs/4aQs4jC",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7uhqpyeq27",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:15:24Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.535Z",
+      "candidate": {
+        "title": "Sizing up World Cup spectators reut.rs/4f3xTN4",
+        "url": "https://bsky.app/profile/reuters.com/post/3mp7u6qprgi27",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-06-26T21:10:22Z",
+        "matchedTracker": "world-cup-2026",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.536Z",
+      "candidate": {
+        "title": "An appeals court on Friday upheld Harvey Weinstein’s 2022 rape and sexual assault conviction in California, but ordered his trial judge to resentence him.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mp7xieblym2o",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-06-26T22:09:26Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.537Z",
+      "candidate": {
+        "title": "The interim peace agreement reached between the United States and Iran last week was the result of weeks of tough diplomacy repeatedly threatened by outbreaks of violence.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mp7wywmuun2o",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-06-26T22:00:48Z",
+        "matchedTracker": "peace-processes",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "update",
+      "reason": "light-scan posted directly + queued for heavy scan (score 0.95)",
+      "confidence": 0.95,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.538Z",
+      "candidate": {
+        "title": "BREAKING: The U.S. strikes Iran to respond to drone attack on ship that President Trump said violated the ceasefire, the U.S. military says.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mp7u4nf2mm2j",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-06-26T21:09:11Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.539Z",
+      "candidate": {
+        "title": "New trial set to take place in October after jury fails to reach decision in closely-watched case on Palisades Fire.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mp7yneg3pw2a",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-06-26T22:30:07.751Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.540Z",
+      "candidate": {
+        "title": "Trump has repeatedly conflated democratic socialists and communists; no communist are running on the Democratic ticket.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mp7wxmym2x2w",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-06-26T22:00:04.963Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.541Z",
+      "candidate": {
+        "title": "The Republican leader has taken an aggressive stance against countries that weigh taxes or regulations on US tech firms.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mp7vbxly5c2c",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-06-26T21:30:03.984Z",
+        "matchedTracker": "china-tech-revolution",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.542Z",
+      "candidate": {
+        "title": "JUST IN - Trump announces biggest airshow ever over Washington DC on July 4th   @insiderpaper",
+        "url": "https://t.me/insiderpaper/43075",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-06-26T22:34:52.010Z",
+        "matchedTracker": null,
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02125,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.542Z",
+      "candidate": {
+        "title": "BREAKING: President Trump Urges Americans to Attend Massive Fourth of July Airshow in Washington DC   READ:  https://t.co/x7abZjuYe6    @INSIDERPAPER",
+        "url": "https://t.me/insiderpaper/43076",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-06-26T22:34:52.010Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.33)",
+      "confidence": 0.3258333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-06-26T22:34:52.543Z",
+      "candidate": {
+        "title": "BREAKING - Venezuela earthquakes toll rises to 929 with 3,360 injured, official says   @insiderpaper",
+        "url": "https://t.me/insiderpaper/43077",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-06-26T22:34:52.010Z",
+        "matchedTracker": "venezuela",
         "feedOrigin": "telegram",
         "sourceTier": 3
       },
