@@ -1,636 +1,7 @@
 {
   "version": 1,
-  "lastPruned": "2026-07-19T03:50:55.904Z",
+  "lastPruned": "2026-07-19T06:25:02.589Z",
   "entries": [
-    {
-      "timestamp": "2026-07-05T05:32:32.190Z",
-      "candidate": {
-        "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
-        "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-07-05T05:32:30.828Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.192Z",
-      "candidate": {
-        "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-07-05T05:32:30.828Z",
-        "matchedTracker": "france",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.193Z",
-      "candidate": {
-        "title": "Trump Delivers Address on America’s 250th Birthday: ‘Nobody Can Be Like Us’ - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XWS1fZ0JhVjV5T2FNR2J1Mm4tTHJwTkQ5TnRqcjBhUmxoWUhPTVB5c0w3M1BXS0hpbnBMcldYV2lhZmxMYWRKQ2d4bTVlNTh5SlZabHA4YVZGSk55UkJFWHdvT3o1WFA5Tl80U1IydzlOblBvSEE?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.194Z",
-      "candidate": {
-        "title": "Trump mixes patriotism with partisanship as he celebrates America's 'joyous' 250th anniversary - AP News",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFlpZFpJamx2a3psVFBHZDdSN0pyVkNzT2lDQmYyajlWRXFNWHNJTENnNWc5R1c2STlBWF9IazBhV2pWRUpuVzZ5a1BhbDE1d29FUmpOb0JkMEhEZ1JlenNQSUdDZ09JRURiTFF2aUpieFN5cHJnSHpNeUdvYWQtT1M4d0oxdk9Ed0RyNm4tSFc4d3BpVVJQeUJpR1JMcjg?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.195Z",
-      "candidate": {
-        "title": "Esplanade reopens after storm prompts evacuation before Fireworks Spectacular - WCVB",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZTBWajhnb0NJNVNiS3VQdUs2YmhXVVU0N0IwUUdPYjJfOTdlNTRLb2t6Q3l3NmhoSVo2a0tQeUJteWNEa0pNV1FPSmIwWXh3YmJmMkVrd1BUdFBGbEVPREdUYmNRcWdxTEFrTFlZbTllMXJLcDNza1ZXZ1piSTNqTEQ0SndVWE5pX21lbXhJX1FhZmI4T2pSci1xa0w4VmVqVVcw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.196Z",
-      "candidate": {
-        "title": "Brooklyn Bridge catches fire during Fourth of July fireworks display - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMGtfY0NUaGJPRm5seVRpdER5QUtYcS1BQXpjYjVtZHl2WFhTME5aZWstckhwTU8zb0FYQ2dMNVVsUlB3dGdQQnNHYUtHTDh1Q1FzUFpSOXZyQnZKeXlvNHhlNkhETk8xSGVqeWVRMjFnS1VLYk9GWXRqR01UV0pRdG1BZmoyRHdBcU92Wnp0LXN3ODlNbms4RWZxZ0lva3JXaC1FRFdPQmNSVms?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.204Z",
-      "candidate": {
-        "title": "Live updates: Severe storms delay July 4th concert in Philly - NBC10 Philadelphia",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb2tnN0FNQjZ1X2tNTUVud0hycHE1TFg4Qi15SXBab0RZWWRkM3o3amFQMWpoazdwNldmVjF3QnBKNE05MmlxX3JOdUVFVnl6VllCcEdhMnhJUk0yZkFhVC03eTdCZmdjMElZSHYtZ2RzS3BYbnNNU2JlZWRhVXEyd2t4ekFlbGdocEpqQ3dJeUMxMG5TMkEyaUlFOGwxNWlUR3VZZ1lqUDFXVnp3SnUxQ0t1N0RlNnZSMlBQeVRzcGVPSGdqM0llUWJmS0I3d9IB1gFBVV95cUxQeTBRU0ZIcEIzN1dMSVUtWGtma2ZRaWt2aWw2OHdfSkkxYVdlMFdUQlg5MzFKXzJ1UW9kcVRFY3ZOVlVFX2NtazBXdllsOHFNeGRNZm1YQm1BVWZ2bGdCM0V4bGNWWlR0N0pld2p4MGcxRUtRT3dFNW5FTTBmYVA0eDV4RjZfa2lxSkZ6dzB1UHU4SmNxN3ZJZmtFTGhRUGRQbkVSZTZMWDJuV2dMcko1MkxiYVYwb2NvQlhCZmZHenZHZ0JFYzR1STNfcVZtSVZuNk95Q0Nn?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.204Z",
-      "candidate": {
-        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHp1bXAxSGlUSjFDODZEMkxTcWpnYXhYSjBhTHBQdHItSDZMdmMxT0YyQzF6cWp2SmFVNEpMTWZkNjlwekU3eEt6cG4wX191WGpIclRidWZkc3FBOF9ibVFRdTlueHlJMHBRbVVOUDc2YzBiRDdQVlhmeUQydHFCTVZNSEhsZEFYdFlFMHl6ZDlwMnZhVWfSAZYBQVVfeXFMT21lOUVleE9wVHZBRHRZbnljMW5ieEZGMHlNNzlwNUtkc3BJSHpLZTZWdHpaUFp0YU4yOFJzTkMzQ0doUGQwWjFOcUN4REtiZkZLWGJjT2Y1Yy1zR3hfalRUU09VWFVDc0RZOUFhMlhMTktyV3d1bERlb2xzVEMyNHFianhZTVI0bXFXQ204UkxmSk1VNXdB?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.05)",
-      "confidence": 0.0475,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.205Z",
-      "candidate": {
-        "title": "EV Batteries Are Defying Expectations After Hundreds of Thousands of Miles - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjhOSUhvR1QzcnJUTGlXN3lQcVRHNGVBYkMxSmRzajRrUnNnQUJvS0hQWHpDMG1xeHVtRmw0UzVUSndRVGtvWUNsOTA4eGVLc2tiTGFOZjZVdHJlY3ZGR3RmcEhYTGVxdmNzUnBfVUNja04xWDc4MVMzOTdxR3BwMi1pczRkT01GZVA1SGh5TlY3c1NLdVpiWkZQV0d0VndiaGo3bC1JWmZwQmphVXFQNzQ3Ti1BOEkzdnc?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.206Z",
-      "candidate": {
-        "title": "Trump Accounts are now live. Here's how to register. - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnh6X0hGMHYyaXMtY25Ib2VVNHNlSHZ2YU1YeXMtTnhGNTRtQlAzSFM3dDFZSHVqYldkcUFzbmpWQUZ4WlhmUVJXaFNjNjB1OHlEdVMwdGppR0dQazhEbk9UNW9ZYmU4aHhRc2ZHcmFnM0dTdHpnbGVKbmdYeVFMU3hhNWwzdw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.207Z",
-      "candidate": {
-        "title": "PECO workers strike starts amid Fourth of July heat wave - WHYY",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VRHBfbkdNdkFkZmg0aVM1dG5KaklfbnhySTZtdURiYUpJaEQyZVVFclRHLS1wcWwxOXRWM0xUQjV0M2FiWVVFN2dIaGU3bjhKUTBBMzVId1JLNS0yMEgwSHVfdEExdmlsUksyM2F3Q0pCajRMS011WEgtUQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.207Z",
-      "candidate": {
-        "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1VkbzlEeTdWRDZsVDg5SHlXM0pxc3pLTXpYZkNsMmRGdUtHTDBtM3VBZU1oZjNOTVFQWnJzcDVMVThUZ2VXNG9JRjhSYkV2UTZsSlJZd1pvZElpLTJ5MjlUOWpfYkNnTUdNck9tdmdfY0ZzQXRKeEZsX012eklPNTNrdXNkc0k?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.208Z",
-      "candidate": {
-        "title": "Watch Faces for Samsung’s Upcoming Galaxy Watch 9 and Ultra 2 Leak Ahead of Unpacked: A First Look - Android Headlines",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNjFyR3c2ZVU2ZVBFRmUxd2ozZHZ4WTdFS0oyYURLbXBlRnJNVlNzYk9xM2M5aUE3OEMzNDZXWkJhYzF1bDF6MEMta0Q1Ym5haVpNeEpxcTY4ZzFxN0c3VWxMdFRsNy1MVzJheF9OUHJhN0VhdnJmdWhQTEpwcVV5cDhGSVdfcnNJempqSWFSc0M?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.209Z",
-      "candidate": {
-        "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - CNET",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wMkVrNHJRVG5TaGpOWmtwOGRrT3gtTFo1WW5CRDJob190eXhDd0tLRUpPSklYYWpobUxPM3V4SEFOZVNpZHp4d2xhQjh5Ylk4eTBwVXhQYVZ5TU9DT3RMWDJVV211TEJNaFYxUw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": "south-korea",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.212Z",
-      "candidate": {
-        "title": "Taylor Swift Wedding Details: Adam Sandler, Blank Space Handkerchiefs - The Hollywood Reporter",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzQweXdXcHpVVDJrWlBrUVF3dld5UUdFNWwyaFB4ekJVMmpoMWZ3akJRTnhlQ20wbWJtQUFlYTdmM2h2clpJR2RieW1OVUVWNW11WXhDNUNsM0VZVFRsVHZPOWtkVjVVYzJqVURSbGltWXR5RUd3RXF3dXFtVlRsclhUaHFmakJFQlc3bHFObkZuRjRKWmpjQkxSazhKVDhudkhabXBhellZcjhqWWgxQ05BMDRxcjJmTzNObzQwSFhoQQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.213Z",
-      "candidate": {
-        "title": "Taylor Swift Rhode Island Home: Lights On at Estate as Fireworks Go Off - TMZ",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGNURUNHa3ZyTWRPXzZVa3FwWGZ6eWE5VThYN0l6NEU4Q3FJbzNaVDE3Rm1CcXRXeTFjUm43Qko2aWdyS0xqLWFhWnRnTFFwdXdmd2t3Y1lnTVJ5cXh1VGNUdUk4RktZblBNOUtQdHhjV2gzMFF3X3BlSEpreXpWTml1NE9va1hwM0E3WHhnTlBTWEt0a3N1VE9ucTE2UjlDTFB2MWM4cjZ3N05mVVVz?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-07-05T05:32:30.891Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.214Z",
-      "candidate": {
-        "title": "Putin dice a Trump que Rusia tomará control total de Donbás - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2xDMUdNakQ3YmdDSVJ6TDk2NXVwOWE0a29PLW91V2pGQkJuTEtfZ2x6YjZ0MGwxRkxhMUJ4MzU1THFRcGU3clBIbEh5Tm9WZDRhcmlGeHk2QTB5OUpMN1UyeUt4S1I2dE5TU2RhSjEyNi1JOEJvWmlWdkJTMkpSSEZJYXZvbDJ6ZmNwSUM0dFl5cndaMXJGRl9qdDUtOURTZC12Rmc2UdIBpwFBVV95cUxPUnhJbFJoWXJpQ0x2UXYwNlB4RERSTjhqNC1xNWU1ekgzRnlwTXlwdHptSU1rX3pjYm5zQkt2S2twWEdabkY2eUJjWDJCeTBNVklGRmdzNkFRVzFfSklvcnN1Q0NfTTRhSDVMajhjM21uY0pBTWlhNFNXUTRtVVE1MXVTZ1dSX085Q01nSDNWai1tbm96SzNhSDlfQ2M3aEdMM2RVSUtoUQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.214Z",
-      "candidate": {
-        "title": "El activista ambiental Álex Serna es encontrado muerto en Zihuatanejo tras dos semanas desaparecido - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPem5mc0VHczFrQjh5Z0gxUFpLbDQ4bFVpbHUxYV8zbW12WGdqTHFfOTNiMGtacmR2eDd4UnZka3dvcmNsTS10emJWYTVBVmZyeUQ1cWEyaHRCX1dWTGJxaUhwMWpwbHBkVWJvZTVEZ0N3WmRMbWhFU2hyWVFrT0EtRzdzakdwaHQ1OUZJOWNmb2Y1UDd3Nmt2azhubWhzTVplU1R1WGtrck9fazJ5UnRmSmQwbFg1N2F0eTllM0pGdndDcS1pYUVJXzNKejR5eVp1djB6ejFZcmM?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.214Z",
-      "candidate": {
-        "title": "“Todos los países tenemos derecho a ser libres”: Sheinbaum al felicitar a EU por su independencia - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ0pEUGpLY0NMNmlsbFpEY0ZYLVBFcXkxc2hyRWtJTFdhN3FiUWN4LUZqZkl0RTZFV0V1MUJLTVV0OVZFenhjYzNXVXRvSVlCNWl4cU9hWjJja3BhSXpVSXhNTlhySkpJYWFnY0RTZnlRdmdxVzktZ081SXBiTmlmRmpWc2w0eHJ0d2dUcmRaakIxc0ZQVUZFN21nWDZiYl9HUXBnUXlSMloxQzRxa0xGRG1mbVByUU0xYW1zUnRHZklINnVSX2pjVi13czVoY0QtVloxSDY0Y0dkd01XaEVtcm9Kdw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.215Z",
-      "candidate": {
-        "title": "Monzón Mexicano 2026: qué estados salvarán sus presas gracias a este fenómeno - Meteored México",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1pNbXI3aVViSXhZSFVJTTJKVjZYLUY5WUp5RlFyVGFIZXI0OWM5aEtfSlFoVjZxek9jOFBkM3NTTVRaZTQ2SHdnTm1RRGVBSDI2dTMyUDF3aFdlckV3RHhhRjd3NlJCODAzb1ZmMWg5OWNfVDFtUUhCVU40Z3lKNkl4cVpUQW03UEJnS3BfdkJNc1VlVmdBY2hlWHBjZEtZdmZNU1UtWko2Q2xOVWZVYXF6ZEJkd2tGVDF6YXhPUQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.215Z",
-      "candidate": {
-        "title": "Regresan a México Brigadistas tras Apoyar en Labores de Rescate por Terremotos en Venezuela - N+",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWHdhdmhyQXNsSUxaVF9Fdy1GQzRZdmx1NlB5d2l5RFNwSkM4aGR4NHM1eHRLU0RGVjdXQ1NLRF85aDM4OFNCX2wzVlNDNDV5Yms0MDZkeEc2VlF3azBmUDRUZThCdVhjdldpMXltR1gwdVZybS1vZS1fekJjdXVHM1U4MTNBcEVMSnl5M3MyVG90aUJ6UWRpRVM0VnFaOTE3RFlBTDlMNnRLZ21vZmNsYUM5Q2JsWERZTjNzVHlGQnlsQVlsNFNTSy1laHlSMU9YcncxdEs3UXk5dw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.216Z",
-      "candidate": {
-        "title": "EE. UU. celebra sus 250 años en medio de calor extremo - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlY5UVVtdHNCX3A1d21XSWlHSGVXLTBkOGRDaU5NWWhOLTE1QVkzdW1wZFpVQzZENldzYnIxY2lxM25FNjlCNzBkTEtvZlQzUzNCdVFQN3I2R0NuSF9GdlJrTmFleVVqWGJ5SnRXSUNfX1Y3VldEWkNCdnAxUkJtdGxOR042U0ZoUXZqRFZjMFZIRGlVenZFNVdzNm9CNUpG0gGgAUFVX3lxTE1wRTJ0RFpRbFA1WERlc1BqWWxZeEtyNERsNlBCeEhQS0d4V1pZWUZVY1ZSVEhVWDhKaFFYUHowMGF6QldrYlhUZjNnQXplZ3B4TDBERGpPLWN1cGhtdHFhTWduU0ZmSUNfWVNDbGFLSVhORjRPblRycFBLX1VfcGt5bWRNSW9RdWlHbmVjWEFERFRudnBBWS1maGU5bTNPV1Y?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.216Z",
-      "candidate": {
-        "title": "Cuidado con el Perro sale a las calles con ¡Cuidado con México! previo al duelo ante Inglaterra - El Universal",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkU0Z0tCUVZfQVBwOUZXZzg1UEpBbmVmZVp5OGkxMUN6NjZOeGpXbV9VMVRBNnVFbUREN0h2emVpZVplSjFqdzNnSEZvWWNkekRCZS1oa08yT2k4aE5JNXI5MlFtdFRsT1JoR084SjMxeTJFRU1Ld0l0ZTNwVzhyeXMyUmVMWGt6azFoeG1OT1o1TzJCT0xvWHlXbE4zcDRCaVhGQ0ZuVFhTLVdvcVAwbHFadUdyOXgwNXR6QTRhaXI0RlhTbURCNURXcTFzZ0NGaEE?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.216Z",
-      "candidate": {
-        "title": "Papelera de WhatsApp, borra caché y más trucos para liberar espacio en el celular - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeTJ0Z0VFbkFOZ2dDeklzd0lPSU5EWk0tVWpWek5VZjlTSnFSM0VLa2dtR0xVQVVzdnlwdk43SzVibVc5Sk5QX3RZeDlzVnBiX2I0THVWdVFJUWplOVVvYnFkN05DSktrcXlEQ29wSW12T3Q0dXBubFFSQVBDclBXeFBza2ViMm1qdUlZS1U0azVPQXNDN25jX3Z0MjFSNkh5TlVzUnZneTZHZ0M0WEF2QXo4NmpRTGd0Q05Fb21wWdIB2gFBVV95cUxNTTI2aVdIRjVNUjdZMHFzRi1PY25jekVtQUstVDZJdXkwajdGTFYwZU5zeDkycC1MTDJ3Q1o4SDRNck9oUDZYSTNLOHNPNnRvLVc2V21ZdWtNQ3FuOXEwWmtkMTFKMDJIekFKdmQyT0J3bWw4UFBBVEY3Wk1CNVc4djRfN1BGT3g0UlAxQ3ZSaGdpMUJrSlVjemMtRXVsSVNEQWlOMnFRNENvY2lGeVotTVR3WWo1N2JEbzNXTXdnQkl1b2pSdF9GLTM3eEVCLUdRRDVXN1JkMC1fQQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.217Z",
-      "candidate": {
-        "title": "¿Quiénes asistieron a la boda de Taylor Swift y Travis Kelce? - ESPN México",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkxlNFhaNk9tZ2gwcFM3Tm0tTF9WdEs3YXdSbDJuX2F1SDMxQjhKYlRzQ3RqRUJ4UEpQV2U5bWFCUjhxYnFjcDlRM012R0xZSG54ZVFtSjlJVE9FYk1BdjdKWFpjZmhobVE1bkoySkVCSzRTRWNZeldEZlJ0dW5jeV9SZmRsSFRQZXJXcnJPTkV3ejZkNGk3bWYxRFdrbmJaQU1tY0U5d1JwMGZQa0NzQWZyeEt3WEZyaUVYRnl5Yms4UnpZNTBxTk1OMFpFTUZxYmlXaHBJUQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.217Z",
-      "candidate": {
-        "title": "Rupert Grint admite preocupación por la Selección Mexicana rumbo al Mundial 2026: “Se ven muy fuertes” - Récord",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQakl2YVVISTF4VlRQUnJ2NXdfUWJJVDFmakU3OGVPekQ2eFRuOW1sNXJNVC1jZmZ2aDZpNWEtVGpFOFJ1b3J6cUFkUUlKUG9ldEkzS0prbDVzY1JYckpwemdsT2xEc25HdHBRQnE3eXNpd0tEcnN2dl85V0FqSkVIMlk3bVFwdngzdXh3UjhQRUtmeVozVFMxcHNROVRXdTRyS3BRdmV2Y0JKRTBhd0hIWkVtb1Vkdi1rWVo4MlhiUDNHd3EtVFdLN25pdkF5cHlnUzJ0NjdaRGJycUR2clBVR3dsNFNhS0N6emc?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "mencho-cjng",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.217Z",
-      "candidate": {
-        "title": "Verónica Castro visita la Casa del Actor y conmueve a residentes con emotivo encuentro - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeU9fTEFQa0JIeE5LOEpNRmhXUU5MXzI4WS0tank4NFFDNHE5TW1leVhNeFdqWURubE5FMElqZ2RuSmRhcjdfQXJ6QnlBRWx4QkhmbmxTbmNBczlSd25ITEk1YlRXMS05SUIyeUN5dVVWck9IWTExaXVNcUJtTGJLZjY3SmV5dkQtTWZVQTZrZlBTbVRQQ3F6b2Mwc0ZyelI2ZXlVZGZ3ZUFGYzhPNmJrd0tadlNULXVKT0puU2VEZkpjcWEzQUFVc9IB4wFBVV95cUxON3BmdUJBV3RXbzVfVFYweV9IOEhLd3ROcjl2Z3Vma2I2RDA3RGRJVDFKX0N2YVI4NzhnWmN6SGxIMUhoVHlVT0poMkx3ajFKdmtlRk5sVEt3aXEtZlpoMFdHd1BwY0x5X0lCRHhsclZKeFFScXhiTG53WXF2WWI5YXB0UUNrTlFhNndseFhFc2FBUE5yV0Qta0FnaVNFYlJidWlRd2RDWTZkNERUZk9JN3hhYXc4Z01LaDFDcm42QTZHQzlxdG1uYm1TcktJbjlWV05KeVNuQ2t4RW9WMHRSNUVvZw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-07-05T05:32:30.966Z",
-        "matchedTracker": "cuba-crises",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.218Z",
-      "candidate": {
-        "title": "Vessel forced out of New York ship parade over 'politically charged' banners reut.rs/4fiiIj8",
-        "url": "https://bsky.app/profile/reuters.com/post/3mpuqivprnl2j",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-07-05T04:30:22Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.218Z",
-      "candidate": {
-        "title": "Christian NGO welcomes release of pastor held in southern China reut.rs/4eW7NKK",
-        "url": "https://bsky.app/profile/reuters.com/post/3mpupwqe2t223",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-07-05T04:20:13Z",
-        "matchedTracker": "israel",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.218Z",
-      "candidate": {
-        "title": "A group of 150 people from 50 countries has become U.S. citizens at George Washington's Mount Vernon estate.",
-        "url": "https://bsky.app/profile/apnews.com/post/3mpuqildr7g2c",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-07-05T04:30:12Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.219Z",
-      "candidate": {
-        "title": "A performer at the funeral for Iran's late Supreme Leader Ayatollah Ali Khamenei called for the death of U.S. President Donald Trump before a crowd of hundreds of thousands of people in the capital, Tehran.",
-        "url": "https://bsky.app/profile/apnews.com/post/3mpuolffexv22",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-07-05T03:55:58Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.219Z",
-      "candidate": {
-        "title": "A fire broke out on the Brooklyn Bridge in New York during the city's July Fourth fireworks show, spreading flames and setting off a plume of smoke before firefighters extinguished the blaze. No injuries were reported.",
-        "url": "https://bsky.app/profile/apnews.com/post/3mpunh2exwz2g",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-07-05T03:35:39Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.220Z",
-      "candidate": {
-        "title": "Rights advocates say a pastor of a prominent underground church was freed from prison in China weeks after President Trump requested his release.",
-        "url": "https://bsky.app/profile/apnews.com/post/3mpulhn5bk62i",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-07-05T03:00:11Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.220Z",
-      "candidate": {
-        "title": "Kylian Mbappé scored his 19th career World Cup goal, and France survived stifling heat to beat Paraguay 1-0, sending Les Bleus into the quarterfinals for the fourth straight time.",
-        "url": "https://bsky.app/profile/apnews.com/post/3mpuggpy7ay2u",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-07-05T01:30:12Z",
-        "matchedTracker": "bad-bunny",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.220Z",
-      "candidate": {
-        "title": "Efforts to expand birth registration in Cameroon are gaining ground, but millions of children remain undocumented.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3mpuqiekegh2i",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-07-05T04:30:04.665Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.221Z",
-      "candidate": {
-        "title": "Severe weather disrupts US’s 250th celebrations https://aje.news/5npxln",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3mpulhhn2vj2f",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-07-05T03:00:05.313Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-07-05T05:32:32.221Z",
-      "candidate": {
-        "title": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3mpuggiymzl2w",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-07-05T01:30:04.555Z",
-        "matchedTracker": "bad-bunny",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
     {
       "timestamp": "2026-07-05T08:30:01.453Z",
       "candidate": {
@@ -117486,6 +116857,448 @@
       "decision": "defer",
       "reason": "deferred to next heavy scan (score 0.32)",
       "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.470Z",
+      "candidate": {
+        "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-07-19T06:25:00.465Z",
+        "matchedTracker": "european-conquest-americas",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.471Z",
+      "candidate": {
+        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-07-19T06:25:00.465Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.471Z",
+      "candidate": {
+        "title": "Live updates: US launches new airstrikes to ‘swiftly punish’ Iran for killing American troops - CNN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcWdzWmNtRURwcnp2dVRsX1FSNEpQLTVnbEcxOE0zR3JGOVZBUlE1RDlzZUdZOHBxY0g3eFpRZ3A4VVNkQ2RjUHRFVktpRmdCVmJOQ3VxX1NLMlNCWjVMREdiOXFNbkZUamdqZXVTYWZHeUk?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.472Z",
+      "candidate": {
+        "title": "ICE officer’s troubled past renews questions about vetting - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "ice-history",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.472Z",
+      "candidate": {
+        "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.473Z",
+      "candidate": {
+        "title": "Can Burnham's casual style survive contact with No 10? - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYmNxa3ZSQUZaLXJxUzNZM29VWlFnbVFmNnA0cmRwLUczZWozb1llY3V2SGJLNFZhb2I5VVRLaXQzRHZUZTdDLURmN1BRa09OOU5ydGRCWGk1Zw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.474Z",
+      "candidate": {
+        "title": "Hungary’s president agrees to stand down after law change ends his term - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVzcyazBpRFdEcTQ5LVBVazFOVS1pZkd2dW1SeTh6VjlUd18yU0dpUWt6cnBtUVVoVGllbk5WWU9pVS1MbFp5Rjh1VGJHX29WU2NxQ3diV3lNQ0FqWE54aV9tZ1VZRFFLYmU4TS1DS2FrUzluWDhMOTlNTkoySktFWVFxcVhIY3N0aEZTREpwM2J0WHhZaXJpMUNfUTJRakdWQjRmZ1RHeFFDc1NESEJ3VXdaRVBlZ3c?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "hungary-transition",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.474Z",
+      "candidate": {
+        "title": "Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVjB4Wkh0TDZITXAxRy1OUFBwck9CZGhzQzJ2QkVyV1lyWVU2ZzdHdTdNN3k1bnFrZzI5RWJmZC1EVVJESy1xUGxLVkVGeEdkLVFUdjBURzNZMEZRelJyNTZGdzVzMHdqcmNyeG82TWI0Q1JYV2xwbkZMWlJtbGZaWWtsTHB4aGd1LWfSAY8BQVVfeXFMTmxoN1dTdXpiOWpaaTk4ZEswejdNQTJaTTRXWHNPVkFPbFBmLUlURExLXzFkdmtqUDlWNmZ1dXhqUGtzeGJNM3piY0J0eEtidGlJS1BfR0ZybG5ud0o4eHJFZ2xudWVWcTRiZXUtUmZOMEkwSkNYcDloeEtmS3ItcXF2WWNvei1lZ1VtMTdKMDA?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "crispr-gene-therapy",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.475Z",
+      "candidate": {
+        "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code - The Hacker News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXFtbXk5VE1CSFhHSGRQaVNZbUk5WnhUTFBVZk5VQmhZeVlWdzYtX1dlTUF0VHVwVXhtY0ZFY0NkanRIc0I0UFQ0VERzXzJRdzBJUE1odFdhVVpLS2pqeDN3X2tGbXh4TVNEbm1SNmNIQVZLZG51endOaDczVjNKc01B?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.475Z",
+      "candidate": {
+        "title": "Noah Kahan Concert Among Shows Canceled in New York Due to Inclement Weather on Saturday - Billboard",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSTZ2RXhUR0tUaFc1eGFGenU5SGpVRk1yXzgxTzhZWXZPOU03X2F1aWQyR1B4NWRmRDZPSHJYY2hiM3NId29aZktJYS1UdHJhbDJFbDc5U3dJVkZoUHh3dlZHdUdVTzdiMGU2Szd6amhiWVNDcWNqeVZvMjJFNW1FQnRaeFFfNzFzVEhWcTdnNlpmc2x2SW1iMmxB?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-07-19T06:25:00.556Z",
+        "matchedTracker": "bts",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.476Z",
+      "candidate": {
+        "title": "SRE lamenta fallecimiento de Carmen Moreno Toscano - El Universal",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWFlaREdUdWE3UldwejBqSkpydEtTNEEyS2RRZnZzSFZJS0hvLTI4bWdoQlY1elNNVXl5Z2FoOW85MC1oT1FpYVdBelluOHh1Y3dOdG9meE42cVlyNXJYM1U2dVFibHcxZnhuTWUzckROcEhiRjNGdmZwdmpuZVV1UEtEZzJVS25ydXVVZzE5Zjh6SU9jSnlXazBTNTlwekV6dWdlYWhWTUE2UXM1YzA3SkRqcGFlUzJ3TXhZZmU3Z0xDaUFuSk1udkJVTDQ2Q25hQ25hN3RZZlBfWmRPaEN2RDdIX2dVSFRo0gH8AUFVX3lxTE1TWWw5c0hVcTZ0UVYxR0RnWjdrWV9hQWZQd2NDcWRrUjZEZWFqcE12QmRsRkplZkpZR09ENVpvMmNoQTkzbDdkZzJGNFM4LTFRa28tWGFIdFg0X21tYjhzTjdRbVZLYXphUEV6S1JsakFyaVRoTVFTX3BFR0dmTWZnU3hyeUlWd2dlcmR1U0twSzlKVDU2d05hTE9ZNk5GQjZ0MkZxelgwbUFSWjNhR1NJaFZBbVI0S0NESWo3ZVZLalBuVkV0WngxNGpON0lZQUdlSTlhU2s3TGtFdnRVTlVyUWxSRlBOanZWNnA1VHVJVVNPS05OY1l6OGM5Tg?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.479Z",
+      "candidate": {
+        "title": "Camiones pesados chinos son el nuevo obstáculo para que México libre los aranceles de Trump - El Financiero",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0xadm5VNTZzN0pnZUZtME1vVE1qRTVQWVB0aDhueGxFRnBJMHVxSWN3dFVMUUx1aFN6VjdHUXhoa1lnT3o3emxlLTMwVXp5V29aVXBUX3Q2c3I1cjNfbW1GVVVxQW1Zbk5feExRQTd1QVlYRWUtY0t2Y3Nnd2wxLWZYaVVkT1NWX2xCX3NQZEFyRGtPdlRscFMzekdvUHE1Z2p6dlcxa1RJV2pManlvTFlIby1EWnc0bU9wT2hPMUtDYWFxQS1sRmdlSFNMN2F5SHV1aTRLOU8xMFdx?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.479Z",
+      "candidate": {
+        "title": "Arrestan en Miami al influencer Andrew Tate y a su hermano - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmVubHl2Y2ZUVGJ3bm1GWkJZUXNXN05MNW82WU1hWUdwQjAwcGJrN2pmUTdKaHJycmRBMU83ejB3MmtCWTh4NFJQNHJWVk8tcWNLQjBRQXNsNERQOFFJZHhucnFLVjkyTEIwNDRhRDlOQ0dOV3dlb0FHSTRHdnN3T3dpejBEaGZMa1k5ejQ4V3B5QnlJMFHSAZYBQVVfeXFMT2FWeXlKUkZWd3R3SzlwYk1zQnQxY3BMWHBsNVJIT20wV1F1LWlzeWp4UTN4UDZuaEpDR3g0SW8yWm1iYXU1LUZDdEc4MWRsaDZucGpTVGwtRC1iOFZSSlI1M1RSOEVPVUVaaTJIcXhsckVTbXl4LU1ZeFdVRDlydnpuSWMtdy1QTU80TGZ2WU5UOUJ5ZWd3?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.480Z",
+      "candidate": {
+        "title": "Como era político decidimos no ir, dice CSP de cumbre en EU - Reforma",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0haOTdhakJHSUJ3QTIwOFJhWGlLZGlsU3dyQVlKeGxBamViX0Z1bk53ODU2c295OU43dEFWLUNIb3VlMEF4YnNSSnU0YXZCaUg3cE1sVFUtMTdnTWZzS3d6UHJaVHdZWm9zQ3V3VUhFYkFjVGVQVmdKVkE3c0FRb0thRk5feWJVVXI3cVZNRU8xdk9oNE4w?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.480Z",
+      "candidate": {
+        "title": "Fortnite calienta el verano con sus skins más provocadores hasta el momento: no se podrán usar en modos para los más jovenes - Vandal",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek9FVXYtMHlCTm1NWGJFVWx3OXNfNWhnNGNqSTVBYmdMaVhnX1BLMHNWYUFDZzVkS0ltYzd0Z19oQnNlSmlaVlVLSFV2bElGZk5IUE9MSVNQdWxKMGFNal9RWW5MV3pMU2J6UDVFbUxxMFNHa1ZtSWFwcDU0QkdGTE5sR1RCMnhrVkZlckZ2ejdPT2Y5eXFtNm9jc3drVlB6THdUSVFnZ3NMcXVDMFRTd2F4WTU4d2p3S0JKSjNCazRDNFdQS2xHTjlqa1g4by1LbkxnVTlBY9IB3AFBVV95cUxQZ19OUXRaTGh1a1Q5OTR5cjU1bXpUUllwTWhLb25PTjRyemM1XzdlWUljQUdaNDk0UWxRV1JybUdpLVl4S0pMdVkycFJEeWVCVHVpMFIzSV9QSXBSdzFhWkVzSHVpa0R6Y2kzQm9MLVNWYXU0cHhaYkE2TEhVNU5pUFFEbzh5M095R2h2R0hIREtOVWItZUV4dDJWWjBOS0owa1dyNXZmVkw5OXVxMUVRajZJZGlKWHhkYU02emRiMFJzSDdHRm8waFozakU5UHpvUkRkS2NqZzQwek5v?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.481Z",
+      "candidate": {
+        "title": "Un meteorito cayó en una casa en Nueva Jersey. Es un tesoro para la ciencia - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEhFLXhyZ1ZTcFpmTkNuSDQzVzBJejBBUUFVeEV3aXIwWVMxWF9oQlNhZklpNWJDZFVmOWVDNTFQb2VuTEVNUTQxYkcydkxEbW1BT1VRZ0V4REd4aXVwZWU2TjJhVW0wMmpZeFNRSXdkU2lKWjF4cEdUV2g4VURQRzRKRnNXNmMz?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": "pena-nieto-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.481Z",
+      "candidate": {
+        "title": "Gritos, patadas e insultos: así terminó una función VIP en Puerto Vallarta - Telediario México",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0dZaUpsUXl1VXpOSWJOaldCcFJaUkpNcy1QYlZtX2VtUmRqZjdXSHhXRlVYWFpiVDRqTFhpS0l2emxoS2tjc2szN0lCQ0NrS3ZWU2xPazdLNmdoaEN2XzAxX0VXa2hBS29RREs3S3ZnWjBYOU82c0FDXzZYSlpHRl9SSE81amFuUjNWTDd1MXJkVVJrTm5aUVR30gGaAUFVX3lxTE1EVHBMNU9ZbVI2YVVCMXZhbXk5bk5TZXRXRS1RaEdLTVlRSm5YZ3ROV0VpSjFqSG5nbWZ0QlVxb3ZpblhlbXpBVkFtRk9iMnQ1Mkdob3JWMWViRTJicjh4Wm9HM3BlNHU5cm53WGk5ZkJJcjFFQ3JCczdzOXlkYTdRU3NSUFZRcXlkbjNEX09rUnVpNGh1TFhBd1E?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-07-19T06:25:00.587Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.482Z",
+      "candidate": {
+        "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel reut.rs/4wOHKwn",
+        "url": "https://bsky.app/profile/reuters.com/post/3mqy4mdb3mm2v",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-07-19T06:10:13Z",
+        "matchedTracker": "lebanon",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.483Z",
+      "candidate": {
+        "title": "Wife of Indian activist Wangchuk asks court to move him to private hospital reut.rs/4psRFVX",
+        "url": "https://bsky.app/profile/reuters.com/post/3mqy2wpzdgz2m",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-07-19T05:40:14Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.483Z",
+      "candidate": {
+        "title": "China's Jingye Steel urges UK to compensate its investment losses reut.rs/4pu5Hqo",
+        "url": "https://bsky.app/profile/reuters.com/post/3mqxx23b47q2p",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-07-19T04:30:32Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.483Z",
+      "candidate": {
+        "title": "Kayla McBride scored 24 points to move into the top 20 on the WNBA career scoring list and the Minnesota Lynx beat the Portland Fire 101-93 on Saturday night for their fifth straight victory.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mqy42t4gre2k",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-07-19T06:00:26Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.484Z",
+      "candidate": {
+        "title": "Ryan Blaney is on a tear with eight straight top 10 finishes, including a win last week at Atlanta. He’s gearing up for Sunday night's historic race at North Wilkesboro Speedway, NASCAR's first championship points race there in 30 years.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mqxwznwlkn2w",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-07-19T04:30:18Z",
+        "matchedTracker": "argentina",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.485Z",
+      "candidate": {
+        "title": "Sirik and Hajiabad areas in Iran’s Hormozgan province targeted as US says revenge for killing of two soldiers.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mqxwzck5ms2r",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-07-19T04:30:05.698Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.485Z",
+      "candidate": {
+        "title": "A small team is working to digitise decades of Somali history in the country’s main public radio station.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mqxvdoaw7m2r",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-07-19T04:00:05.441Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.485Z",
+      "candidate": {
+        "title": "NOW - Canadian wildfire smoke blocks out Lady Liberty in New York.  Read here:  https://www.disclose.tv/id/bwnchrnab9/    @disclosetv",
+        "url": "https://t.me/disclosetv/21515",
+        "source": "tg:disclosetv",
+        "timestamp": "2026-07-19T06:25:02.073Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-07-19T06:25:02.486Z",
+      "candidate": {
+        "title": "NOW - Head of Counter Terrorism police says Ann Widdecombe died in a  targeted attack,  the suspect is being questioned under the Terrorism Act and is  under arrest on suspicion of commission, preparation or instigation of acts of terrorism as well as on suspicion…",
+        "url": "https://t.me/disclosetv/21516",
+        "source": "tg:disclosetv",
+        "timestamp": "2026-07-19T06:25:02.073Z",
+        "matchedTracker": "october-7-attack",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.57)",
+      "confidence": 0.5666666666666667,
       "model": null,
       "scanType": "light"
     }
