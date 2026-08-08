@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-08T22:55:27.407Z",
+  "lastPruned": "2026-08-08T23:21:14.041Z",
   "entries": [
     {
       "timestamp": "2026-07-25T23:41:43.398Z",
@@ -119197,6 +119197,125 @@
         "source": "bsky:reuters.com",
         "timestamp": "2026-08-08T22:25:13Z",
         "matchedTracker": "october-7-attack",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.892Z",
+      "candidate": {
+        "title": "Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3NIUlkzWUlFSl81MHNjQUFKQkFiQk12VmNTRHhJcTE1YUoxa2Y0OU03dG5GcTVlNjM5Y2N6S3NfZF9xUkp0ekxOMVBpTm1GU0dDOFFhdUVKU3RKSHJzSEtmeFFETTR3UmJlbGRCMlBiU2pYRUdJWVJybzJCM05Vaks4Z1MxbHBhNHfSAY8BQVVfeXFMUDlyLVlYTXBFRzN4VFdRT1BYbk8xQ3prWXpVUVI1cU14aTQ1MzZKb2FCdWlweFlFWmp6SWtUNXJPSDFxU29oODFlcnNwOWlnQ2MzNUZWV2NZNXcxbjZ6MVZXdDViZ3ZaY01Ca29MM2JGdHVuSjAxTmd0NnRKNmU4Z3c2T1dOX2FwTXBvZnpzUzA?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-08T23:21:11.973Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.893Z",
+      "candidate": {
+        "title": "Senate passes funding bill to avert October shutdown - Politico",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV1R1NFJDTFZDRGdSREpub19mRGJmV0R1a3ZTWkVINURXQ1NQUi16SFduMFBHRTJvdUp3YXZhMnB5d2Yta09heHFzRVhmQklkbHd0bFpSRnZ0ZE1RQmFEMUwwbmtaRVhZemZReE94Z2JOR0hEb0t2UUNBaHZGOUFleQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-08T23:21:11.973Z",
+        "matchedTracker": "october-7-attack",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.894Z",
+      "candidate": {
+        "title": "Irán exige a EE.UU. compensar sus violaciones del memorando de junio para reabrir Ormuz - López-Dóriga Digital",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajhlTGRQd2cwdnNjaDdadi15RUQyV3lFTkptMlF6WnZsdE01X19jR1F0Q184Y0ZOdzI1MTlKUENFTUV6WGMzVkp0VGFsbjQ4SnZnRTFIX3lzN3BVcUs1a1dERGJxNlhyM2lfV2FOYk42d3RWYUtzZzhjTDJfWmVHY1ZnelhTSkxJQ0E3T2ZPTHpDME43ek1KU1JkaTNUQm1NZ0tUTGZidEVQS0Rkb0xtRm10eDNiWWc4d2hYLV9TaHRVNlk?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-08T23:21:12.306Z",
+        "matchedTracker": "digital-inclusion",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.894Z",
+      "candidate": {
+        "title": "Paloma Cuevas envía mensaje a Alejandro Basteri, hermano de Luis Miguel, y su novia, Mariana Otero - Quién",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQWNHUXRqOGhwVk9IZHdDSTE0ZW1hQ2N5QzlBZTRCMXhhRUxQcHZaVEFfRjdGamNiN3h3akNwVEpORkw2OWlUbkJHN2E1V0trd2VySzJIUHdHRVZGbFhXUjdpaXpRZVRLWEdTczUtLTJoeUJNRlRrbVE2LTRVUjhKTnpCMU1nWVZzZmdvNnNKYkxERnFCV05WN3UzS1kwWERtMEFid0l1YlZ3NUJtbVUyMGZZZTA1aV9vLU5vZFB4N2xTU2g0ME41bV92N2ZxdDgxeXBfS3BKNmnSAeYBQVVfeXFMT29la21fT1RzMWtTOVBIRFhJNHBnbVRWeldHcnhjRVNsLW13UmJ0eHJod2lTVFp0TlZuOGE0RlpoOEVFcjBLM252VzF1NEZNZkdxRFJ5VW5VcXoxU1F4cTBvU0Z5M1ZiRlZVbHVHUlNHXzlGVGtMUE5JOFVvbTFRelRqcmFkZDQwSmhGVkdkRG15elBFdl9vZFh6c3hGT3U5SVBJeldrdWpwYWkzbWZMZS1JRndmSW9iYmlfMWo4LXdPQmxDR04tZFJRbURwYzdoYmFlTkRnMXBBbDAzTHFHQUtqR2xCT0E?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-08T23:21:12.306Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.895Z",
+      "candidate": {
+        "title": "US immigration agency will finish body camera rollout this month, ICE leader says reut.rs/45NFx8P",
+        "url": "https://bsky.app/profile/reuters.com/post/3msm6nqiihx2z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-08T23:05:14Z",
+        "matchedTracker": "ice-history",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.895Z",
+      "candidate": {
+        "title": "Roger Craig revealed during his induction speech into the Pro Football Hall of Fame that he has been diagnosed with vascular dementia.",
+        "url": "https://bsky.app/profile/apnews.com/post/3msm6expwdq2d",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-08T23:00:20Z",
+        "matchedTracker": "bts",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-08T23:21:13.895Z",
+      "candidate": {
+        "title": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country. ",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3msm6eha6pb2g",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-08T23:00:02.908Z",
+        "matchedTracker": "ai-for-good",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
