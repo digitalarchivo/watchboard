@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-13T09:33:47.917Z",
+  "lastPruned": "2026-08-13T10:43:22.430Z",
   "entries": [
     {
       "timestamp": "2026-07-30T11:00:35.379Z",
@@ -122535,6 +122535,516 @@
       "decision": "defer",
       "reason": "deferred to next heavy scan (score 0.28)",
       "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.257Z",
+      "candidate": {
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-13T10:43:20.351Z",
+        "matchedTracker": "russia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.258Z",
+      "candidate": {
+        "title": "Karoline Leavitt stepping down as White House press secretary - Axios",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FRlFaSndjeUl0dW00MklmQzVNckptRUtsTkw5TE9RSDVObHpTQ0daUjJtSUU5N3hpVDBLcHl1bDFfcTZ0dEluWG5ySjNkc2JWUWhpR0RmZ1ZxNDQ5Wk0ya0JvUzhXeFNHY3dGT3RhSGdiVWdtVER0SEZwOUNkUQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.259Z",
+      "candidate": {
+        "title": "Ex-diplomat: ‘No one’s in total control of the Strait of Hormuz’ - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObm5sN3BXYTJEZGVRaVMxQXhUZmk5ejZiTF9uTHkzMU1hbFVqQVNOeWRKbENaRk1TWkZ5TWhWRk5LN1dlUWF1dVc5RktOT0R3Njk1ckNMVllFVDgwdkp5NnRYQmNZTEVnZnRLYzhmc2Y0emhacFB2TS1fS09XZmJ6bnl0ZnZlR3FycFNTZHRGONIBlAFBVV95cUxOalNELWxVTTZWbVhwUm1KTmFXOTNYUlVsMTE5SFR6djJSeDNsNDRzU2xfcWl2R3RlMG5oS0R6LUZnNXhRZWhDYUx0VVU2a0RWSk1NaFp5UTNXcWtkdC1YTGtCcDNidFgza1kxTGs1UXZTcjhKcUFCNEhYOTVqWnN6dHhNbUs0MUdhQ0d3dk10NjVEOElC?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "colombia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.260Z",
+      "candidate": {
+        "title": "Minnesota man killed his wife and child at daycare after killing another relative, police say - PBS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlFXVHNPRVRrMTV4YnZud1FORmRLbC00UEh1NjN4bW4wVUJPbWFEQkZMZ0dpdjJwTV9SbXBJaGptbGxzZWV2LXM5ZmM4cWItZ3hHUzNXYzVYQlVwSkZ0VU5fa2NteGxhZlRpTDh4bWV6TTAzOXh6b0J4cnBKSFl0S0Z3eTFqYjNteFRXejRNcU9rd2t2aXF0ODAxSGlDQURkeG5BYmNkNWJBOXkwcjI0X3JncU16Y3M3aVVRd0lZd0FRV2loMUVF?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.260Z",
+      "candidate": {
+        "title": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakZtUEFGSmJmaEVOTkhfUjZvNUJzX0t1LW1LZk5TdkxrZU1aWmJyOWNObXM4aFR1TEZodG9Mc3JHd2t2cnpvaVNsdkxQZ3B2cVBYeHIybFpUYkJPa1RBQllHemY5N28zSVpZeGtEZklLOGlCejB1UllWU3J0bGtKa19PWDd3RU8xUVJVR0U5ckxMZUlRaG5ySlBOQ3lpLTVPcnNLMU5MYWlteGlOUVVUNC1HWmbSAboBQVVfeXFMUEJRRC1IUjN4WDJkZTVpQXBRUDZuNzJlVHo3cDdZQ05vZEtGN1JnLV94WFFyYktneC1ZS0xqcVF0aHZlNEhLZHU0eURtbU1PUjQtczlpRGtXMWw3UmxtcHZyQnhqV2RValdRMFZtaEFKbGRqRkMycjB1SEQxcF9YQ0pGbU1QVkNyOFNVekQ3VXdicjdiLTcyTlI1NmxCNHdQbGZ4NDVtNVRzNS1RRUlyWUZLaGZmd0x4M1F3?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "israel-palestine",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.260Z",
+      "candidate": {
+        "title": "Colombia earthquake: Bergenfield community mourns mother Magnolia Garcia Lugo, killed in quake - ABC7 New York",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHZhNXlhNEs2SnVqcjQtc2NiSEdRbUZrQlRKb2FkZmpqYmxlQVlKaU9TdlFPNTQxTzJzWnhqTW8yVDQtTnpod0FpaXhJdHp4c3hvbkJyeENlbVFubEdGWU1xeGlERzdYWVVyVTk5VnE1M2pyQ3NvSHRPeGc0ZHlvUlNIQkdsekJYWEJtTVl0U2J0azhBWF9HYzRMbE5WczRRTGR6TEZ1Q0xVNkJsbS1wUEVfNFphYklpMXowUGxlcDHSAcYBQVVfeXFMT3BnZ3ZXOTZreVlkRnlBTGktQ2lrMmtueGkyMV84a0JxcU9fN2Jtb3RyQ0ZROWJKWDJLWmR1dEZ4QUlOVmRDcC1fLUNfeldxSnh3SERXZEYtX293ekRPcVc4bXUyZVBGUjE4UEZHUkMyNlVGQXVVUVNYeWMzV2FQQXFfT3BKSjhNa20yZEtCeXdjV1NFZ001X1RweHJkTDBEcmU1Mk1DX3h6T0h3dV9UU3F6MWh4aTlGMkoxMkdzVmhmM3dob2JR?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.261Z",
+      "candidate": {
+        "title": "Taiwan military drills clear streets, slow internet in Taipei - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWJtQnNISjdBTmZ1eGZyNXRuOXZCeEhvZnZkaDFvbzFwTXUwQmJCbjlzb2N1QzBjZFdwMFJyVXpXWWVROEZkOTRuQ1Q1TFpnSnNHeWdIRjkzTXY0c2R4clFLdzB0djh0TWdIQzdqZE5VMUNzVzc2X1ZQa2w3TmRkZVR2X3N6R2xFMlZZbkFxWmFrckR5dU1oU3VFS05SYXp0WTNMQzFsajJwa1NTOFZuWGM2SHRpX0FlOGU1MFZPSGlrUkhWaGc?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "taiwan-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.261Z",
+      "candidate": {
+        "title": "Powerball's $1 billion jackpot won by a single ticket. See the winning numbers. - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUY1eW9Fb3dINXBiT3V1bWJ4dlZzMnhRUERfT0dQLUdSRDhRaUtaal9haUlEcmNUaXd3aWUwaG13LWdpVGRWWkVPT2xiZ0daTHFfNVpSaHduVFpfLTBEUGozSlRRUjhmVjBrT29JdVBkdktYWnBneWZ5N0NZTXFTME9OQmYxeV8zQUpxVXhhOGl4SHdDamoyZGR0Q3h0ODMtaFYwb05ELWtIdzdaVklkOUZ3Ql9LNHpsaUlNbDREVDdSN09WT1Vv?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.261Z",
+      "candidate": {
+        "title": "JPY/USD: Japan’s Government Is Said to Support Faster BOJ Rate Hike - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2lBMnJHWDQydzRMbzkzQmhIRDJGNTlHM3ZtcDlNM2ZYWWg4MTJjWFlTOVRqdmhtSW9vSlBZZlVqbkxKbElpcVZrbVEwT3pkMGtzTWk4U2owMTFESWl1NG93R1NNTy1UNDlxamh4eDNBR0hVRlhadlFaUzVxMWNFdE02X24wS2ppVVVCcVJNUXRoclVtdlg4ejNjdzR0bE5uNzRYZGVESkVwOERiU0E?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "japan",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.262Z",
+      "candidate": {
+        "title": "Twitch content has trained Amazon AI for years, but users can opt out now - arstechnica.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTmNHZHFuQzlaMzBfbHFJLU4wdWZURHkyR21LcVJ0bUZvMGI1bEhRXy0yZjkzeWNITzBHRldvNzdFaVBPT2FRSE1hLXgzTDBXT2pDakNLbTR3cUJBM3NZbzItUnZfVzdSRGRaUXhvYlhmY01nVmxZbDB6TDJ2M21zd0M2VzVkZ1lOOXl1RklhSkpWUXk3bk1jM0VOSG5wVHJxRU1QcmgtMk5GZzhZ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "argentina",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.262Z",
+      "candidate": {
+        "title": "‘Reacher’ Season 4 Cast Guide: Who’s Who in the Prime Video Action Series - Variety",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkczJNTXdWUlppYjJfRW95Y2poakRsOVlpMlpZdEZFd1FfTi10WTl2dVFYa1R6MFJ4LXcwekZfZnBNeFk5bUNJQ1NHSjJfdDR4TlZ6b2c5d2pTV3lvUkE0VXYwb2FYNm5EcWR3?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-13T10:43:20.427Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.263Z",
+      "candidate": {
+        "title": "Verónica Castro llegó con tanque de oxígeno a la graduación de Cristian Castro - Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORm1kWjV4RWpzcVc3Mk1Qdm53bE4wcTNuZXdfRHpacXpZVmdjRm9xT3M5a0h1QUE3LTZFQ2hNa2k0M3ZjcGNCMEZodUxhd2NBZUNzdHBVR1ZRSW5uOEx2RWxYS1FWSkM1b2lFWnE5Z3QxTkUwMDlNZHFuLUVuYmhhTDczaDlHazlJSjZ5eTVPWEJKbVJxc1FMQ21XeHB2ZldiSkg3dGRKdmQyOV92eVVJYWRZUnY5WlFTNUM3bEdR0gHYAUFVX3lxTE5LeGZwWU9QemgxcEhYRjdGOE9FU05CTTlCOVFrOEV2T3ZubURYZENIZFhyUTZ4WEI1OG1Ma2NKRUpTUkVtN2pmbWNtdF9PaWxrYzJXSUNiR1packJrSGhDYm80SGU1QjJ2TlZEdzR4Z2RJb2xtNXNhRndwbjh6amY4Yy1CUmxSc2NTTWJNTmJWRVQtaV91LTVTUVc5Sm51SDhqM0ZEd2lLT3ZnallJTE9SaUF1bFg2dlVRUGNPdWg1Tlp2M1RwY2RsY2NhWWsyY0d0MmprdmhETA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-13T10:43:20.512Z",
+        "matchedTracker": "cuba-crises",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.263Z",
+      "candidate": {
+        "title": "Cuba marks centenary of Fidel Castro's birth amid deepening economic crisis reut.rs/4wnErLO",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxhei4nbt2w",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:40:24Z",
+        "matchedTracker": "cuba-crises",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.264Z",
+      "candidate": {
+        "title": "Nigeria faith leaders sign peace accord months after Trump remarks reut.rs/4zhgmsP",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxh3bcgmo2z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:35:15Z",
+        "matchedTracker": "colombia",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.264Z",
+      "candidate": {
+        "title": "How will Latin America's super El Niño affect the top food-exporting region? reut.rs/3TLImEX",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxgsx57va2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:30:36Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.265Z",
+      "candidate": {
+        "title": "Air India will begin mandatory substance testing for all pilots, expanding checks beyond regulatory requirements days ‌after a pilot involved in a serious mid-air incident tested positive for marijuana, according to an internal memo reut.rs/4geBnvD",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxgju2s7s2q",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:25:31.428Z",
+        "matchedTracker": "india-pakistan-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.265Z",
+      "candidate": {
+        "title": "Beaten Venezuelans brace for more severe power, water cuts as El Niño looms reut.rs/4wrRf3Z",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxgjgrabr2w",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:25:17Z",
+        "matchedTracker": "russia",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.266Z",
+      "candidate": {
+        "title": "Insight: Trump promised a sex-trafficking crackdown. His Justice Department hasn't delivered reut.rs/4qbBnB6",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxfxsmdwt2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:15:25Z",
+        "matchedTracker": "colombia",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.266Z",
+      "candidate": {
+        "title": "Taylor Farms outbreaks show limits of U.S. ability to safeguard produce from Mexico reut.rs/4qebwIN",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxfopvu4x2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:10:21Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.267Z",
+      "candidate": {
+        "title": "Bulgaria's Black Sea city of Burgas selected to host Eurovision Song Contest next year reut.rs/4gv0OKF",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxffr5ok32p",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:05:20Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.267Z",
+      "candidate": {
+        "title": "Israel sends more troops to West Bank village besieged by Jewish settlers reut.rs/4qhAcjR",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxf6aufvl2p",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T10:01:08Z",
+        "matchedTracker": "israel-palestine",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.267Z",
+      "candidate": {
+        "title": "Shein loses UK copyright lawsuit against rival Temu over photos of clothing reut.rs/4qjqa1E",
+        "url": "https://bsky.app/profile/reuters.com/post/3msxekxf4xi2s",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-13T09:50:20Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.268Z",
+      "candidate": {
+        "title": "A former law enforcement officer accused of planning to kill Black people in a mass shooting at a New Orleans festival was quietly released from custody over the summer after a grand jury found there was not enough evidence to charge him with a crime.",
+        "url": "https://bsky.app/profile/apnews.com/post/3msxgshiavq27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-13T10:30:19Z",
+        "matchedTracker": "hungary-transition",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.269Z",
+      "candidate": {
+        "title": "Lava could be seen spouting up inside the Kilauea volcano, on the Big Island of Hawaii on Wednesday.\nKilauea is located at Hawai'i Volcanoes National Park. It is one of the world’s most active volcanoes – intermittently erupting since December 23, 2024.",
+        "url": "https://bsky.app/profile/apnews.com/post/3msxfna7bsg27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-13T10:09:31Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.269Z",
+      "candidate": {
+        "title": "A new AP-Ipsos poll finds that Americans overwhelmingly see major benefits to kids playing organized sports, but higher-income families are more likely to participate.",
+        "url": "https://bsky.app/profile/apnews.com/post/3msxdptpsar27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-13T09:35:11Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.269Z",
+      "candidate": {
+        "title": "Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3msxgry6dtj2g",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-13T10:30:04.082Z",
+        "matchedTracker": "southeast-asia-escalation",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.270Z",
+      "candidate": {
+        "title": "How to stay safe during an earthquake: A visual guide https://aje.news/j6149u",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3msxf4ebgwd2f",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-13T10:00:04.520Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.270Z",
+      "candidate": {
+        "title": "BREAKING: Solar eclipse plunges Iceland into darkness  Read:  https://bit.ly/4guhT7u    @INSIDERPAPER",
+        "url": "https://t.me/insiderpaper/43876",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-13T10:43:21.531Z",
+        "matchedTracker": null,
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.270Z",
+      "candidate": {
+        "title": "BREAKING: Shooting reported at Warner Robins High School in Georgia  READ:  https://t.co/Nz1OJ6QYTD",
+        "url": "https://t.me/insiderpaper/43877",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-13T10:43:21.531Z",
+        "matchedTracker": null,
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-13T10:43:22.271Z",
+      "candidate": {
+        "title": "BREAKING - PRESIDENT TRUMP SAYS WHITE HOUSE PRESS SECRETARY KAROLINE LEAVITT WILL BE DEPARTING HER ROLE AT END OF MONTH",
+        "url": "https://t.me/insiderpaper/43878",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-13T10:43:21.531Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.30)",
+      "confidence": 0.3045833333333333,
       "model": null,
       "scanType": "light"
     }
