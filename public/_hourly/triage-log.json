@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-15T05:18:29.857Z",
+  "lastPruned": "2026-08-15T05:48:53.265Z",
   "entries": [
     {
       "timestamp": "2026-08-01T06:22:41.496Z",
@@ -126031,6 +126031,142 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-15T05:00:05.066Z",
         "matchedTracker": "china",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.100Z",
+      "candidate": {
+        "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:48:50.994Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.101Z",
+      "candidate": {
+        "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:48:50.994Z",
+        "matchedTracker": "russia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.102Z",
+      "candidate": {
+        "title": "At least two killed as magnitude 7.7 quake hits Indonesia - aljazeera.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXN0amxXeTVhSnZSWUdGc29mcFBDeG41SHNaVW1BSkJlc3JNOW5WRlZmWW1SRFM5V1pybkhwc29CMVFKS2UwQVBMUG5DMUVVSTNNX2Zud3MyU1lwQV9zN0lTdEtyZ285SHFpamdHYU9XbDNKci1MZUUtZ3o4RUk3aFBMYmZDTndLWU5uN3VKYV9rTUlQWTlFYlRnazJtbHPSAaQBQVVfeXFMT2NPVExXcVR1elh1Z29HY0V2SHlzdHRYNVNXVVQ5c3k3STQ4THBrbVprYUtxcTFZSE9ORVRIeVAxZU5VQXFtUjRuR0Zuekg4c1ZveVhaWTY5Z3JpS3JfS2FvclliZ0otNGNNX3ZwZmtxMjRPbTV0X3N6TTZpNDVsMGROZlEwLXcyTmZvYUVLSDgyMk5LSVp0YWVhMzdrM1cxTnNDWEg?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:48:51.065Z",
+        "matchedTracker": "indonesia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.102Z",
+      "candidate": {
+        "title": "‘X-Men’ Finally Unveils Its Cast, Including Adam Driver, Inde Navarrette, Christopher Abbott - The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZW9HdlI0aHhiRXFuZXhPNGxhd3Bma2xGOEFSYkZSbUkyOTZSVkczWnRmMzZsZnRPc2RheXNuVjJiem4xYjdSTl9aaFZYUThvc1E5c3hBektlNUd4NlpOWkxzV3M0Wm5yU1ZWQ0xqQlhMUkp0M01tWkRGNTk5M21JUTJHMG5aTFk3Qmpwc2VkZV9zZw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:48:51.065Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.103Z",
+      "candidate": {
+        "title": "‘Coco 2’ First Look: Miguel Becomes a Teenager in Pixar Sequel Set for November 2029 - Variety",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmoxUGc4bGwybWtHaDJzV0p0R2E0WnBvcFdhaFlmUUxGVk1xOWNhM1hIZE8yM1VZVjd4SkpudzJNYmVYeUFMRElTNkV3eFJoeTZZY3hpXzhGcGQ3Y3hKVUhwSFBpSFhtcDFWbEthMUs2Wl9yQ04ycnFTRGZQeUh6LXpEMDkwdmtYNmcyeFJLUkpCYW01a0xab3B0Mk0?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:48:51.065Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.103Z",
+      "candidate": {
+        "title": "'Avengers: Doomsday' Trailer Sees Avengers Facing Off Against Dr. Doom - Variety",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY09GMUt2bE1UMkxNMzRwWGFDT2lKS2NfbHBiZFlqMHVmS0VjNVJBNk1EOVFHMW5ETTQ5U3JCVzNlM2k5NEtKbEhBbV96b0dBTVN2VU0wa0lJS0hITXQyQVJqZFFqVkx1N09xX0plT2Rnb013Wm9RRmNkY2FvY0pDVkJR?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:48:51.065Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.104Z",
+      "candidate": {
+        "title": "Estados Unidos asesta un golpe al corazón de Morena con la retirada de la visa a Andy López Beltrán - EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcU9kNENVbmVNSVZnMG1JdEdvalRGN3NjWm1aYlMxZTNPUW42eVRYNWhRemJyUm9ZX1MtRGNFeHBidlBOblB3TGNnUUZtV0h6dDFRRkRmVXd2aEY3SFFoa3Yyajd3c0xldWtHUUVGM0JLR3dfUkwyc1I1MTR3czNYT3RTQV91M2JQTDNUSjFxNzRBN3FzS2ZaWnpIdVBsUjZLemE3REMtd1Q5Wm83dHpJVUQzclEwZ0trdzRoSm9mbUp4V0hLYTdjSGRxT2g2U3JTenhmUk1haW_SAewBQVVfeXFMTjBSaDV2b0RnenhEMHE5UllLRGRqN1p6OU1WX0loVk9OaG9VRG5jZnpmNDhKaWNWaXBLdmZPb1IxTk1EN0E3QkljMUlQcVg4UjhSRndRSnJmLW5qYjNwaUZjeTJxNGlTcV9GUjV1N0dPaEYxbWRRMzFLcnpHMllPcHBic1RvZ2RDVmJJdHVRVGZPMTM1ZHg4RlZCNnN5TXJua2E0ME5ad2RMeEZxZDU3RDBYZHdfbVVzVHJabmhIR1BYN0ZOTXQzTm03VXRLQlpVdXh2TDFjMWpWMXlyMzVwTGJnek13ZjJwdk8yX0M?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-15T05:48:51.129Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:48:53.104Z",
+      "candidate": {
+        "title": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mt3wxetdl62s",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-15T05:30:03.855Z",
+        "matchedTracker": "ai-for-good",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
