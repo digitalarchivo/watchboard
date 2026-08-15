@@ -1,364 +1,7 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-15T20:15:49.573Z",
+  "lastPruned": "2026-08-15T20:45:33.142Z",
   "entries": [
-    {
-      "timestamp": "2026-08-01T20:41:59.712Z",
-      "candidate": {
-        "title": "Tourist plane crashes in Peru, killing 13 ",
-        "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-01T20:41:57.243Z",
-        "matchedTracker": "peru",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.713Z",
-      "candidate": {
-        "title": "Crowds line Amsterdam's canals for Pride boat parade",
-        "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-01T20:41:57.243Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.713Z",
-      "candidate": {
-        "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1RxVTZMM09DS0NWejJ2Sm5zd3JWeXZycnhrUzFoWXpOVEdQcWZuVGNGZzZabmg1c3o5bkd1WkxYOUZWVWlyV2gzR0NaMmQ5Zm15QW5FUWh0MTNSNUpZcDRYNUZiQkRPZzQ2UTBEUlFPRGtmeVpaOUE2R3BUVUtfOUJneW13Z3hSLWdFUkY0VFQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": "ayotzinapa",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.714Z",
-      "candidate": {
-        "title": "Trump says he’ll revive ‘anti-weaponization’ fund if Blanche’s nomination for AG is blocked - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQm1aa1RPYjlFM2NDSlZ2bEl2Skg4REJtdTRVR3lZbGZyYlg5RWZvNVY2RzhHMmpEa29NeS1hMk92T2tyTFkwQ19qVkFiazZQNWMtLXNRcnFkYkFHeWFCdDJ4U0FkUFFJa3NyUzJ3RGJLTi1CN1Z1SkhzeTN4VEFtcUpQZmE1NjBTOEg4RTUwOEFFR180X1pGOGRHdjZSSmlGR3loRVJPZjRvNkhTWk0wakFEZ2x6Y3QzbUZaSGdaMVY?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.714Z",
-      "candidate": {
-        "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - AP News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.714Z",
-      "candidate": {
-        "title": "Fauci's Fifth fuels vow to haul him into court 'every day' despite Biden pardon - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcy15bUdVVW5BUmRYenBKNlNOOExucEFtVDdwMUVubURybXBiR0RsTExXeld4WmdzaDY2LXMxQzBvWG1VTDVmMmxTeGxvYkxXQXVsMkpXdHNUS2ViNUY1YkU2ZVV3bVMzLXBvcDBFeUZQOFU5S2lCNE5NMFdvaXhMT0JDUkg1QzZOWUFqZHFGcC02d3kzWFdtS2xRc01rbk9yQ2fSAacBQVVfeXFMTUhRd1I2a09TUzJrNnRTMkNNMlUybHlSLTBpRzJ4OTlkT00tU3dQcDFKNWQ1aUFtZV9STFc4MEZfQkw4OG9NZGoySng2RER5Mm5keU1jbDNjT0VVVTVmUTdEMk5fbWg4T3kxRWdlNXJvb2pkZTJxb1VlQ01qMnFaM2FKMllkOFFUdzdOa1ZPdi05Z2ZDLWxLQTRncjg4N2k5dEFqb2tULVU?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": "united-states",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.63)",
-      "confidence": 0.6333333333333333,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.714Z",
-      "candidate": {
-        "title": "In Trump Gaza deal, Hamas disarms, Israel withdraws. Neither wants to go first. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2tiWk1QM2V2TW5jR2N6UkZOdktDclY3WkR2aHowRDhKaEJ3T2NDbWQxdUVlNmhINVJQT0xKNFJyMjdnbHFHcGNJODlRbzRaTkhtQXFlOFZUZTNRNWFYNnZRZVNLWnA4QmUyalppRjhWeGVScEMteTlvYkc5a0xsTTl5NHZPNU1rdXJtUnRtN0ctZWVKeUNkRmpUSkZUM0h2SEJCRVpBdGNEYjN4UDV1elNXM05qNGotZHc?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.714Z",
-      "candidate": {
-        "title": "At least three killed in explosion near cafe in Russia’s Moscow - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0NvY2FSNF91RXB2Y0ZtS0pINjJwNHRCZ2FlRGVIWkxGZTZPcXNkbGxzR3k3R1lNcGJPTngySnQ4cGlYbElyMTJOV1hnN0lzc080WU1qY3RFVjZGb1paOTNnZFhIbWwtV3JWcUc2TGR2Z3hRcHNvdVNydGc2bkN4LTNndTJxVjhGakFzNDdvd3E0cUV1UGF6NNIBngFBVV95cUxPbzFfUlFiWWFPallxRE1EWEJrWVBmTjNnaXNXT3U2b3VxclVMSXFONHlZNV84VG5KNnA4MFlxTHVLNFNIb2l6TTUxYVFWUW5JZ2wwblZPSVJVR3FUSTRqbTlTaDJPYlMyY0p6MjhvVVlLOTRGM0tsdktwOWZfeE9OWXlaQVNCamg5bDBfVHI5d0ZPaGtxUnA4YTVmUDdZQQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.715Z",
-      "candidate": {
-        "title": "Major airline cancels 81 flights as strike looms, no refunds - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDNMY2R6N25fWXhjY2s0a3BZQVhBOEFzNldlejg1dzVyc2hSei1DRjAyZ2xSRHZSbUpmRmtaalVlSUhkZ3pxRzV3YThtWUl3aERBeXlhN2ZCTUI1LWFBNFE5SXNlbERSeHhUUnFwY0Y2dlZoMUp6TFNuSkJ6N3cwU3lPdjBsdEFhZmh6a0FvX04yOWN5aHVn?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.715Z",
-      "candidate": {
-        "title": "Exclusive | Situational Awareness Down 67% in July in AI Stock Rout - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQU5JNHQzN3pOclhOS3Q4eV9CYW9mbW51eHJGNERTeHZDcVVld3FpM0h5UTVHZGJGVXdFMzlTVERxa0RCSnl2OHhfTktmeDNXNW04Q2hOeHpYaW9udlpra3kzQnFqZnhyVmY2UThfNE9OVW5vaHBfRlM1eEJ5NUdOSW1pLWhMazF2Zk93b2YzdmRkTjI0ZlVJdUJZQXQyTnhYeG9j?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-01T20:41:57.326Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.715Z",
-      "candidate": {
-        "title": "Escándalo en UNAM: la universidad tomará un examen presencial tras las trampas en la prueba en línea de admisión - CNN en Español",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGxCSXVKU2Vwa1g1M1lPakIxYy1ERW9LOGs4VmJqS3QyYzhfSldIUU1wWEhpYmY0dXppMXFKbFFrVlpVMW9CMC1FQjlHOGlFeDhCakxUWVJyQ091RENKTEs0dVZsRE9CQ09XQkVuVmpCUEw2aHVRRVhiZFF3NlY5UUx1QlZCc2tSM3c4OWI2T0VKazJJdXpnV1FEZU1IT0ZwekdwYWFCbw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-01T20:41:57.353Z",
-        "matchedTracker": "tlatelolco-1968",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.715Z",
-      "candidate": {
-        "title": "Instalará España valla de contención entre Ceuta y Marruecos - Reforma",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGpodXRxdFowQ0gwMnF5THoyUk1hcUszOV9SeXdpd2tEOFJ3b3Q0RVljSi00ckJyOXNJWW5jS1RQVVlNRzRnXzg3ZTFJam53WWJUdHlERHlmUEVZU2c1YW96SF92RF8yMDRSbUNYbnpOVHMySUxYZmhRUjMtbEg1VktGeVIyUVpubldFZW5PVnFuZ3hxV0xDVEtn?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-01T20:41:57.353Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.715Z",
-      "candidate": {
-        "title": "Encabeza la Presidenta acto de graduación de 211 guardiamarinas - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HelYwNDk0amNuSlRNR3RDbnNfYXpKZ2d3aVJXVUhaMUV4aUo4ZTFweEVkRFhZbTNZNnZZczNRc1Ixck1lTkRBcnM4QVYzUEpWUTM0VHZqWjFkdE1GbDZxNmtwcjV0UQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-01T20:41:57.353Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.716Z",
-      "candidate": {
-        "title": "Muere en una avalancha Nirmal Purja, el alpinista que conquistó las 14 montañas más altas del mundo - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hNFZ2TTVRSnlIMEM0WV9MbXozMUpreV9jZURwUUxIaEpUZ0V4ckRGLWtuZlN3SW5ucEJaSENGR2NGRzZuX2h4QnFTOW1hZDBhNThnZG4yMVpZUlnSAWBBVV95cUxNMnZfU29JMC12RzlVc0NpTVppSEVPdzhwRFhhcWFaMzN5dGxWRGl1WkZobFRnTUJCLUFFczlPdUJ3R1RObXBOSDZDYXhqLUd2dWZTcGp2eDlHZVlzdWI4Wnc?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-01T20:41:57.353Z",
-        "matchedTracker": "tlatelolco-1968",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.716Z",
-      "candidate": {
-        "title": "El sedán de Chevrolet que baja de precio y busca poner en aprietos al Nissan Versa: cuánto cuesta - autotest.com.ar",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMUdHT1VHQms3VGNWY2piY2s4MC1obnZhTWhUT0ZMaExUTEtBYk1waVNfUUhsY1NpOGRGd0dqUG9CNk5SSkV6Zi1CMnV0WFpld1dISFVrY3dBT0xwbTJJeHNubnRzelZEdDdkNFUxMkd5Zk1PT01wNUlGLU56Ykp5SGYyV1RKWXFKemJsS1Jid25rcFZpNXNyS1ZtYnYyWWhxX1B2NzZLekV4R0N4bjQzWWFVRHFkWWd1M3g0SW9PeHJYSm9ZZzQtVldR?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-01T20:41:57.353Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.717Z",
-      "candidate": {
-        "title": "Atacan a Soldis C4, rapero y productor mexicano que grababa un videoclip en Guadalajara - TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0cyLUhCUmpyVzIxaFhxZlZHYlBPTWVrRmZxNTRhbEM1eU9IY2hiNWgzUGhpNTRrdVBJcXVGaktrVXJ4dnJHTUh6VWJmb1BjX3dnQkFTYUtmdWFpWExMdTNBRmJnUFcySURscEpweXBIOGhqamo0NUx4akpWX2lYejFzRmNHMlc0dWxXWTREN0cwN0NMVWJTaFVub1I2Yl9uV2djTTd2OU5BRUV5b29MaEdZUELSAcIBQVVfeXFMUHA0V3dTRDQtajB1akYzeHJab3dncnRYSlhuRF9zem9idjl0R1dLcVE3cTlGWFdFWnUyeFlaYTRrT3lJOUJwT2xHM0xxUFBRd3RtdlBuVEpfOWFDS1ZXNm8yeHdjMGNISDA4NDI1anBwcE1icjdRYXJka0lFRjQyQUNUS25vTm9HUEU2NnlpZV83YzhLbl9oeDdfRDNjRlcyNEhiUDV2Rkh5bjlXUGRXUEJKeV9sNk9yQi0zODlsWGlYb2c?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-01T20:41:57.353Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.717Z",
-      "candidate": {
-        "title": "WestJet begins flight cancellations ahead of strike reut.rs/4g5LvIe",
-        "url": "https://bsky.app/profile/reuters.com/post/3ms2cgxhs3h2j",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-01T20:25:06Z",
-        "matchedTracker": "mh17-shootdown",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.717Z",
-      "candidate": {
-        "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines, TVPeru says reut.rs/4wH8WO8",
-        "url": "https://bsky.app/profile/reuters.com/post/3ms2b3zemru2k",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-01T20:01:06Z",
-        "matchedTracker": "peru",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.718Z",
-      "candidate": {
-        "title": "For the first time in more than a century, a total solar eclipse is coming to mainland Spain with an even longer encore next summer.",
-        "url": "https://bsky.app/profile/apnews.com/post/3ms2b2nowag23",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-01T20:00:20Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.718Z",
-      "candidate": {
-        "title": "The US president pushes back after a federal prosecutor says damage caused by 'botched' installation, not vandalism https://aje.news/x49h6u",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3ms2cptjryy2v",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-01T20:30:04.696Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-01T20:41:59.718Z",
-      "candidate": {
-        "title": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3ms2b27jgne2m",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-01T20:00:05.282Z",
-        "matchedTracker": "september-11",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
     {
       "timestamp": "2026-08-01T21:36:52.588Z",
       "candidate": {
@@ -126173,6 +125816,176 @@
       "decision": "discard",
       "reason": "low score (0.00)",
       "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.959Z",
+      "candidate": {
+        "title": "Five injured in shooting at Virginia State University with multiple suspects - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWi1iTUpwVE5FQTlDSnZmUmZlN3ZXb1E1XzkyazluMVA5YzNtQlpZTVVrVXhoLWRVa3lxd0FweUttOWVQZjdEN2tZeGFrRVpxRWNhVjM3eFRqUQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T20:45:31.122Z",
+        "matchedTracker": "battery-revolution",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.960Z",
+      "candidate": {
+        "title": "New Disney CEO defends ESPN amidst sports losses - Awful Announcing",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFdFcS1Tc0IweTlHNnJhR2dQNVY2NWh1eEdfMVkwRGFJRS1OTWgxQmVfR2JMWHhaM2tLNWV2SGNnYWFkSVBlNXJuYnhlencwdF9mN0MtNnpUNC01dnl3LUN4ZVJZeUtwalNjZUtuUzloSDYyaHU2OWotdUI5SXBvVWF5ZThTSlJO?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T20:45:31.122Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.961Z",
+      "candidate": {
+        "title": "Engadget Review Recap: Samsung Galaxy Z Fold 8 Ultra, Dell XPS 13 And More - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGtETlBzMV8xZno2Z052QVRXWS1WdGkxZHkwd01FbkhLdzlkaHB1bktJanYyWDJnUXV5akk0bG9HbWpfVkxhcURDR0QzQUpVVVdjT1p2MzdTZERTR1ZnRmdRQ1RlQWQtcFpzanNfQlBaSGFYWmhia001UmFLT0pjU0tsSjNrX2YycHVKS2RkZl9OcmhUY2hHbnRiekJ6ZjhfaElWN2luZkcxZw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T20:45:31.122Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.962Z",
+      "candidate": {
+        "title": "‘Quieren al grande’: Hermano de AMLO dice que retiro de la visa de Andy López es tema político - El Financiero",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV1UtU1FGNzBFZkdubk96Y1ZXd3RUb1FpZ3lnVEtlODYyZzdvcUNIc2JadGZMc0pKdW1Bb0xnakl0QWwzMktISHl0dU1FV2d3VjdicUEzU080QnRjZEpmSV9XQldUQ2xycUF4Vy1lMTJHQWJJQXJHZ0N2a2JrZy1uV293WGFIMmp0VXExS1FubXp1MjNLZ0dfMjZzaHhIU0dyUkpxRzRNT3ljQmE3NXNjTE45OHpuN0tiY01BVDlILXpydWhlRXVqdVZndkY2YW13RGl1ZnNmRENTeFk?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-15T20:45:31.185Z",
+        "matchedTracker": "amlo-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.962Z",
+      "candidate": {
+        "title": "Amazon remata este kit de taladro y llave de impacto inalámbricos DEWALT casi a mitad de precio. Incluye dos baterías - xataka.com.mx",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEJiV2RIb2xxb1N5d3g2NVZTa1p2QUtJUWtyenRuYTFXd0FWMnhkVTRCUHRscDAyY3g1OGstdXIzV3pqQ1Z0VzFnZ3BGYi1KblNPTUFsalQ3SkUwa201WHZWaVQ3UnA2SlNjTFY1UnpNMWk0Q0g5NWdOdkd6djVKWWJZcnYzakpqdkFRaTBvSXVVd2g2VHRDcXNvbFVqS2NTYnZiNHFOUm1uLXJmWHBzSnpEM0NpN0FjQllFQVljUWJkM0Y2Mm9zYV9sVU14MFY5X0NsdEhhb1nSAd4BQVVfeXFMTUFFMjhHb1ZKMFVHcGZHdC1uMF9aYmFqV2otVm9meHZmTWFvNFVNZERqUG5TcW5XVVFuTFpOaURlU0o5U28wMTgyUUw4b3Rhdk4tVmY4alVseWloQkl3R0ttN1h1NUhQOEx2akc2ZkZjVnVub0tWNzg3ZG1JRzR0ZTRQZHBOS255V1BrSVNiakpzMldpV2N4ajhmX3ZrN2FJQVEyVDNyWUtwUWhIM1A1c0cxdVdoZzZJWmxDVWFVRnJvdDZsaUtZNmFhMkpVWC1QSThndTdoU19GNjNhZlFn?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-15T20:45:31.185Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.963Z",
+      "candidate": {
+        "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake reut.rs/4zmfnrt",
+        "url": "https://bsky.app/profile/reuters.com/post/3mt5iy3qmk52r",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-15T20:25:14Z",
+        "matchedTracker": "colombia",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.963Z",
+      "candidate": {
+        "title": "The AP Top 25 college football preseason poll drops Monday, Aug. 17. Sign up for Top 25 alerts and be among the first to know where your favorite school ranks. bit.ly/4hUOg0z",
+        "url": "https://bsky.app/profile/apnews.com/post/3mt5jb4hipr24",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-15T20:30:17Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.964Z",
+      "candidate": {
+        "title": "Some of this season’s top college football transfers simply followed their coaches from one school to another.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mt5jaznlx22c",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-15T20:30:14Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.964Z",
+      "candidate": {
+        "title": "Canadian petition to expel US ambassador gains over 170,000 signatures https://aje.news/tujcjq",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mt5japzy3d2u",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-15T20:30:04.767Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T20:45:32.964Z",
+      "candidate": {
+        "title": "BREAKING - Indonesian authorities urge evacuations after powerful 7.7 earthquake: official   @insiderpaper",
+        "url": "https://t.me/insiderpaper/43923",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-15T20:45:32.171Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
       "model": null,
       "scanType": "light"
     }
