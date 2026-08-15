@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-15T09:37:38.668Z",
+  "lastPruned": "2026-08-15T09:57:03.932Z",
   "entries": [
     {
       "timestamp": "2026-08-01T10:20:53.178Z",
@@ -125980,6 +125980,74 @@
         "source": "bsky:apnews.com",
         "timestamp": "2026-08-15T09:31:48Z",
         "matchedTracker": "cdmx",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T09:57:03.766Z",
+      "candidate": {
+        "title": "South Korea proposes talks to officially end war with North",
+        "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T09:57:01.237Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T09:57:03.767Z",
+      "candidate": {
+        "title": "Nvidia’s $500 Billion Plan Envelops Wall Street in Its AI Frenzy - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXdSMVh6TXZpUWV6Y21CSS1kZmtWOTZsQ29fMGhUWVRFSmE2YVZ6Uy0tMHQtUTNVNHBzOTNnU1lmRVotVHFHa0JldmF4WTFpLXpiSUtaMzFERGw4MTJxMHVVYUZuRnFQeEEtS3lpNlp6dVRGM1pmbHkwcUhXWHctSzNvMHJac1ZYZWlGQ2xBYXY1ZVg4VktoQkFZYjVzOHk1bDZLTUcxRklNR2dMeU5la1FRdXI?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T09:57:01.298Z",
+        "matchedTracker": "reforestation",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T09:57:03.767Z",
+      "candidate": {
+        "title": "‘Avengers: Doomsday’ trailer: Robert Downey Jr.’s Doom squares off with Mr. Fantastic - Entertainment Weekly",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSUg5NkxXb1dPbERDUTJVcnF3c2dLUnVxZlVjdU4xRzMwWW9CUk9vZVA3OXdaRjZNLVRWM0w3WW1YZld4WGxSX0RzWUhzTlhDNzdzSERsRVI2RmZQdjJObW83eUdCdmZfWklLNnUxd1F3Q3hZZ0hVM2ZDXzVfQjg?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T09:57:01.298Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T09:57:03.768Z",
+      "candidate": {
+        "title": "Summer campaign has led to capture of 19 settlements in southeast Ukraine, Russia says reut.rs/4wqe1cF",
+        "url": "https://bsky.app/profile/reuters.com/post/3mt4fiqjxvk2n",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-15T09:50:19Z",
+        "matchedTracker": "climate-solutions",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
