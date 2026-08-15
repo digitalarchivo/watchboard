@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-15T04:54:44.806Z",
+  "lastPruned": "2026-08-15T05:18:29.857Z",
   "entries": [
     {
       "timestamp": "2026-08-01T06:22:41.496Z",
@@ -125759,6 +125759,278 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-15T04:30:04.628Z",
         "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.696Z",
+      "candidate": {
+        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:18:28.603Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.697Z",
+      "candidate": {
+        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+        "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:18:28.603Z",
+        "matchedTracker": "france",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.698Z",
+      "candidate": {
+        "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
+        "url": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:18:28.603Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.698Z",
+      "candidate": {
+        "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+        "url": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:18:28.603Z",
+        "matchedTracker": "india-pakistan-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.699Z",
+      "candidate": {
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-15T05:18:28.603Z",
+        "matchedTracker": "nigeria",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.699Z",
+      "candidate": {
+        "title": "Colorado Was Targeted as Trump Fumed Over Election Denier, Email Shows - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83eEUyUElDZlhFeGl0enRfbEdwVXBfcExUNHYxRVZUWFA0bmRhRFhKOTFzeHJCbTVvRzVRM2pMQWVnQkJKazBqYXJTQjZFOUZFYjlySENGZ0o4dllQeUtkRU5wbXNra3I5NlR4OWxqM0dwTXk3Vk5iLQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:18:28.669Z",
+        "matchedTracker": "mx-political-history",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.700Z",
+      "candidate": {
+        "title": "IDF troops stood by as West Bank settlers besieged Palestinian homes - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVlDSUI1YlhJYlFrUUZ4dWZNclhsLVRfTWdsallwYkpHaTNaME9IemlxbHNhX0tyUmJXQXBOdl84MUtJTVUtQlRSVlBtdEowcGlvcTRiQ3NOcnFLUWJpazRWeEZTZmFmTVV0VWVoNXo0aUdjdTFJcnpnU2MyWmJjNnhJMUNmYnlydmJ1Z2oyOEM1a1NtV1RFaVBGSjlPNS1wazNTQ3JiN0tYbFZyOGpSUTVwU0Y?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:18:28.669Z",
+        "matchedTracker": "israel-palestine",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "update",
+      "reason": "light-scan posted directly + queued for heavy scan (score 0.95)",
+      "confidence": 0.95,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.700Z",
+      "candidate": {
+        "title": "Alphabet becomes Berkshire Hathaway's third-largest investment - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:18:28.669Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.701Z",
+      "candidate": {
+        "title": "You Don’t Always Need a Student ID for Apple’s Back-to-School Deals - CNET",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUC1QNGpmUUw1SGhOVG9rZ1NucnIxanBPbUdyLUVOeERhaVFPT3ViT092bm9EaFhHdXBfZkJORjdMV0tfTVhPYTVkdkd5WGdSQkg1ZUU5a2VPZlNqNWx1alE1M28xWEFnU1pkZzhiRTRlNWRnSlcxS3N3S2ZRaGNoc1ZjQTV3NHpvTGZuVQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:18:28.669Z",
+        "matchedTracker": "tlatelolco-1968",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.701Z",
+      "candidate": {
+        "title": "‘X-Men’ Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm - Variety",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUdhMUJPMkxZQUxuRmN5bk1VWlhRV3EtaWlfbUU0SS1YNi1iNmk3clNlVXVndUxjUFFOYzJ3ckxjVmVUU1pxTjFOWlYwYl92UUZXU3ZmZ21qSzc2dTdzMU0tcHRUa1Qzc2dJQWZxQkxFbUMzZ0NqRjVYMVdObTJjM080cDctaC1RVlp4TV9tQXhFcUMySTIzZU9GbG5ReExqV3JrRXE5WEZJQ1RoZnpzeHpkRXJnbzVPeTY3c0VVa28teVo1enB6VA?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:18:28.669Z",
+        "matchedTracker": "amlo-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.702Z",
+      "candidate": {
+        "title": "Inside Tallulah Willis and Justin Acee’s Woodland Wedding at the Bride’s Family Home in Idaho - Vogue",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14eE5tYU9DRXZpX3FJcTk5UzdtREdERDhUck5JSVh1a0pBT2Z4b3RmNnhxNkxra2tEV1EwN1dUUXhyc1lBMlZIbktoQ0xGZkN5cE5NM3lfZWJ2Y2wyeGhSYm41MmNyenB3bmg3TFp3cmFzUktDY1hvdUpiMA?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-15T05:18:28.669Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.702Z",
+      "candidate": {
+        "title": "Jason Arday, académico de Cambridge bajo sospecha de plagio, es hallado muerto - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWZYbk9OSERUSnVoRUpnMUhHNUxscV9Vb0FfOWtiZTlDazF4MU9rY21GVXFKMFBBRlFnTE1PUDFUY3p5MVRDbnZHRU5GOTZhdFNZOFVreW1VamlDY1RNMy1iNTFDUDQ1QS0ySzhyVnpuTzBNbXJhWUVWcVhCdklCLV9ETTd3Y3hhVXh2OUlB?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-15T05:18:28.992Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.702Z",
+      "candidate": {
+        "title": "Golpea ahora a España un sismo de 5.2 - Reforma",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43YVd5SThrc2ZROE9RenZjU0FZZ2I0NmVxQXctckNTR2szOWEyQzhtaVUtNnEzTVJZQlRmZk9EREs1M3NrV01CTjJnQ2EzaFk5RGllV0hMcUxfWTU5M2JwdF9oT3NBLXhsUXRLME5pMTY2bXFfRUlkajAwZw?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-15T05:18:28.992Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.703Z",
+      "candidate": {
+        "title": "“Primero sané, después llegó el amor”, Paola Rojas nos presenta a Jorge Suárez Azcargota - Quién",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXo2Z3JLUlBxcDFvRjY3aHJGMWlJQVBzOHZBR2R1aDNlYm5fVi02U3V5M1I3RnV1MFJqdjU5Ulh1YWhwQTFKT21lRm5NbzVCdUZEOW1FMExnNDFaUVpEYTRuaGloZXVYcUxGdHV6RlY5Q2gzSWNhZ2NzTUxpM3J6b1F1eFFxWWNMNDdpeXdOWV9kOUVuR29LX2ZQZkJjVXVLWXfSAa8BQVVfeXFMTTFCbEF6OWxrcEpaYWktdlF4dkJEM3hOMjVUb0k0M2prcTl0Y0J0NXFMeGJ0SmFHY2JCRHpvUjh6bHo3WjEtdWNVZ2tQWXhIejZjOXdpanpNQkdBZ29HSGNKWkVpbGRrOHF6bWtyWVJDLTB1LWZDOW93b3B5OWpPVGZ6bjVoeDltTGVRNGtyN0dSM1BkSnRGMVgxa2o0c0ZWV2ZpeHJHV1RQalpSZ3czMA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-15T05:18:28.992Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.703Z",
+      "candidate": {
+        "title": "Australian golf mourns as 18-year-old rookie Jessica Bang dies in Thailand.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mt3uyyfcjg27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-15T04:55:10Z",
+        "matchedTracker": "iran",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-15T05:18:29.704Z",
+      "candidate": {
+        "title": "Taiwan passes defence budget after record delay, retains drone funding https://aje.news/w9gvbl",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mt3vbrgidm2g",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-15T05:00:05.066Z",
+        "matchedTracker": "china",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
