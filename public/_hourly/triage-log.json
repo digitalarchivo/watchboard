@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-16T09:58:18.442Z",
+  "lastPruned": "2026-08-16T10:23:39.297Z",
   "entries": [
     {
       "timestamp": "2026-08-02T11:05:59.451Z",
@@ -126921,6 +126921,74 @@
       "decision": "discard",
       "reason": "low score (0.00)",
       "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T10:23:39.143Z",
+      "candidate": {
+        "title": "Ukraine attacks Russia with hundreds of drones in one of Kyiv’s largest aerial assaults of the conflict - cnn.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmdSWEZ5NElROFpKM0FTcGFmQWhhTGluZmQxbkRpc1B4NmxsaUdkV2Z5a1BsejRueTlTRWxJZUhUWklTQkxWdy1WZnpJSzMtVmxLeDNSaXR3SXo4WkxRWWpfTXoxT0J4a09RSW1hNDIyblRJN19QRFRFSE1KRUdMMw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T10:23:37.940Z",
+        "matchedTracker": "ukraine",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.36)",
+      "confidence": 0.36416666666666664,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T10:23:39.144Z",
+      "candidate": {
+        "title": "South Korea fired warning shots after North Korean soldiers crossed demarcation line, Yonhap says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRvOURLLUdqSXQzZDQwSXJCNVU3WHNVOXRGVnNtV2Rhc1A5NEhTQkVSN0tRWTlfOEFoODhhMnVQQ1lReWZQZ2VlQU1Vd3k0bmE3SGdiNDYzaWhWd0stbDVKalpRZl95cS1VSG1IZi1YMFVDcXhsOVh6ZnNSNElVQy1pM2w3WUJYSzFvcGZFT0ZTMHA3SS1VdS1fS2hwaVhpX0dJRFlRQlNTdEo4NER0RGdkRjE5cHhIMUtlWHphNEptQ3lJUVRENjB2aXN6Mk0?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T10:23:37.940Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.66)",
+      "confidence": 0.6570833333333332,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T10:23:39.144Z",
+      "candidate": {
+        "title": "Reddit stock is surging thanks to the S&P 500, but it hasn't solved its big dilemma - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGNSd2ZMSGUxdUNWdVhqeG0tb1kxYU9kWFV2VkIteXEyYlBURlpTMk9XdW10eTNtamxRZTVnOHZtdmhRd2lKZy1tdEhzY0R0UXNOT3lHU0hQcGVNMXVUcnYzSV80eFRLUDhYdHk4R1ctRUhpQ3diWXVXUmt1aFJqYXZFZUQzZzBIR0QzUUlGaHR0a0FsZ20wXzJnOTVJdF8xM2VxbzR4ekF2TDNZOG5Mek9xa2NiOFRnUmExMHUtd3AyZV9sM2c0UmxxbDAyb3JTbUJqZk1rRQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T10:23:37.940Z",
+        "matchedTracker": "iran",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T10:23:39.145Z",
+      "candidate": {
+        "title": "Explainer: Trump wants more economic pressure on Iran. What are his options? reut.rs/3RWSom6",
+        "url": "https://bsky.app/profile/reuters.com/post/3mt6x364xpq2d",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-16T10:10:10Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
       "model": null,
       "scanType": "light"
     }
