@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-16T19:58:16.817Z",
+  "lastPruned": "2026-08-16T20:17:49.658Z",
   "entries": [
     {
       "timestamp": "2026-08-02T20:33:31.415Z",
@@ -127023,6 +127023,91 @@
       "decision": "defer",
       "reason": "deferred to next heavy scan (score 0.32)",
       "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T20:17:49.467Z",
+      "candidate": {
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-16T20:13:51.703Z",
+        "matchedTracker": "colombia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T20:17:49.468Z",
+      "candidate": {
+        "title": "Meet Dave Brat, the US ambassador who ‘can speak Trump’ in Canberra - Politico",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEFXZXE2ZllUckNpZGpoQktwaDNqQVR6dzczY1ozVHA4MkpHcG1hUndCaTNRQWFNX0lpUHFxUEZnQzM2eC1CVGhnOVpCWjJlcFlhX2dsTkFBSE42QVdFeGx4eFN1ZlBIeWRlcER3LTkta3ZZYmxpelZVR1h0WUdYTTAwc0daWlU?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T20:13:51.772Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T20:17:49.469Z",
+      "candidate": {
+        "title": "Brazil's Lula and Flávio Bolsonaro return to their strongholds to kick off presidential campaigns - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlBoRmhQRUp0V2J5aFNhVEhOSW9FY3pKQkVKdko0UE5vRjN6WjE4VUU3MEdGSTU0UTZ1RVB6Uy02QjJ5eVN4bkx2bHo1UUZscGtWT21EQWhUb2lzWHlrTUctZU9OME5KMF9UMHh5cF9KaFYtZko2QV9GLVc1N0FaLUlsX1czTTNzbk5iOGxFaUpmTnByaEVlUy05UTlTbldORWIxVGhn?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T20:13:51.772Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "update",
+      "reason": "light-scan posted directly + queued for heavy scan (score 0.95)",
+      "confidence": 0.95,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T20:17:49.470Z",
+      "candidate": {
+        "title": "‘Bendito Dios, ahora nos pagan’: Aguacateros de Michoacán celebran reinicio de exportaciones a EU - El Financiero",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY2FSRHpxZXhUY2tBYUVycjU5S2pKbUFXYkN3bjlDOFVFSG4ya0YybG1BUEFPNm1rQnItenQzS1o1OHU2ZDRhTmlHRzV1WW1xel9CeV9VX0syTkhJdEtLTS0tVWxrdG1vY21Wa1ViLVN6aHd6ZHZLNEo5Y1lmNWM2YkxaaS05QzZMM3hOUTUxbDVFZ3dwcEhwblY5ellzazQzSTNuTzB2SXJKUmpOTWhBVFhuczUxMmc1UHZFbGpIVFFYQVpkcURtdlE0b0dZYmNHd3FYQ2FLUWhTSGVlcmc?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T20:13:51.802Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T20:17:49.470Z",
+      "candidate": {
+        "title": "Seis muertos en ataques cruzados entre Ucrania y Rusia - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmhvY253STY2RTlGT1I4T3lxbEVXRUtxZ3RILXYxTVhPdmpNeEVkMnVGdjVXTzhvYkROdFVzajFsZEVBelBSRW9vaGZRc0h2UTVMczZCLThPMHI3cHRBOEY0Z0FvQ0VYZVpjRnBpa0lyM2NUbFNlbjNUcEZyU3pkMGxfTzB6OHBHS291VU9mYzLSAZABQVVfeXFMTkx5QWVHclVCaHpmLU8wRFlxckw1aDQ1SHdxQmc0TVI2WXlPYWtQUU94aDdyNUFHd0JYdDBxSDd6aEdWOE5xZXhfWmpiSXk0YlNzb2Z4TnFVUFFaQkRDcV96enMxRTg4cnlGeFFMbHZGQjJxd0k4VnBfeFRqXzRSVFhFbmZ4RlFKYk1MaFdXWUEz?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T20:13:51.802Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
       "model": null,
       "scanType": "light"
     }
