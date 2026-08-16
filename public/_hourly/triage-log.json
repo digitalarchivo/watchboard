@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-16T04:58:33.323Z",
+  "lastPruned": "2026-08-16T05:29:37.720Z",
   "entries": [
     {
       "timestamp": "2026-08-02T07:17:20.654Z",
@@ -125725,6 +125725,210 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-16T04:30:05.128Z",
         "matchedTracker": "covid-pandemic",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.559Z",
+      "candidate": {
+        "title": "‘Super’ El Niño looks like a done deal; what it means for Minnesota’s autumn and winter - Bring Me The News",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE1sVmRmVU5qMG1wM1FvOFIwUHJpLU40Y0drV3lITGtzZWJJZFR6Z2k1N09rVWJsY3VYeE5xWTV5WEc5ejBCSk54NUZDNXliUDdIZTFzb25HQUtjb05IaldiNE5lODZnc193ZWVwMzI5OGIwRUs3dF9QWkFnOERKVHhFbWMwVHRLYzNDemszS2dMRElENEcxd1h1Z1ltVS1ETG1Ybmo5NDYzeTI2YjNYS3VkeWlGVk9iVk00eXBPT19oRWx0ak1F?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T05:29:36.023Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.560Z",
+      "candidate": {
+        "title": "Leavitt and Ocasio-Cortez spark conversation on challenges of family and career - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12N2xybHJYeUZqdFg4X3JlLTBPOFpvTzRwcGN2RERxVWQ4Y2ZRYkc4cl9EX1JvZmcyaU9PSHl5NTY3U0pmNGR3a3VUY2Z0OTVkLVh5U2ZXZjhJdw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T05:29:36.023Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.561Z",
+      "candidate": {
+        "title": "North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2p1U3RrcWFybldKeEVnT0l6SjJKWlpCUGlNVXlCd0RseFdVR2g2VVc4emNtTGdfU1Jub1kxQTZpaVZRN3duQUhVYldjaUhVLWhJS2RqcnR5akVlUDF1TlFERHlGUTVvMWxzQWNkQzNDY05vdjBxLThaSmlTX2dzdlVpdkJ6dUlnOVRPZUxOM29Oc0MtWmVHQzE2NzNNdUlnalFDcXhvRURNRFliUWd1RUwzRkw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T05:29:36.023Z",
+        "matchedTracker": "north-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "update",
+      "reason": "light-scan posted directly + queued for heavy scan (score 0.95)",
+      "confidence": 0.95,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.561Z",
+      "candidate": {
+        "title": "Apple has a huge product roadmap for the smart home: Here’s what’s coming - 9to5Mac",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNVZNWU1Rel9jcW8xOVMxVTFOdkM2OEpwX1A1Ui10UnUyZjVjcVNnTUdtQkhqWlBWVFc0NXdOTklyN3dySHFDbzJBdlRLeG1FbGRTdmJuSGd6S1NHUGwwQlRGbDIwVmpaNU1GcE5JQnhCRUY2WG5uWVAzSzRqYVMxSnh2WWV0WDdPd25V?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T05:29:36.023Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.562Z",
+      "candidate": {
+        "title": "Onda Tropical, Monzón Mexicano y vaguadas ocasionarán fuertes tormentas hoy viernes en más de 15 estados - Meteored México",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdlhNdm96S1pxWi05MzJKNnE0a3k5TlZSUHdseHB4bVlYN2ZITFpHTVctWEFJeEt4VkFQT2pNclllN09oMWxGcmliTnVLQzNnV2thUG10c3RXUEV4TUNtT0I0dUNsNlFJWnJIVVdKa0lZZmpkT2RYYjZmU0RkdHE5VXRSTzFrMXdhOTFVU2VQcHNFMUtmNFl6NG92cTRTZUx6WmVxd1pBX1Ata2dyVVAtOXdVbnYxajlJTmx3Nlc3dzhnN3M3YU9TX0tDM08yR3BaeHp3ejF6eHRoa011UU91bDNmWlVoQzNEdkl0RXVUaVFKRlE4S05RYUplRHZ3QTN2c09VZGpBamwzYnlNOVVKdGlkWmE?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T05:29:36.119Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.562Z",
+      "candidate": {
+        "title": "Gobernadores, líderes y legisladores de Morena cierran filas con López Beltrán - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTBlSy03N3ZFenY3YTdhVDFDY2x6NU1BUTZMVDZEaGQwVk16S2lnQ0RYZTVaX1NvX2F5aWtibTIwa2xkTlZOZnNtTElReTVrbUxsbktOLTdQamIxa1Q4a0l2QUNBek1aYXZfalVuTnhmWnY5ek96NEtpZ0RfXzA3aldTelhYVDVPakxPckN1NF85NHNMMHY1UHBGYm1vdkhxd0pRckFJR01mTXYzaDBkemt1b01Sb2pTclE1UTRhbE1KT094d1g2V1NDUXg?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T05:29:36.119Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.563Z",
+      "candidate": {
+        "title": "SEP abre convocatoria para guías y promotores del nuevo bachillerato nacional Margarita Maza - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVzhyclh6cXJpRDlsV2lvajZEbWIwdmI2bVFxSzhqSHVMSHR1MHJrUjl3dm9TYWI1NGpRYnFFTGpZSFFFdUhzbXc2YlFQNE5JbTdPV25yQlkxampDczluT1NWWURiNVRFUTZOSTEtZmF4OTkwTlExQm5CWG5ueG9XOFRlQTZVYXBXeERnLVJ6UmZLUWVuZ2hEaTFqUkw2OURDQ2E0SVRZeEIwd0hlQ0d3RURBODEtamZqTzI0Ykw4XzVWX19YMmRleG8zS0JkQ2pLWDAzVDVIOHpmQ01oTnByNA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T05:29:36.119Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.563Z",
+      "candidate": {
+        "title": "Es experto en asteroides de la NASA y pide prepararse ante un posible impacto en la Tierra: “Volverá a ocurrir” - La Nación",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb3FHOEpzRHFzNU1BaFNBaGNNanRxS3hxNjBhaUgyN1JpcGMwLVJyNDJrajBNazlFX0ZMOGE0MUpOMmJYZ2NmY2JWalJPV1l1ZXdUd0NUNHBVT2xtb1BNa1ZUSDRYczRwRE1SSWRITmV4SGFocUo5b2dWMUktcTNKeDNJTE9yTXZMREFiT2dTX055SEdhMlFJelZKWUNkWkkwMHFWeERoVHlnQVQzNlVreU1Pa3RKa0w3ZHlFeUV0TlVIcFd1cGl6TzN4VWJfVzN5a3Z2RGRjZHpycmNPczB0X3ZtdTZvZHlPWlJJUA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T05:29:36.119Z",
+        "matchedTracker": "artemis-2",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.563Z",
+      "candidate": {
+        "title": "Miguel dará el salto a la adolescencia para la segunda entrega de Coco - López-Dóriga Digital",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpMSUFiTGdSTE44V0JyWlhsMGZsbktPOHl4VjI1enFmTEZxdFFHT2hrLUVxUTJoaVZ4UEJXYXMzc08xV09VaE45dldUVGZBY3VoWXRTZTlpZkdtVHV4REZPLUhDaVhOWDg2Mm1zQmFJa1NLNHVoMUdwNDRFNVZfQ2lxV29hVVZOX2gyRURwZFNuOW04ODJ0Yk03VF9tWjQ2ak9HZnFRbVA2YWc3VEV3dA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T05:29:36.119Z",
+        "matchedTracker": "digital-inclusion",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.564Z",
+      "candidate": {
+        "title": "Susana Zabaleta y Ricardo Pérez habrían dado por terminada su relación tras dos años juntos, aseguran - TVNotas",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT1E5eUZKOXpLb1YySlVFZ0RpUzlLYUlqWXV0clZXZWdLajJlblRDT1NZR2llaXhEUktmNkJJOFFRWm1VSHhZVW5KT0h1OGRSc2ZCZWNKQjIyQXZEV1U4NE11TU16RjFwWWt1ZlhOc0hrMXVMYTROOGNHUHM4TnVDTTVQRXV5N3JBLTdNQkFPOFF5Vm5hUW5SN2ZiMTZ1S0ZGeGJzOG43azFlZjNXbG11eUl5LW0xMlpCdldCMFZlXzVobnFBc1B5bkE1bDc2bmpxV1B3WjNIYzhULXFJZ2N0NdIB7gFBVV95cUxPVFp4a0xoVHZ3cEpwY2o4RDNYX195dDBWOGxZcU9pVzkzWDdfd2s1ZF9BTExLRkpYNWl1OEoxdUEtdWh3YlJwSTkyczBMbFp4Vk9tZUx5a0Vwa011TjhycWpXVXYwNTlXU292WlBoTVY4b2VEbGNZNmN2UmNGbGpFQzJqbVluQzREcUVIcEU2UV9MWS1yUnRHc0VNZUpQc0Fici1YcG11Q2xqdW1UdzFCYWVJUlpsRHZZX3NEZW81b2JacVRIOVRpR2J6YUtwWm1vLUN6dG5PSlJwMVFxczFOci12UVVveFU1SzF4NmxR?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T05:29:36.119Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.564Z",
+      "candidate": {
+        "title": "Europe's heatwaves expose insurance gap as business losses mount reut.rs/4wyEpkz",
+        "url": "https://bsky.app/profile/reuters.com/post/3mt6h5ocdso2c",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-16T05:25:14Z",
+        "matchedTracker": "france",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T05:29:37.565Z",
+      "candidate": {
+        "title": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney’s Bondi Beach last year.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mt6fqp4b362u",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-16T05:00:05.249Z",
+        "matchedTracker": "iran",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
