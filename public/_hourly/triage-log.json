@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-16T05:54:20.606Z",
+  "lastPruned": "2026-08-16T06:27:08.499Z",
   "entries": [
     {
       "timestamp": "2026-08-02T07:17:20.654Z",
@@ -126048,6 +126048,125 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-16T05:30:05.509Z",
         "matchedTracker": "artemis-2",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.288Z",
+      "candidate": {
+        "title": "Hawaii records 140 mph wind gust as Hurricane Lala bands pound islands - sfchronicle.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG5aRkRvbVl2bDNlTElUUjR1bml5V1lyV3hPWGswSWNhaGREVmlOYWhQSnNXNFRPbTVXVk1qcGx5TDk1bzlLR193ZGpPLWpnd1lZWS1CSjZncUl4cXFTdUZjalg5dHUtczlmaEgzbE94Q3VYOW9hOFp6ekFqVG5iMkQ2dFRaTUd2WlJ2eng3XzBxS19pVHVBWkNn?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T06:27:05.084Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.288Z",
+      "candidate": {
+        "title": "BREAKING: Reimagined Tomorrowland Finally Announced for Disneyland - wdwnt.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3RUcnJJR1Z5YjBLQ25HSzRlRUNQckRVNmNLVU5uRWg4VngxTmNMQVhjempsaVlrWFBCbFRvc29oR1hzX3hKQ09TSmZpYWo2WnZzN2JTaWxVZFRyM0M5Wmhod25mYzZ1c3FOaGdOc2NwdFRjbHo0WlByZFY2QVczZDVMTjVxM3FvRlhNejdIdmExcm5yTFZZ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-16T06:27:05.084Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.289Z",
+      "candidate": {
+        "title": "Estados Unidos asesta un golpe al corazón de Morena con la retirada de la visa a Andy López Beltrán - EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcU9kNENVbmVNSVZnMG1JdEdvalRGN3NjWm1aYlMxZTNPUW42eVRYNWhRemJyUm9ZX1MtRGNFeHBidlBOblB3TGNnUUZtV0h6dDFRRkRmVXd2aEY3SFFoa3Yyajd3c0xldWtHUUVGM0JLR3dfUkwyc1I1MTR3czNYT3RTQV91M2JQTDNUSjFxNzRBN3FzS2ZaWnpIdVBsUjZLemE3REMtd1Q5Wm83dHpJVUQzclEwZ0trdzRoSm9mbUp4V0hLYTdjSGRxT2g2U3JTenhmUk1haW8?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T06:27:05.501Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.289Z",
+      "candidate": {
+        "title": "Familiares viajan a Colombia ante falta de datos sobre mexicanos desaparecidos tras sismo - López-Dóriga Digital",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVo4VzJTLTJxRDU3bWdsOTMwVEU0NXdja3hZLV9qLVFESHEzT3pBaktFMEpGaUpzWXRmaFpPYTFrS1dTai1NbWM1djFqSzBjcWxMc050NWdLd29UY0RabjFtZjYzd0dLcmlLcncxVVhSTlkwc1RTNm91d2tIbXRUVlFCS3F3bDlVNnBTX0EzekhpX0FMNVB3WUhMOHNzV0IzYzRaMnVNeWxMcXRjNktuUW1Nb1JFaktVNTh0a18wLW9QbjNtSUFF?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-16T06:27:05.501Z",
+        "matchedTracker": "chile-allende-pinochet",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.290Z",
+      "candidate": {
+        "title": "Twelve killed and at least 10 injured in Polish bus crash in Hungary reut.rs/4xCwzXY",
+        "url": "https://bsky.app/profile/reuters.com/post/3mt6jx6qjig2p",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-16T06:15:18Z",
+        "matchedTracker": "hungary-transition",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.290Z",
+      "candidate": {
+        "title": "Elena Delle Donne and Candace Parker’s WNBA careers were intertwined with so many great moments. Now they are forever bonded, enshrined into the Naismith Memorial Basketball Hall of Fame as part of the 2026 class.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mt6j4d6quw27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-16T06:00:16Z",
+        "matchedTracker": "mencho-cjng",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-16T06:27:08.290Z",
+      "candidate": {
+        "title": "Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mt6j3wvco32f",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-16T06:00:03.671Z",
+        "matchedTracker": "argentina",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
