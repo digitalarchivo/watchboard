@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-17T05:30:01.944Z",
+  "lastPruned": "2026-08-17T06:01:44.080Z",
   "entries": [
     {
       "timestamp": "2026-08-03T08:22:50.509Z",
@@ -127833,6 +127833,210 @@
         "source": "bsky:reuters.com",
         "timestamp": "2026-08-17T05:00:43Z",
         "matchedTracker": "israel-palestine",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.906Z",
+      "candidate": {
+        "title": "Ukrainian strikes kill six in Russia, acting governor says",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-17T06:01:40.890Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.907Z",
+      "candidate": {
+        "title": "Lake Powell hits record low, threatening key water and electricity supply for millions - PBS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFRXWXRfN3RmRFhnTHVEeTMxYll5QmNnN09RU1I4WHpjSWRwUUpIVUNvTGlrc0VQNUNsaVRGWV9EMU1mYWlyT1JtSWFSdFY5TzBxRG1NM3FDRU9pVVlyRms0Sm14dmdWWlJBMjRIaDJmRjdLcHQtRnd5NnZfNGljbnZzcEFlODlzRWdvX1B0M1Nwc3pVZDAtbGRFN0xxd2JFNC0xSUhsd1otVXkzQ2ZxcE84MXYwZWVPTVRTclZn?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T06:01:40.972Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.908Z",
+      "candidate": {
+        "title": "Sirens will sound before detonations bring down Centennial Mills water tower Monday - KGW",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSjhuRjJqbjRDYldqUzlnc1VoSU5KODJRMXJTa1pENVd5a1RCT3hsNFBRWHlHUkJkNmhCUW41dkY4Tk9BTkxPV0poMGxKUG5EVERLQzFaUWc5cEEyUExfMEctX3dtRUdFc09aWWtjYVppeVVuUmhNcWdGaUs2UnhNUUxTeGU2U2Q0cXpTeTYwWjFTU1RhZVdCX1JmWFg2a0d3eUZVX2Z3aU5Dc3dNWFBmQ3FONnhscWZBdGhZZjNMODlNY1RDdFVlZ1JINTZ3NURwQ2VnVk8taXp1Ty1kaFp1VkluUVM3bjRkeUM5a2x3?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T06:01:40.972Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.909Z",
+      "candidate": {
+        "title": "Ukraine-Russia war latest: Seven dead as Kyiv blows up ‘Russian Amazon’ hub in largest drone attack of 2026 - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjV3MEVEVW93MEZfTlg0eHp4RlVBQ1NGZVdhUGkzRzQwSnN6VGR1UDVVc1FFSDEtRDMxWVp0enY4ZGN2cFhxaXgtSElIQ1NpX1VwVFU0VVVuTVRYT0lpSUEwMEFoQUV4Rk13SEZKMjFzXzlVczVQOVRyTmN1Rm1Hd3VhNHppQ3p0ODRvempGbkdqSDVvV3BiYW5GVTZtNm5Tb1I5T2w5UDNjdnhtV0JiVDZlNUxJc2pxN2xPMmdBaFc4NjQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T06:01:40.972Z",
+        "matchedTracker": "ukraine",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.36)",
+      "confidence": 0.36416666666666664,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.909Z",
+      "candidate": {
+        "title": "Falleció la actriz Hayden Panettiere a los 36 años - Reforma",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY3ZuSDlTazBzam1sMzE5RGkzTnZWUng3SDdhNWhlYjduYm0tUERpTC1VVlJ5dFZXZ3A3TDdVclhHT1loa3dxV1d2cWJqazZGNzhtQVFjZ2tyNnVNY0dEWHpSaGJxcW5PeXY1VDRwVU1kd0VkNDF0Nm5KdW9XOHZsdk52UFJmTWZDTzZUbA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T06:01:41.041Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.910Z",
+      "candidate": {
+        "title": "José Ramón López Beltrán publica foto desde Buc-ee’s en Texas mientras su esposa Carolyn Adams difunde imágenes en Disney luego de la revocación de visa de ‘Andy’ - El Imparcial",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNWlNaekVyWTlaMlYtRUVSQm1tbXBsb21HS3Q0cFZCLXRubG5SMUw4ejZQVF9NdHRJUWxpTDRSMGw5Vm90SnVXalAzTVZyVXViWTRYcnYyNG9nekJKX040QnN6OUcxTHhaNm12ZEh0MkNGdTkzZ3lUNmNqOThFZExvOGlYT0Y4Mnk2WVpaMGdLZWZ1X1JsMnNaLWdNMERaX2JLVGRNbUxvRUNuRHNqNWJGUnVTd2JnMkhZS2xXeG9sQkVZXzNCb1NKSGxuTl94WEdVak4wWXg3NDhLbi1TZjhaaHZYSXpWRFNsZDJrMTJ3d2FVcDc1blpXUTM0MGozT09wakZQQWdZTkoyU2ctNEJKRFpRUFZ0eldB0gGzAkFVX3lxTFBmczlIYjlQTGxKYzBOTmlyMnNZUzY4NDVhTDY1OVg0Q2pJOFZScGJBY0tRVGxVY2dHeTFFVjRtQWtMRkN3ZUxjYzhUTWExTmRRU0wtenhzdDRmTXdnbE9rS2p5RUpvbmhIcnllaGx5dGVNanBmaTZhMHRiWWN1Zmx0VFM1TWhSekQzVWJOV2RYLVU3MWRpUk9yT3o5c2tZRGM2YUN0dDduaVYwdGZ5dWNqRW5FTXMtekhFRTU4VDR1Q3J5T2VtcUlGNmVIdEYzdm0tSU42eF9hU0h6R0k3QXdRYUNUYm8zbEZXRjJ0cmtLM0VtQVFDdWJCcmJldHI5aHJKZ2VuMmVucUZCMkRoUHJNTExnbloyc2VSRy1fbmdxWVlMSVV1aG9LSS00VkZEeFNqM00?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T06:01:41.041Z",
+        "matchedTracker": "mexico-us-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.910Z",
+      "candidate": {
+        "title": "Abelardo de la Espriella reparte balones en Quibdó, una de las zonas más devastadas por el terremoto - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa2JrMm5GUm5pM09MUFBYZ2x1QmlheFJYelQyYllzdVNSNFZWamlQQ2ZPb0NpWlhrbDhXbUNsS0ZjTXIzNzF3LWFxY1QwVHVvbUtYU3o1WGtkYmxvNTV5WDU1TlRKaHhkcklWUkVhcGhieldXVzFPZUJMMlYtZHRvT1VnM1N1NzRfYzNQZnp6aTNrV3k5ek5RckRmY2RHQm5CZ2JNTHZoSC02X2hSSElRUGFhb09KSldEemtJbXZZdzdxZlJQdERBRy1xVW9yTHpncWhXTmV6ZUdROXU1bjc5WG1pbEp6QQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T06:01:41.041Z",
+        "matchedTracker": "tlatelolco-1968",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.911Z",
+      "candidate": {
+        "title": "El creador de Halo ha jugado al remake y tiene varias quejas, pero pide dejar de lado el odio inmerecido que ha recibido el shooter - 3DJuegos",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQ1lVTHdwQUJ6TkNzVkgwQzc1VXo1c3VObzAzMXpveWJvdF9vb0YzLS1BUksyOGF1anBXeFgwSGNwMmdraDJNX21RUXllejQ4OFRuN1JrU2R3N1lUZDEzcXJXT3ZmTW11cWRTLTBqaXg0YkZNdEpjYTFfOVNRekMxSDh1VDZWQlpPRTUyY1JoSGJ0bkdsUUtHLWszbGVRMGI5d2lZYVRSbk1ySzJOZ29ldEpkTzZXOXJZei10QV9ocDZGaFd0N21CU294bDhpcnctUHNCeGUzbEdpODgzVHNGM1d4cmlyUERRXzJsd3Q4Z0hVbTFLS2pXcUZoM0huMThp0gGGAkFVX3lxTE1rd1BWcEdWWlc4cTVnN2ZIMWppa21meXRhM3U0MThLNk1jaEpUMy1zTDhXRkVZRlcxZThOemxOS3RsVWJjV3BvbDR5eGpEdmhTZTRLLS1TenpmWVFLREhXcU80dy12OVU1eWRsYWZILWZWYVlWSVRNWHo1NXlpdjFqVXAwOFdjU3RTQjhEZHVTdG5HS3JFRkxjU2NyYVRfOWMzMWcyTk1VbEtrR3JpbTdmY0RzQzMyMkVLS2xHd1BuRVRCdWFNeUE0a0RNOGhuNXJ2dFR6b2tJY3FyR3ltWThIVlNLWFBsOVdnNXVpUUpiRFRLLWpRTWpoWUpzSWQyNHRWdkxEV3c?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T06:01:41.041Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.911Z",
+      "candidate": {
+        "title": "From Breakingviews - Breakingviews - India's digital payments fees are a necessary good reut.rs/4xaEQCU",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtazmbdmbe25",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T06:00:51Z",
+        "matchedTracker": "ai-for-good",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.911Z",
+      "candidate": {
+        "title": "The week in Asian football reut.rs/4fZDIvE",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtaxvqeaiz2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T05:30:21Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.912Z",
+      "candidate": {
+        "title": "Caitlin Clark and the Indiana Fever looked playoff-ready in their 95-91 overtime win over the Atlanta Dream.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtazl2hhrl27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-17T06:00:10Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T06:01:43.912Z",
+      "candidate": {
+        "title": "The fatal incident reportedly took place amid a rush of devotees at a temple in India’s Bihar state.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtazktyvha2d",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-17T06:00:03.560Z",
+        "matchedTracker": "battery-revolution",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
