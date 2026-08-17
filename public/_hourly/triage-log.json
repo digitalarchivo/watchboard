@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-17T14:59:37.139Z",
+  "lastPruned": "2026-08-17T15:28:45.430Z",
   "entries": [
     {
       "timestamp": "2026-08-03T16:55:03.297Z",
@@ -129641,6 +129641,482 @@
       "decision": "update",
       "reason": "light-scan posted directly + queued for heavy scan (score 0.95)",
       "confidence": 0.95,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.248Z",
+      "candidate": {
+        "title": "South Korea hopes for talks between US and North Korea after Trump downsizes military drills - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkUzQy1BOFR4MkVSdllHaWV4Sjg4N0lMMmlzXzNTZVB3QjctZDc3aTV3X014d0c2QXpNSEVndy1qQkhZZFZoUmNoVTMtaUZvOG9FVHVFUTduTElOdndDMnc3eEtxa2doT3dOaTBJV2R2WVR2aFprZTVCdlRFMlRGaDc3VDUtMlRhWWhfcFN2VFRmRXhHTVc4WUhYSElrZlBWUXNUMU93?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T15:28:42.468Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.249Z",
+      "candidate": {
+        "title": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T15:28:42.468Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.66)",
+      "confidence": 0.6570833333333332,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.250Z",
+      "candidate": {
+        "title": "Capitol agenda: Congress tries again to police itself - Politico",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHhZeFh1ZVh3bU4zY3pjMXUxYWN6c3ZSdENWNDFlUU5lellyY2E3S1lHeWRwdWU1T1BZcURyM2FmbmRSdVNRSnFZY0xMUXMzLXhxVjBkeTNiVFpBaEdXTTdYTXdNUUNOcDRzQ04tTkpISXcyQlYwTW9YWGNRQldrQTJBeWJtbDNLRVpQaVJ3?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T15:28:42.468Z",
+        "matchedTracker": "uap-disclosure",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.250Z",
+      "candidate": {
+        "title": "Nvidia to invest $100bn for OpenAI data centre in Ohio - ft.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOEdXR1M2dHNQbklPaU5lV1ZnZUNqS09yWVQzQkhmTnFGQVE3QmlzNG9neFhZekpNeVRhN2xneFVDTl9tRmRXZXc4UU9sLXFsbHVzUDVSajhnV3Qya3ctZHFXUXlTWEU1X0xFZlZpZUx4MGRDa3pVUkVmY1lDeDdnUWNfYmk?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T15:28:42.469Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.251Z",
+      "candidate": {
+        "title": "Micron: Strong Buy As KOSPI Fear Looks Overdone (NASDAQ:MU) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjBETXFmOVZUaEQ2bGw3TGx6Q3JxaS1ZU08zMWhvUFFSemQtMjVfdk1wMUJwaGFRWEx2UklPR25ESFlsRWpVWFZCU0NRNGc0WExiQTNERG96b3RaaHdJZlpDcWRFM2kybnBmcURKcWZXZ25qdDRYblM5MG5OVExmMFIzLS1nUnVWbmNGUzV4cVE?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T15:28:42.469Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.251Z",
+      "candidate": {
+        "title": "Samsung is reportedly building an even wider Galaxy Z Fold 9 for video viewing - 9to5Google",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnJMcUhhSHUzM1JCbWxTNk1OamdhbXk0dUllTHNJYzA1QjhVbFVjWVp1UFN1dHg5NkRqeTIzY3BOVkVBUDZuVGlVSm5HOVQ3V3V0WmMycHRjdUZKWEQ0QTFyOGRwNHlBdW1ra2RtMThLQ2FMUzg2d0RveC1nUFQ5RGhOVUlhVF9TeTdWcQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-17T15:28:42.469Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.251Z",
+      "candidate": {
+        "title": "Más de 20 estados avanzan en la regulación de celulares en escuelas - MILENIO",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY01wamlYbnFHT1JYc0hQLVpVNE1fTlRuSTlXT3VoOWw3LWR2TC1xcTIwSFZ3QUZ5QzdzWHl0aUVmd1d4bkhLX0w2ME4weTBnejBMTmRCemt2dE9qdWwwZkQ3dHIxY2loVFprdWpteUlpSGw2TnRSbE9ielo4ZnVxVWN2MDlSWDZaRWs4SGFR0gGOAUFVX3lxTFByZGgzNlpOV2hDZG5Ya2h5RFNVWTBrQXhfeXcwUVh3NjhjXzJPbEhzNlFUbmpYS2Y5d09CNHlfLU9vOFBvZWdWN3lCWnBsNFkxMGFkZ2NZQTlzZGlsaXFRWVZtakhJN01oX2FCT3U5X3VlQWxmb3NxdERQMG90bDdYTUNOTnZLVnRzTkpFZnc?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.252Z",
+      "candidate": {
+        "title": "El motivo por el que Andy López Beltrán se adelantó a revelar la cancelación de su visa, según expertos - infobae.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHJNczZjeUh1SkdVRGpLV0hlQ0V0dk1zX2x5bWhXamFycERxdTBBSHB1cDJ3TXNmQnliNm9nRU1FVUFBMVVtV3NISW50dnI4TXN3S0EyNnlNN1prNnNCR3MzMjc4NFd2TnVKV1d3Y1ZMVVdaN2s0bjJ6VEFUczVvbUlFeVNNM19tRl95MmRLX0NRNXd5bEtqN0d3RmVFTnZVcWlNUzl2alhablZPVVVRVlZ6U0ZVLVdQajdhTE4tVXIzcVpuV0FWaVBtSUUyQW9scDktSnBoanRaTFVua3fSAfgBQVVfeXFMT3lQLVJ2YVNsUGJnMEhSd2VDM19wNnFQeVJJRGYyMEtQcnBGeUNCOTE4bXpqZWZXMXJJbGNnWW1oc1JOeWVCTGRHRjA3TkFVTzNVZ2NMN3NuUXUyNHZYOGU0b2tTb0NZeE16Mm1WcXRiUU1IdnQ3LUt6V1hqT0ZnQUxSaDZTc2t2VlVYbmpudzVKRVFpb3FORnRHaEd4c2NoLXVPVVM2QTF2ZjlYTDNjSnpEdklSZFZMZWRWTk5lMmVYaGhRUzVGWHlXTVNUb3FQOHNNRDJQUGR1TENnRGJrTnlYaXJqa0V2X1NBVGxzRFU4b2xFZk1EUEg?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.252Z",
+      "candidate": {
+        "title": "Marchas y bloqueos en CDMX hoy: Calles afectadas, horarios y alternativas viales - SinEmbargo",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWZaRWpGSk90bWRua0FmaXVvQmpkam1XU2xjZHpkbkZTbnd6T25GNWxLd2ZDcFpIRDFjdk5QUmJEUjFrbzNhdUd6eUQ0SEJGaXlmdDlvWG92SkFOY1NkOFdNVDBzTl9UeUppYTBSdWZ6cnFOWGlRbHFlcEZZN0VSNmNPRV9sTWttZFpsSS16aXBfTDhIaHNsTFlidnNPWGpheUM4bDFkQ2hRSnkwOGRHT0IyTQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.253Z",
+      "candidate": {
+        "title": "Ronald Johnson anuncia devolución a México de tres fugitivos, uno ligado al CJNG - infobae.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY1BqMkd6QmlmSVpGSVJmdUFfZnJFTWRURndPa1VWODZDTjhmVE1TNGF4X3RjQV93RnpEYnNIME5VTUpqaWx6TjlfVHg1TnRnQUx6RjNBMVRuR0pyZ1h5eFZ1UDcycEh2a2JxS0c3b0RRTmowU0I1dVJ0alhyMUx2aVM5cFE1VUhXcHlHYmhNVE9YYVJ0bnVLQUdPQ192eElodXpTWXU3SVlUdDZkMkFOdzFqbVdnT0loZW1ab0htcXNIWDBOYVFDVlhGbmozVEsxMXZiNTNnT3JYSzFpRVdENU130gH8AUFVX3lxTFBoUXJrWEVxRlB5ckhISXloeTZuaDhCMDhOZlhUTlpPMzhuYTRzeGdEMmxPR2x1X29qOFNQd3Buc2ZmVUFyOHZHeWdSVVBlYTFhMGhrTms1emRjNE1LM0djbU5Qb01rSDZGQV9WZGxYVEh1bEt5emotN1lvUzNYc3lyWjNUNjJyMTh4RFgwdWhhcE03YmF6d0xoZkVvRHhseVdCMWx5N01EZ3h6bEpoWl9uOGdzQUZjTXFxU000c0dTNEQwZEY0b25YTHBJUU56VkRwN0hZNE8yS0pwWlZuNlBRMVNaYjRQRVhqVU5DdGUyQ3pHTHVWNkhoNkpNcQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.253Z",
+      "candidate": {
+        "title": "EU ha retirado 175 mil visas en la actual gestión de Donald Trump - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGxxdU51OFZHbmJqUkRyemVzdmY4Y2JPQmFxX1ZQcnl4d014c0xQMnM5dDZkSzdQVTlITGxsdHU5MnBZUkFuRzRJX2ZSWkZCTV9KcU95YjR3STJxSnUzTXkwN3FEdDZsc09nRTZZcmhFS0VvY3NEMTY1V2VqSUQ4eTBXNFdlTXVTYnhrNWxTVHhXNlozdklwYlNTOHlVMFZCWHFwNWY2SS1tNUc5Q2RYeVYzX3M1enh6d0V0ZA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.253Z",
+      "candidate": {
+        "title": "6 ejercicios que los fisioterapeutas recomiendan para envejecer mejor - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDc2S240ejl2Wmh4QnZuYXZPN25WQkktc2txbDBtcks4dDVMNlVLVDZSVFR1ZDNMYjlQczNIRzVrNlZ1TFZaNzZrLW56ZFc3RDlMNmMtOU1lcDRldGxfQUNZaUNnRXoyckhPVWw2dW5BZTRvcHctN3RibEd5SFp1RGtaV0I3dUhjWF8wc05HNHJTX3NJYTVSbUtB?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.254Z",
+      "candidate": {
+        "title": "Resultados Sorteo Zodiaco 1757 de la Lotería Nacional domingo 16 de agosto: Premio mayor y ganadores - Diario de Yucatán",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSWpJWGpIZ2ZXU19EaUxTeXBpVDFhTFNsakEtbmZZbng1NVNVUmxwTGFQQVlaQW1kOXdCNVROY1Z2aHRJeWpjLVlqTmRCRjhnTHlncG9kbUwyQjZ0cDB3bnZWRU5iSkU3aGpGb2V4MDRtUWFiUElCMDF6WWhfMEhXdHk0M1dHZWdvQWhVcE1kM0V0Q2lwc3RBVXJzT1ZuZDUzVE5EcmdaTHRuNkFfNVFmX3pJeGdFUzdYT1lrdUhWczc1Q3VCQVdHcExDaDJ4N0F6cjNXQmNuZlBmZGlmNjFQQ2xGQQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.254Z",
+      "candidate": {
+        "title": "Pierde México 4 años con litio - diario.mx",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb0tBUC1jUmlPcWxkTkRpcks5a3VlMk12aW5aTURGWUYtWTJHQTZMbzZIRGdqeTM1VXdKNEtDSnVPZWt0dHgyRDdERVltajdyTkk0eGt2amNNRWtBUUdOckVqYUZDM2ZrRFU1QkJwUjZlRlpCVWpZSXJ4MHFQQTgwT09iQmtxSERqdUHSAY8BQVVfeXFMT1QxdGJxM2cyUGxCbFhXSWlfcENSSGRRSW12OXpuMnZWSm5ON3l3Xy1uNDlkU01EX1E1RVlrdzBfTy1nNXBLdHdvSXEyWkxLcjFoS0VrUlZYRXlHVlR6Tm5CdUQwVEViTTdMQUNLUlQ5SnR2X0c4TWNGejdxeVZleGxiRXh5OHlsR1lGTXVTeDA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.254Z",
+      "candidate": {
+        "title": "El telescopio Euclid halla monstruosos agujeros negros del Universo primitivo con un brillo jamás imaginado - Meteored México",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUGN1QXR6Mzdoa0ZDRXdTNnNpdG94VkNUY0JsM1J5dVJHZllzYWQ5MnhZUGVQd202MThJSVJzMEE1enFqOE5hWkRKUHVsTnRFQk9ESGhlNGNqbDNmVUpuUEFjYkZiVzRBQUoxSHNNclZVWUlrbkdjU2IxVVdFbWE3MnBZS2JHWmhSSkFyUEtHNmxrQjZzclpac21oVmpsZ3JPZXFmaUtENDBDUk41SGZlYVZFTG5vdU9DaUEwWVhyXzA4QzBRZFEyVjE0RUVQaXRaWWxsSUJncWlMNnBvOVhVRVl1emgxb19BTFBMZg?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.255Z",
+      "candidate": {
+        "title": "Bruce Willis reaparece en boda de su hija tras diagnóstico de demencia - Chic Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnloX21pMGlBLTRtWUprNzFuZHk0VDlXSWRZdmo2SmpySml3TWZZVXdzMDc3bGY2RmZHem9yOEFZNnlzSjh5X1JmRmZXNmxMY1ctaDZUcGxULWtMUjJrMTF6V0d1R1dWaC0yTUV6LWg2bkdGaVhPcjhGOEwzVlRBclh0U0VkRERRLWlfelU5TnNSc1gweUFWZXIxVUVSNW4wa3N5bnB0djY?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-17T15:28:42.549Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.257Z",
+      "candidate": {
+        "title": "Last month, Reuters released a short documentary about one Ukrainian soldier’s year surviving beneath the frontlines of the war’s drone-infested “kill zone.”\n\nIn our latest Reporter’s Notebook, visuals producer Felix Hoske\nshares how it came together: reut.rs/4x5BKzK",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtbz6hd6ok23",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T15:25:47.451Z",
+        "matchedTracker": "chernobyl-disaster",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.257Z",
+      "candidate": {
+        "title": "FTSE 100 set to snap six-day losing streak as miners gain reut.rs/3RTyyrV",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtbz5cw62t2w",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T15:25:09Z",
+        "matchedTracker": "world-war-2",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.258Z",
+      "candidate": {
+        "title": "Kenya's competition regulator seeks reserve fund in Diageo's EABL sale reut.rs/4ijaXeG",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtbylngedp2o",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T15:15:16Z",
+        "matchedTracker": "haiti-collapse",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.258Z",
+      "candidate": {
+        "title": "China's premier calls for stabilising external demand as growth sputters reut.rs/4ieibAE",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtbycnxaaj2d",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T15:10:14Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.258Z",
+      "candidate": {
+        "title": "Russia's Far East to test drones and unmanned trucks for trade with China reut.rs/4qmK8bx",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtbxzm6bud2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T15:05:10Z",
+        "matchedTracker": "egypt",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.259Z",
+      "candidate": {
+        "title": "From Breakingviews - Breakingviews - Operation 'Save the City' is only half complete reut.rs/4qoNCdV",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtbxtdeisx2n",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-17T15:01:40Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.259Z",
+      "candidate": {
+        "title": "Prosecutors have finished presenting their case in the emotionally charged trial of Lindsay Clancy, the Massachusetts mom who has admitted killing her three young children but blamed her actions on her failing mental health.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtbzaaabx52l",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-17T15:26:47Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.259Z",
+      "candidate": {
+        "title": "Top 25 is back.\nWhy bother with a preseason poll? How will your team stack up? A Top 25 voter answers your questions.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtbxsc6kks27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-17T15:01:05Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.260Z",
+      "candidate": {
+        "title": "Sonal Dinusha's maiden test hundred has rescued Sri Lanka as the home team was bowled out for 284 on Day 3 of the first cricket test against India in Galle.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtbxrzauz324",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-17T15:00:56Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.260Z",
+      "candidate": {
+        "title": "Thread ⚽\n\nPremier League champions Arsenal begin their title defence with ambitions of going even further.\n\nCan they retain the trophy, finally conquer Europe and turn their new signings into another winning formula?\n\n🔗: aje.news/kcu89o",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtbykjvxqk2t",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-17T15:14:39.070Z",
+        "matchedTracker": "france",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.261Z",
+      "candidate": {
+        "title": "Iran signals readiness for ‘US ground operations’ as MoU expires https://aje.news/lwkusy",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtbxqiqj5k2d",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-17T15:00:05.042Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-17T15:28:45.261Z",
+      "candidate": {
+        "title": "BREAKING: President Trump welcomes defense pact between Saudi Arabia, Turkey and Pakistan   @insiderpaper",
+        "url": "https://t.me/insiderpaper/43937",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-17T15:28:44.079Z",
+        "matchedTracker": "saudi-arabia",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.57)",
+      "confidence": 0.5666666666666667,
       "model": null,
       "scanType": "light"
     }
