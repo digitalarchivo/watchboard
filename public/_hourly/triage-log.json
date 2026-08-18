@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-18T06:30:41.304Z",
+  "lastPruned": "2026-08-18T07:23:24.607Z",
   "entries": [
     {
       "timestamp": "2026-08-04T07:39:59.334Z",
@@ -131114,6 +131114,227 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-18T06:00:06.722Z",
         "matchedTracker": "north-korea",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.343Z",
+      "candidate": {
+        "title": "Trump administration pauses construction of border wall through Big Bend National Park - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWpFWmVTUF9ja0NsaWllejJqamYyempXNmVLc25RREtUN2Q4cnNKRG9RQ1lHc3JUT0xMdFhZYWdyWG5YNk1TbEF2eU9WQkx6TVZ0eGtScGNsNEg2YWhhQWRQejdwaFFWamZxaDJsU3hQekd3aVZFUEFzMGJjZU95cHVEOWM?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-18T07:23:22.060Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.343Z",
+      "candidate": {
+        "title": "Russia warns UK over supplying drones to Ukraine - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FOV9IY1V1dlNiOW1UV3Z6a2w5dG9zQk9MaVNiUV83MGhmYzN5NDFZdVlGSFFXVlN3SWxkdTFZbmJIQlk3UTJCNVRkb09UOUJ2ekc5ckN0M2k1dw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-18T07:23:22.060Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.05)",
+      "confidence": 0.0475,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.344Z",
+      "candidate": {
+        "title": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNTVLTjRSbWZxQXVscGJZR2VIV05PYkFFT1JQeGVWZ051SjVHaDdKZV90T3h3SU4zdWl6RzdIZDFaclJwNy0xY3RYWDM5OVlDUnlkMVotX3Y3elU4VzFkWkF6cmhBNnlnOERwb3JMN2RVWHVEVGN0ZUR0UHFKVUNLQXdWWEVLQmQ5S1FuRXhYbC1qQUR1blpFbGdCWXBJaFEwbE5GY2FPc9IBrAFBVV95cUxOeGhYY2hYNFlvV3dxY2U3N3Z4eWw0T2lRNW1XTjhuRFAzN3RYZktIVy1UdmJ2MEdwal9TNkppTTNmZDd4Zkt5ZHN6a0drTDdYUUtodFk4SVpsYUg3Z3QwNTNsbDlnY1g0eTRUQ2xaYWFOQ2szQzlVUWxKal9feElqa0JwUk5jZWpBY1lxZ2lNMDNGUGNlbWVKZXNOVy0wNnlVaWd3TlVGajlDVHRt?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-18T07:23:22.060Z",
+        "matchedTracker": "iran",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.344Z",
+      "candidate": {
+        "title": "Anthropic revenue run rate tops $65 billion, source says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEJ6S2RpblVGQzhVS083a3dqR3JpajJOUkJIVUZIS1ZkQ05PeW9TdkJUazFpRXNybXNDUUNnV3dfWTllcFdsYms2Mm53dGJwY1VyYnVYb0xYSTNwZWoyaC1vM0FDVWJtTlh6VjFyTGxGUUNaYkg0VDdzNlhjMDJ4dUxJVHQzY0dUaWdKd2t3d0NoWk5IQU52bDRXWTJxZWNFdThJ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-18T07:23:22.060Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.345Z",
+      "candidate": {
+        "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTW5tbkY3TXJLSXFsYzIxYloyRDRHdGEteW5PUjRna2lmbS1iQXJmVTBSYktFcmZlZTdtaEF5YUdkQTdENUUtRFFIQU1TU2pRdnU3SXJZVEZwOUtZRG1veF80aE1wLVh3YWk4ZEJWSGxNOFNvVU92MFVVdHR1Q1FFRXk5ZmVqTzZtOGg3Q3ZGUi1iSkR1cGFlNFpRaGZFSUs0b3BpR0NiWDNzZjhYU2JMUGI1SnhqMmJyd3hXRmZid09QR21PZ2Vtc19Fd2lsZw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-18T07:23:22.060Z",
+        "matchedTracker": "september-11",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.346Z",
+      "candidate": {
+        "title": "Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’ - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOak5KN0xEMXpKTno0UzdMa3pRNGRnYy1fanJiOHFvWDlRMUJwUmJ1Mmd5RUpEU1FqUXV1TTNNOExFcTlZV19veW9jOGZvOE9aeFhfR2NBY0J6X01ZUldLMXJLRWozbS0yUml0V1hoeDN1SHFWbXIxZnFZNmhOdkJCSG0yQnNYZmJFOWNYQUtDVTJ3blk?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-18T07:23:22.060Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.346Z",
+      "candidate": {
+        "title": "PlayStation 6 sigue en el aire: “Debemos hacer algo. De otra manera no podemos sobrevivir en estas condiciones - Diario AS",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR2hkSkdsTllmSDkxamQtanVaeUllM2RhT01Ra2FVT3BlMi1TSUFYS1lJWU5TRjdyczNWbGVnZEVqd3JkX052ZXdnSnpnSkJGNVlGQUpJWmV3NUJVUGFyQlBxZjFVbndBMGVrMzlSM1FWVV8xSF9nTHRKa1pOdkYzOE5ZZU41a1pSZndiVzUybEh3YjEtTjBhOHFEcm1WM3U5MXpfUEFScVBZc0xIVUFablIyc00tTTVkRHc2aWlrYnBRWjdmX1dKSkNwWkxnMTB4LVhYc0MtVzBaREZULW1IdVJnSlpqRzRLLXfSAf4BQVVfeXFMTndsdTFwN241LWdVTW9uVnlDT05QV1FGVUdGQ1pDTElidmM3WnJKUUtoUGdjZmR4NnJDcnprSDBMMVM3VW9lRzdlR3NoX2J4WXNUQlVZeG1vUmF3QWozLW5uZU9CNTRjWnNyV1JaSmR5Q0Zfd2lFYlkyZzlFRWFQX25idUstbVhJeEZ3SjZ3dkVZa3hoQXFjUUtPeXJLV1UxRnF3aWF4emx4NW8tN0RBUmdOb0NsakQ1aVpzZTloZVZ0anJZeU42WjZhV1ZYYW5WSDZtS3B6WHhTUFNNQ1FnenREOFcwU0ZYM3NoN3BBNzZtMDdsUl83NUo2Mnh4V1E?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-18T07:23:22.205Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.346Z",
+      "candidate": {
+        "title": "At a Gaza zoo, war takes its toll on the animals reut.rs/4qoa5aV",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtdoa47dzj2z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-18T07:15:10Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.347Z",
+      "candidate": {
+        "title": "LEO Pharma buys worldwide dersimelagon rights for up to $435 million reut.rs/4xG0BtU",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtdnx5xo4v2p",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-18T07:10:11Z",
+        "matchedTracker": "peace-processes",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.347Z",
+      "candidate": {
+        "title": "Indonesian court begins trial of daycare staffers in alleged child abuse case reut.rs/4qm52b1",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtdmtgtcxe2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-18T06:50:12Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.347Z",
+      "candidate": {
+        "title": "UK labour market shows more signs of slowing in the second quarter reut.rs/4gpWSKe",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtdmklbqs42d",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-18T06:45:15Z",
+        "matchedTracker": "global-recession-risk",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.348Z",
+      "candidate": {
+        "title": "Even as market clouds clear, AI investment anxiety still gnaws reut.rs/4bXk7d4",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtdmbkm6dk2r",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-18T06:40:12Z",
+        "matchedTracker": "global-recession-risk",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-18T07:23:24.348Z",
+      "candidate": {
+        "title": "Beijing's new 'Ice Silk Road' cuts through a melting Arctic, and could prompt fresh tensions with the US, say analysts https://aje.news/w30wu9",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtdnf53fvt2c",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-18T07:00:05.965Z",
+        "matchedTracker": "china",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
