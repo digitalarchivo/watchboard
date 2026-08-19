@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-19T19:01:13.920Z",
+  "lastPruned": "2026-08-19T19:36:24.698Z",
   "entries": [
     {
       "timestamp": "2026-08-05T20:35:01.039Z",
@@ -135506,6 +135506,346 @@
       "decision": "update",
       "reason": "light-scan posted directly + queued for heavy scan (score 0.85)",
       "confidence": 0.85,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.512Z",
+      "candidate": {
+        "title": "Who is Natalie Harp, Trump's right-hand woman?",
+        "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-19T19:36:21.776Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.513Z",
+      "candidate": {
+        "title": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+        "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-19T19:36:21.776Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.514Z",
+      "candidate": {
+        "title": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0QxYWRHV3EwbTFuUGNkbHlmazM2MHlDNTM0MFMyUnkxLWFGb2ozNm5OVjFsQ0RUcmlXSXcwOV9MV2ZVWi1fYVpRVVkxMWJYSGZlUWZvbmdoekxQNy1qTThzVWlOTE94bkdjWDhNSnFfM1RQdmJxRWZ0c3FqZkJ4dVVfbVNfa3VyUU1iSlFHckhMVHY5aUJEQjJBcUNtcG1rQjREZW9GY3hwdw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.514Z",
+      "candidate": {
+        "title": "Who is Natalie Harp, Trump's right-hand woman? - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91T1lXcF90bHhhSVZ3SGZCZ2tJekkwTzVqajhkaXplb3dPWk9reldiRHhuQ2k1d0hkeXN1WlVjN09lTFJuTEhKaHJVSXRuMGFoWlN2c1hJdERzQQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.515Z",
+      "candidate": {
+        "title": "Alaska U.S. Senate Primary 2026: Live Election Results - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMHl3WXp5eWNpQXJ0TDd5dmtUeFE2TnR4UEhiSDR3SUk1Z3UxMzhEXy1ldUR6X0JwY3Y0ckEzRmcxQ3ZtUFowS3lkQnF3TWl3NkQ0VVdyUTdpME5naVFHTEprTk1iVnZMQlJtelp5MHBpUW5WaDFsUUktbFQxMVJGTVVsMU54RWpCNXlHZElYdTUxRFpuX1ptVnpPOTR0dw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "world-cup-2026",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.515Z",
+      "candidate": {
+        "title": "Trump says he will meet with Kim Jong Un this year - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmNkSGRuYnVNdkxvb0xQeUxYdGxfOFR5RzdPNlEwdUlrcWJUS3JCRHpfaG13dEI2bGUyeUV2d3dDeGR4VkxhMWNmMzQ3VkpoLTZES0t2N0wwZDBTVHlDQkJYVHJrZ0tCc2g1R3Vsa21aN3E5Q1FOWnVrenJLUkJBaURTRFBjTXlfNXVyZ0VLQ2hZcTZ0YjNRYkM4NHU4WTVkNEp0Y1RzTGdNOGM5M3c?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "north-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.515Z",
+      "candidate": {
+        "title": "Kenya tourist helicopter crash kills seven, including five Americans - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONW5LS2JKMjFfeFNRckE1RmNFNWdJU1RSVlIyQ2d5SC1zaHJOUUpuODVhU1g2M3h1NzA3NnB3ckxUYWhKNTB4M2ZUS1VpX1dUUURDcGZialRsZjk3UkZtZjVRcEJNZ3lHV3dOY1N2cFhIYWJ3cHpaRHlkNkRIM0ZjOXI5TTgzRlEwZ1pBYnVQczFOUjcxbmpxenAzLVl5d2JzU1B2YTh6b2JVUVdwZHFMUDliRXRwaFFJakpaT3hwdw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.516Z",
+      "candidate": {
+        "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "global-recession-risk",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.516Z",
+      "candidate": {
+        "title": "David Krumholtz Clarifies Career Status After Announcing \"Indefinite Break\": \"Need Time To Figure That Out, Let It Heal\" - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdW1WVUlkY3doOXVicTYxN055bGhTMm4xQlFmX3dJWktEdk90c0xKQVZIaEhaY0o0WUN4bExRdWVNcVRQSV9icFFuVEMyWjdYeTV3OXQ3QlV0dkdDUGgwSl9KaDFGSFZfcTRoVEJXWUE0dVNlNDlFVkpObmlJb1Z4bkhHRE0wdldpUldsWjNEMzc5d2ZTUTVaRnJ1ZDlTUQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.517Z",
+      "candidate": {
+        "title": "Sandra Bullock breaks silence on partner Bryan Randall’s ‘traumatic’ death three years later - Page Six",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaTNsVGtMNXJLaFRzOHpicDZVRGlzUWt1M001bTlqS2ZuZGhHZGhHQVEwd1E3WHJ1d1J4OVk4WEtuZ2hiRUtTOTI5eVpSX3IzS2lqSVpCSHF6WU9CM25zOEtxTGFzLVVhTzM0SHRiSGJRZlU2VVY5NTk5aFpHU3NrWDFxcDA1UmVVdnJmNlRKam9Oanl3Z0UyOHNDak82VWFESllBckhGQ2lDQ3Z2dEVSM3hJdFFPelh1OFhGcWkzUDgxLVI5VVZIUm5KdVpiUEJzbkE?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-19T19:36:21.895Z",
+        "matchedTracker": "argentina",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.517Z",
+      "candidate": {
+        "title": "Víctor Velázquez y Claudia Sheinbaum presentan histórico plan de inversión en Hidalgo - Récord",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFNjYmtTRGtlSEN2bk1RMGhlZ09ieEFDVE0tdDMwcmtRand0Rmt1N3o4bk1EYkZEeWRGaFI3S3BOWkhpUXRqSU9FbHVIZXJUb2g5c2dJVnY3TlVMejBEc21aczZiZEZ5LTFQcmJGMzVELWtJSkktRHU0YXFHOVVQNnZfLWg1SThxaEtEUzBZMWF5LWdzaV9TMFQ1R294QlIzWjBuWGdpdFYySzBOdTRfbEo0Y2ktMFpzSUN2el9FOVhqTVZZZ0h2bndrUERHYmV2OEMwWGdQcw?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-19T19:36:22.233Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.518Z",
+      "candidate": {
+        "title": "Patrulla Fronteriza y cárteles libran guerra de drones; “por más que usen tecnología, defenderemos la frontera” - El Universal",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM3hacXpxeWFEVkFNTUdCb3NOazhLb055VTQyXzVncHBtSldOYUs2bjZBamxzVkdFY3NYLWhVX2hlWHRDYW80bU45Yk53dmVFZGZtRkxGcFRTTTIyNkZNWExZbmVRMS1NY25qZy1HMDEzWV9jbU9hckg0eW5qZG01eFZJTUo0ZlpUVWxZQkNkOURJRVZBRG1XZzhvaEpySlpaYks4dTRZX3ZPUkk0YWp5cHZkRnVtMUpVcVRUb3NkY2lZVG4zQmJPbktxZHEzamlQTUVjYU1KaHhSbVFhSEtV?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-19T19:36:22.233Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.519Z",
+      "candidate": {
+        "title": "Una combi que trasladaba pacientes médicos chocó con un camión en el sur de Brasil: hay al menos 23 muertos - Clarin.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHNfVm0zb3NXNFBUWFZjd2FIX2RIREJ5OGNzZGNMQzRKREVUZkM0LWlSSHlaMnpMdHhlZ1NGRUI3cGNaRzV0ZklEcHJWZ2RfWjRYOTlpUVFXeDk0X1pCbFJjdVMyeDBJaGs3dVFRbk1tRWg2M2p0UTlsNWNIQXBvSFJhdHdoNHpfVEdYMXRlaEhBa241TlNfRk92ODNVVHgzeHZndVRLNHhfY0h4aVNwNjQ2MFVyVkU?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-19T19:36:22.233Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.520Z",
+      "candidate": {
+        "title": "LIVE: President Trump speaks alongside crypto executives at the White House youtube.com/live/K3_mcCs...",
+        "url": "https://bsky.app/profile/reuters.com/post/3mthh5mdfos2l",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-19T19:19:10.223Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.520Z",
+      "candidate": {
+        "title": "UN's Guterres seriously concerned by US sanctions on ICC reut.rs/4zmCAcZ",
+        "url": "https://bsky.app/profile/reuters.com/post/3mthgwr2jo52t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-19T19:15:20Z",
+        "matchedTracker": "israel-palestine",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.521Z",
+      "candidate": {
+        "title": "A$K Lauren: Why is it bad to invest in a single stock? reut.rs/4ztkKVR",
+        "url": "https://bsky.app/profile/reuters.com/post/3mthgnrh7rt2d",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-19T19:10:18Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.522Z",
+      "candidate": {
+        "title": "Opponents argue the venue seems 'intent on defying' a court order to remove the US president's name from the building https://aje.news/mudvw7",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mthhr4xhpp2f",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-19T19:30:05.018Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.523Z",
+      "candidate": {
+        "title": "BREAKING: NEW GTA 6 VIDEO LEAKS ONLINE  THE LATEST RELEASE FROM CYBERLEEK IS SIMPLY DUBBED TASER VIDEO, AND IT FOCUSES ON COMBAT BETWEEN JASON AND THE POLICE OF VICE CITY.   @insiderpaper",
+        "url": "https://t.me/insiderpaper/44011",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-19T19:36:23.460Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.524Z",
+      "candidate": {
+        "title": "Donald Trump shows off the new helipad under construction on the South Lawn:  Nice job, fellas    Follow  @InsiderPaper  for more news",
+        "url": "https://t.me/insiderpaper/44012",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-19T19:36:23.460Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-19T19:36:24.524Z",
+      "candidate": {
+        "title": "BREAKING - Trump says North Korea has 57 nuclear weapons  bit.ly/4qA8KxJ   Follow  @InsiderPaper  for more news",
+        "url": "https://t.me/insiderpaper/44013",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-19T19:36:23.460Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.30)",
+      "confidence": 0.3045833333333333,
       "model": null,
       "scanType": "light"
     }
