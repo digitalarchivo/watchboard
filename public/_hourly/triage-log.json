@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-20T13:00:19.222Z",
+  "lastPruned": "2026-08-20T13:51:03.871Z",
   "entries": [
     {
       "timestamp": "2026-08-06T14:54:34.626Z",
@@ -137370,6 +137370,516 @@
         "source": "tg:disclosetv",
         "timestamp": "2026-08-20T13:00:18.482Z",
         "matchedTracker": "covid-pandemic",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.678Z",
+      "candidate": {
+        "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+        "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-20T13:51:01.192Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.679Z",
+      "candidate": {
+        "title": "Natalie Harp Worked At White House For Over A Year Without Security Clearance, Report Says - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdE1MMHU1eGpIQ05OVFdBVnZJMjNCc2JzZE95M1RzQnBDWngxaDdUcTJYRlR2RGxfVWdyOG9VVTMyTTRWbEx6MlYxcE5hRnRnVmNnWVBnLURIaGE5MTVBckRGVjJhNHRGMXB1UUNWZmFqcFRwbklzNjRORkRBRm9HR0Z2bmkxNDc3REZFTExlempacWU4OFNOZ0poeWNwQ0ZiX1d2ekcxZzR6aEZmS25iemNtMDRVRFM1TndpeWVNdFhSbnJoWUtJNUFrbnFWUngza08wOHRJWGkxOGlZellxUg?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": "iran",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.680Z",
+      "candidate": {
+        "title": "Ready to talk Michigan winter? Very strong El Niño will have something to say about it - MLive.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3JPa19TU1V4WENlMVFsN0tfajV2NDJxOUZWZklvVXByT3ZkZFFuRDhvWEhIN0lnOFV6aHZXb24zbnF1cVFNU0tzWDZHUWxGMDJYQW5YM1k4NmJ6ekl6VFB3cmM0MUY2T2pZVHMwQ2tjWXpIMGdmWW10anIwLVUtMFBnd09URGk1YmdTNmdoeldwOUkyeVdnWGVVaXVRYVRhRmIwUXBQNm9jWXZ4R2ZxRGZFSmJxSS03aTlFMk9pTnE1ekxHVkNV0gHbAUFVX3lxTFBLOVF5Y0J0V2RpM2ZYMVhCQjEweVBnMDRiSVdTckZSYnpZS3RXRUpXYkJUSU10UTJFakZyVTJoMmJKZzVRWHBLcFFTYVNHSnJnaXZXZjVMS0dzcjZNU1B2T3U2Y3BGM3pYZ243aTFMQ252RHFuQV9xZDQ2NVZWODlfbENlektBejJuT3Q0UjJ0dFZLR3B4aUFMbTA3ZldOUjBGa21CTUhHTXZXNnVjd3RlYTNwd01LM0xsaDF1d1BFcmh2M3FjMjBxd3lueXRtRGk4eVpCcEdBN1lycw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.680Z",
+      "candidate": {
+        "title": "Capitol agenda: Trump 1.0 enemies face brutal primaries - Politico",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2lSTDBvNFJkNWt2TWlIOWhaaHltSXN4dzVBMGRmWW8yYkY4UkNKbll6NGNEaHBvTjJvX2FEU3dkSjR4NU9BXzJGNi01Wml3a2NhTWdqcGxqZlZzbGdsbTZxMlMwRnFMMkI2Z09RWm1DYkxDMEtMSS0zUWRncVV6cVhTQm9iei1vbGVOQTdB?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.681Z",
+      "candidate": {
+        "title": "Nato jet destroys 'explosive-laden' drone metres from Black Sea gas project - the-sun.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDJJMEltUzJjdE8xdG1yUVluQ1dtNzZ4TDF0UkZ5TzNKU0J5VlhhQWtLSlpQV1k3ZG5NM1VlX2dRaUlYUy1YYmFVSjdTem5nRkZqN2FoU1c1X3hzX0p6UDI3SzJBSUR4Ujc4MC04Qy11ZDllVjl3SFpFVWZvNjZ3WmU2Q0R2bmYzRm5SSi1DaS02Zw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": "southeast-asia-escalation",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.681Z",
+      "candidate": {
+        "title": "Melting Swiss glacier reveals remains of two Belgian mountaineers missing since 1992 - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDFpYnYyb3BLanJDU3YxdGFXTUVqaF84TWFVbUlGakNGbEhBNHpKZnU0aXVVQnRjaFcyVU5lRU5STDFBTkVWS2xQZF9PYTJhTWdZZm1WdF9GNzVxWEF6OXZINS04by1Oajk0bGQ2bHZiTTB5aEtxbUJiWkx3aTBqdWg3S014SUI3amZqNmFVZFctaW1sZndIRWplMHNDMW1NZmVRWW1jdWHSAa4BQVVfeXFMTkVWQXZrcjlhNVZ2eHhycm9HWElWdG0tdktZcW5Zb0YwQ1BhTzNDb3EtUzkwQ2pTbjVoTnhmdlpFQ1RZOGkxWFU0ZXNHTVdLUnpaUUx5SmhGekwzLTdkekZCSkJTR25JdHZFTW1jQjFaeDBJWmhGa2FCenhSZzJqWHZkaGhuM2E4OWhoaGVtRWcyQzJLTDdGNmFPWHJIODdLd2dtcjhYR3MtSDhBcGd3?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": "fox-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.681Z",
+      "candidate": {
+        "title": "Walmart says it will use billions in tariff refunds to keep prices low - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXUzb2hhVnN5Nzh5bnhoRDZVb2FSaU1iV1dzdGtFbnl0UFdERlFRSEx2WVJzeHotRGM1SUlNSUxVOVFDMTJYNnNNUmI3b1d6Z1N1d3BjQVI3ekZHSlc0QTdMYmp5YkJYUF9iX3NES055amU1U1NGbVlCeVJlbHNkYkNfYWRLSTF2MGVYYtIBkgFBVV95cUxOcFEyVnNKXzRWbFVLTDBzMmg3bVVuTmxsZzBLNHBHcVZtV2UwejJ0bTAzcTB3anRVSVNXQUI4OEZtanFsempDLUtYbTNBVG1mVUpZTXVJazhoN0ZxUU1SS01BcjhzWHYyTmRZN0tGZ19JenlDdzIydDVDaVhrbzQ0aDcteFZUUEpnVHVmZ2t0d2RVUQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": "fox-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.682Z",
+      "candidate": {
+        "title": "Using the Pixel 11 Pro for a week confirmed my biggest fear about Pixel's future - Android Authority",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlhWdlVGWFRYeC1Dc0RYeUY4YXhkMk5Jdm41TFFwVkJSREVFRjNKOVhZSGFHbUpmMzhxSUhMRTVWRk1wVkgxU3IydFJQRGJFZ0RjdmY3Nl9MZ3R4eVA5bk5BekpnUEtLWk5Xdm5KREdmaEtTOHRJRWZQZ2pKc2dZdGs1UXZ6b3RP?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.682Z",
+      "candidate": {
+        "title": "Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUR6aFNxSExzUzJSb1l2ZUtRMHpDSHdCN1Y5T29wZXNBU2hEOWpVaDFvZVRrbmxVOWtMQTVSTjF3UG03WXRBVm1MZm9wU0p4OFJyUHQ5ZVZ0VUpuUkZGbUtfNE5hRThzWVRhMlFwSGV2cV9MU2F5Szc4S0ZQaEh1M25tVnhJbVg1SDR1S0lvbDJiaTNnVlptQVd5ZGRsZ19WcnZQdQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.683Z",
+      "candidate": {
+        "title": "Jonathan Jackson Shares Touching Tribute to Hayden Panettiere: “She Had Such a Bright Light Within Her” - The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelBIRXRncFZZUnd3Uy1lWEtuTnJhbTBpM214RVQ1OHlMVWs1QTNmVkRyeDIxV0tHd0pyb2VIbGxrZDg0TXBJeUw0ZTU1czIxZWpQaFBkbVhiMkRvbkRjb0tNX1A1TEhJNmNLVmtNSUlybHVBU2hjdFotRlc0bVNVTF9vanNGU284UFVnMEx1ZmJEblg2d3VucHQtZFRQbnE4ZDJz?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.683Z",
+      "candidate": {
+        "title": "‘The Office’ star Jenna Fischer exposes the grueling reality that forced her off TV - Page Six",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc3JyNUNVcFUwTmJzN250UllCLWN2dXlmOU5QbmRrc0R1Zk1UTEFRSWFCT2xpZEo3WWZGQkRHam1EdG5seG5pOVgzSFlDZTlPZ2phajk4dnc0NVY1ajlSRXE5cjJmOGdNQmdqZ3ljaVlCX2NGaXBSVlpCX0l0bnFYaXNaS1dfQU8wb0E0MmJuNEgwU3hna1NtY0w5OHVqVEhyVmhoMkVrcDNkWEVBb2VmR0dQTXVYNHpIcFFsYnNiUy1WUkJhSlE?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-20T13:51:01.548Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.684Z",
+      "candidate": {
+        "title": "NASA muestra imágenes del cráter causado por cohete de SpaceX - El Universal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkJxb1Q4ZlZNYUVJVW9HR3lIdkhSbTNQUTdOdDRVX1lVdm9TblE5Ymd0ZDRlVTY4QWR0YmhTUnNoZVpaMVhuSVpIb2FJdFFudndfR3REZVh4UzJfX3V6R2J0X0ppVjhBTnBVdzVQRUQ1eExiRzFVRTRib2hvS0FoTHQ5SlN4Z1JYMU5ac2pFLXljZDFZV0Myd2NQdV9mMDV5cXZYUF9RZUp3ZlpTS1oyUkFZd3NxVUFDcDN3S2Ffamp2UUJpaEHSAdoBQVVfeXFMTUNvNEsyWmpVcVZESUl4T3c1UTBIbmt1SXJmZl92ODJncWxSekhicHZZb3lVcmtrb05nb3FzeWNSOGNXX0o4dFdRZkE3RmNLcFctYjhEWGJyTXJOTUd5S285UkxfWVFYWlhxV0dyR09UcFFJV0ExWF80bXhNS2lOVnlKVXh1dkNhVVd2WEEySnRTczRsOGxsR2ZyeGFrQ0RKaEN5Zkt1bnZaUnpHZEg0QVNRTTFqTTNYZWYySG92TXVnRTRaZWxuRkRaMUthUTZPVDhSbFlrNjRmMkE?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-20T13:51:01.671Z",
+        "matchedTracker": "artemis-2",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.685Z",
+      "candidate": {
+        "title": "La DEA entra en la investigación por la muerte de la actriz Hayden Panettiere - Univision",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFFJejhMM1FCVHVoR3FZZlJsczJrOTlRaDVfNlk1UDhqU2ZWYVFWckVyaEpDWEphV3g4WUo3VEtSUDkxWUN5RFpwQXFZNGtSQ1pjaHY0Q0VSWE82MEVVMGZiU21XSElhTFZTY1dkS0h6MHJfRFdnWmtqSXZVOVZDYll4Ujc2YnFpSTJBSkVxOEhXNWlMckwxSWNaUUphbU9MR3VjOWY2eGxsb2ZNU0JMeWNQVTM5TWF6aXgxeg?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-20T13:51:01.671Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.685Z",
+      "candidate": {
+        "title": "New Zealand's Jordan, Roigard fit to face Springboks in first test reut.rs/4xRfhXl",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjfaejbkc25",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:50:14Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.686Z",
+      "candidate": {
+        "title": "Verstappen would have been more likely to leave F1 than change teams reut.rs/4ikkMJr",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjexj52ih2i",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:45:17Z",
+        "matchedTracker": "world-cup-2026",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.687Z",
+      "candidate": {
+        "title": "India's infrastructure output rises 5.4% y/y in July reut.rs/3SKi9X1",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjeop2y5i2n",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:40:21Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.687Z",
+      "candidate": {
+        "title": "Zarco set for MotoGP return at Aragon pending medical clearance reut.rs/4c2QgQp",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjeffjhpo2c",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:35:09Z",
+        "matchedTracker": "syria",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.688Z",
+      "candidate": {
+        "title": "India's top court forms panel to probe allegations of violence during youth protests reut.rs/4xVsiiI",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjdtiwuat2d",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:25:09Z",
+        "matchedTracker": "cuba-crises",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.689Z",
+      "candidate": {
+        "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says reut.rs/4gKVEJJ",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjdbx2df22z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:15:19Z",
+        "matchedTracker": "bts",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.690Z",
+      "candidate": {
+        "title": "North Korea says South Korea's description of US drills move shows uneasiness and impatience reut.rs/46dLEn8",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjcyvtlwe25",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:10:16Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.690Z",
+      "candidate": {
+        "title": "Ghana's mineworkers demand release of $34.5 million in trapped savings reut.rs/4g4hfgY",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjcj7fkg42i",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:01:30Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.691Z",
+      "candidate": {
+        "title": "A new \"Peaky Blinders\" interactive experience offers the British crime drama's fans a chance to step into the gritty world of Cillian Murphy's antihero Thomas Shelby and his early 20th century Birmingham gang.",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtjchcc37u2i",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-20T13:00:25Z",
+        "matchedTracker": "cancer-breakthroughs",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.691Z",
+      "candidate": {
+        "title": "The U.S. has sent 20 deportees to Liberia as part of 1,200 migrants that the African country will receive under a new deal.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtjdc2nyku27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-20T13:15:23Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.692Z",
+      "candidate": {
+        "title": "Russia has launched a massive nighttime aerial attack on Kyiv, using missiles and drones, killing at least 16 people in the city and surrounding region.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtjciass2u27",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-20T13:00:57Z",
+        "matchedTracker": "ukraine",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.692Z",
+      "candidate": {
+        "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war https://aje.news/pi4b4i",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtje4d7wkr2d",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-20T13:30:05.138Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.693Z",
+      "candidate": {
+        "title": "BREAKING   🚨   Trump threatens economic punishment on ‘any country’ helping Iran   READ:  https://insiderpaper.com/trump-threatens-economic-punishment-on-any-country-helping-iran/",
+        "url": "https://t.me/insiderpaper/44031",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-20T13:51:02.583Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.693Z",
+      "candidate": {
+        "title": "JUST IN - U.S. President Donald Trump on Wednesday called on Congress to pass a bill that would bring clearer definitions to the growing cryptocurrency sector, a top priority for industry executives who had gathered for an event at the ‌White House with the president.",
+        "url": "https://t.me/insiderpaper/44032",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-20T13:51:02.583Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.30)",
+      "confidence": 0.3045833333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.693Z",
+      "candidate": {
+        "title": "NEW: North Korea estimated to have around 80 to 120 nuclear weapons, South Korea s defence minister says   @insiderpaper",
+        "url": "https://t.me/insiderpaper/44033",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-20T13:51:02.583Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.30)",
+      "confidence": 0.3045833333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.694Z",
+      "candidate": {
+        "title": "BREAKING - Germany logged 14,000 heat-related deaths this summer: govt data  bit.ly/4hFyqXr   Follow  @InsiderPaper  for more news",
+        "url": "https://t.me/insiderpaper/44034",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-20T13:51:02.583Z",
+        "matchedTracker": "germany",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-20T13:51:03.694Z",
+      "candidate": {
+        "title": "JUST IN - U.S. sanctions president of the International Criminal Court, Tomoko Akane and senior trial lawyer Abdoulaye Seye.  Read here:  https://www.disclose.tv/id/tojrb24w99/    @disclosetv",
+        "url": "https://t.me/disclosetv/21729",
+        "source": "tg:disclosetv",
+        "timestamp": "2026-08-20T13:51:03.208Z",
+        "matchedTracker": "sheinbaum-presidency",
         "feedOrigin": "telegram",
         "sourceTier": 3
       },
