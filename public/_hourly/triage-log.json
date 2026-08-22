@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-22T07:44:06.831Z",
+  "lastPruned": "2026-08-22T08:01:29.549Z",
   "entries": [
     {
       "timestamp": "2026-08-08T08:21:00.659Z",
@@ -141637,6 +141637,91 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-22T07:30:04.585Z",
         "matchedTracker": "covid-pandemic",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T08:01:29.359Z",
+      "candidate": {
+        "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzB0OFd6azhxWUJWRnUzRU5HTXFCNEFFS0w4SHphcW14VU1KRHhwdUtqekZNc1dpY1ZGQThobWxMZXgxU3FOX3JGeEVzZnJJelBoby0yY2d0Skc2eFBoT0Q3dU9BRzcwam9ad01PMUtRX21Dem1Xa1RJU2htalBuMkd0OGZNUTIyN25PZWdIYVB0QUk1UUpaWnJSaGFvdXZXRUxRYkJmOUpJSWVS?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-22T08:01:26.388Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T08:01:29.360Z",
+      "candidate": {
+        "title": "Lo que significa el regreso de Harry y Meghan - MILENIO",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYlIwa0NpRV9vVkpqU0JnTVJ3VE53QXFCT3pEUXBubEdFWDBOTkFFUWFhdmxKSURPWGx1aHdZTV80TGlRM2xNaXNMOWlKVGxBdUktVUVjeVhHZzd5WGw3OGdzM0dHYUJfNm5zZTB6cklsbDFtaDZldTY0US1UUkJpN2VWMUJWZWZsRzllWUEzaUMxR0JTazRnQkVXV05sd1hKVDJMbVVn0gGmAUFVX3lxTFBxbFJheTdubXhacDlOcG8zTWg3bE15OTRNQXhINnl5eDlnTldKenhNczI0a3FuVkItVUl5YXNrTFFDemFrUzRMWk52ZUthc193WURoVFAxTTFsYWQ4aTRRT1prdmZ3U2VZRjlNc09IRzZrOTBhX09Za1hOSTQxX21laVpxV0lRay04RHhDY3duUTRjdU50LW9WZ0toamVGYzJVeHhxWXc?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-22T08:01:26.682Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T08:01:29.362Z",
+      "candidate": {
+        "title": "¿Recuerdas al niño de “Baby Shark”? Regresa 10 años después y debuta en el K-pop con videoclip - UnoTV",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd0pxUl9QYkdXazIxRDVKVGhkRnVxdG1ucUNITE1KSjl6OG96ZS1RUDRVZS1JbW1pYUF0aEUtaTRDZHlhZWRzTHpSZy1ieW1hQzFNOHlsTU9nOXd1UV9KYXlaQUhTOWlMdkFDT2dkSjg0SkhhNnNub2VQc1gzTmRwZU5GdFQ1Zmt6VGFlU0VNSXBIN1BqdDVubDNpZXp6WmVoelBBVEdhcGZfUWxEMXRuMkNHRW1HUTBud29qMkppcTdMc1d1UUVoZQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-22T08:01:26.682Z",
+        "matchedTracker": "bts",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T08:01:29.362Z",
+      "candidate": {
+        "title": "Tommy Edman's walkoff single in 10th lifts Dodgers past Pirates reut.rs/4xPHXzS",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtnsmxhjhe2o",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-22T08:00:34Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T08:01:29.363Z",
+      "candidate": {
+        "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says https://aje.news/pt8llr",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtnsm4ckng2g",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-22T08:00:06.112Z",
+        "matchedTracker": "somalia-conflict",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
