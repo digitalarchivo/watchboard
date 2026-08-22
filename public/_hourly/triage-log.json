@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-22T22:21:04.837Z",
+  "lastPruned": "2026-08-22T22:45:38.457Z",
   "entries": [
     {
       "timestamp": "2026-08-08T22:55:27.262Z",
@@ -142181,6 +142181,40 @@
         "source": "bsky:aljazeera.com",
         "timestamp": "2026-08-22T22:00:06.127Z",
         "matchedTracker": "september-11",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T22:45:38.271Z",
+      "candidate": {
+        "title": "Milei puts himself in the driver's seat to bring F1 back to Argentina reut.rs/4xWf8BZ",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtpe2sfd4h2s",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-22T22:45:12Z",
+        "matchedTracker": "argentina",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T22:45:38.272Z",
+      "candidate": {
+        "title": "Iraqi President Nizar Amidi says his country's territory will not be used to launch attacks against any other state.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtpd7qqwgl2t",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-22T22:30:04.742Z",
+        "matchedTracker": "battery-revolution",
         "feedOrigin": "bluesky",
         "sourceTier": 2
       },
