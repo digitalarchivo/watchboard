@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-22T23:26:38.956Z",
+  "lastPruned": "2026-08-22T23:43:49.285Z",
   "entries": [
     {
       "timestamp": "2026-08-08T23:52:49.711Z",
@@ -142357,6 +142357,57 @@
       "decision": "update",
       "reason": "light-scan posted directly + queued for heavy scan (score 0.85)",
       "confidence": 0.85,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T23:43:49.116Z",
+      "candidate": {
+        "title": "Iranian President Calls for End to US War While Tehran Is Ahead - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVpETFQ4dWI2U29jaE4tZXdiX2VLY1l6S0FHX1ZlM1pHeXd1RU00OWwxNklGSWxBLTdGdXA0V0IwQllaUHdPNXVFeFhuTk5hb1drSkxSWnZYV2dZWGZzSEI3dU1yVXFCVFhNRWx6cE5pLWFVM0o3N2pON3lsUHctVXczaGlrV1hlZDB3NEJmZnRQbDRZQk5TT19hMHlmN2cxYWxDdlRCellSdGtfMGlGc3lHaDQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-22T23:43:47.013Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T23:43:49.117Z",
+      "candidate": {
+        "title": "Armando González y la posible ruta de Olympiacos a Nottingham Forest - ESPN Deportes",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVNlMVdLV01maGhNRmh6cmYwQ1dHQ0JLN3dPR2lzRXNJQ0t1RDhoc3M3YnZFaGtqcnFEdFdQRjZYaUh3clR0UTlheEFYM0VpNTZOWmc0Z1U5cHNwd2p3akJBNkhfR0xPaW9FLWUzYTNlREY2cmpmRlUydFJLUDNWRzM3ZUhPV01yMHZxNWhmTDdvS255S2Q3UEtZVUc5ZVgtRkkxSzVDb0RHQQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-22T23:43:47.315Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-22T23:43:49.117Z",
+      "candidate": {
+        "title": "Israeli army and settlers injure several Palestinians across West Bank https://aje.news/4i37pu",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtpgl32sks2p",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-22T23:30:05.775Z",
+        "matchedTracker": "israel-palestine",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
       "model": null,
       "scanType": "light"
     }
