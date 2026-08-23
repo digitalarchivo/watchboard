@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-23T15:25:08.204Z",
+  "lastPruned": "2026-08-23T15:44:51.147Z",
   "entries": [
     {
       "timestamp": "2026-08-09T15:44:51.487Z",
@@ -142505,6 +142505,108 @@
         "timestamp": "2026-08-21T14:35:01.056Z",
         "matchedTracker": null,
         "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T15:44:50.741Z",
+      "candidate": {
+        "title": "Wildfire approaches Reno, Nevada, forcing thousands to evacuate their neighborhoods - AP News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUpEM0MwOHJxRV9tR2NuUkV6NFFBSzFwRHM3dmp2Z2U1TlBaTVRWY1ZDNDg2U0NTX0V0dlJVSkVNZF9FV1dDY2F4ZFBaMkhuVjl1MHRVYXZPZm1SUlRCOEZoa1lTZ0toek0wYVJIN2d0eTEtSXFYLVdOVFNOdHZYM0pzZXNKb2NscjNFLThoX1hpZmgzcHJoTQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-23T15:44:49.007Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T15:44:50.742Z",
+      "candidate": {
+        "title": "Russia likely to mobilize at least 300,000 more troops to Ukraine war, Zelensky warns - CNN",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGJRQmhkR0ROQmwxN09qQ2dYWHRjbjdfVmJwSFhvSG8zNkxUYllNcXhXa1RJVTF3VUs4OVlDSGZ4VS16cmd6R2JKOGFfUGM5QVVMb3l2S3UzLXgxU1dSTUwtRzNVR3JzOVBRM3hVbWs4bk1HNVYycER2UHBTWHVmbm1pTEMyUQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-23T15:44:49.007Z",
+        "matchedTracker": "ukraine",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.36)",
+      "confidence": 0.36416666666666664,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T15:44:50.742Z",
+      "candidate": {
+        "title": "5.9-magnitude earthquake strikes Japan, injuring at least 37 - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazV1ZjJfeUlIOG0tdGVFRmlQaTJZMjdPWnpuaGRYX1dzN0lUZkpMWWc3TU45NkNkQUh3OXVqTEx0UXJCOUtfdTRORmNSSFVNRUNRb01xWXpKLWlNUC0xZXFFQ3R6aDhXaEpROXVfWFZHcER5T0VoNHlvVkYxSjJCTnJOem12Mnl1MDFKdWZiNHpWd01pQm1KYjdB?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-23T15:44:49.007Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T15:44:50.742Z",
+      "candidate": {
+        "title": "35 Expensive Purchases People Regretted The Second They Bought Them - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXYzc014OXkwdDV4NWFZU2R4RHJMTktNeWY0bG9SbVdNM3ByemFLNzMyY2V5WVMzUUt4N1B3RUhoMGtmYVl5cHZxdGJFOGRzUjZBQVVFbWpPamdJdUdZa0Ztak02TllrUi1OTXQxNlVsZW44THpPcTI3WDJZemdUT0g5bzZHNUlKTElJ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-23T15:44:49.007Z",
+        "matchedTracker": "southeast-asia-escalation",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T15:44:50.743Z",
+      "candidate": {
+        "title": "VIDEO: Fuerte accidente de Verstappen detiene el GP de Países Bajos con bandera roja - Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1F6bHFqaUlVZnVUZmk1d3RvWW5GbkItMGtaR1ZFeDdFM1J1MEpjMTNWREUyUExKaEdRMHFsTVdKdF9zWUdSbWt4NDFRTlZmczl4NmZYN3F2QTBNQW9tOHoxR0VqQkZQanJIMnVLcDN5RkFPRTJsdTJORWRfcGhiVl82a0FaZVlDbTRQWA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-23T15:44:49.284Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T15:44:50.743Z",
+      "candidate": {
+        "title": "Balean a vocalista de Beto y sus Canarios antes de concierto - Puente Libre",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1BFbWp4NHJFN2VoMkpSbng4WEtpSVdzaFJmRjVMdU9MQ003ZHBwS0lkUk1mTHMyamdBTlEwYWJnWmlidkdoZW9uVnhhNUJtS3ZHbDQ5OWYtemlDUHIyWklmcERjY3psdEo1R29fQ3NmNHlTcVJ1UEt6Wmc1c3lGdDEyaUJOWVQ3TTlKRUtLa2lOWUNJQ1c5WVFSSFYtaElFT0pTb2I4SFVPMURX?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-23T15:44:49.285Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
         "sourceTier": 2
       },
       "decision": "discard",
