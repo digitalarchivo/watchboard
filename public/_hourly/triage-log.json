@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-23T08:36:58.153Z",
+  "lastPruned": "2026-08-23T09:02:22.834Z",
   "entries": [
     {
       "timestamp": "2026-08-09T09:09:54.124Z",
@@ -142697,6 +142697,74 @@
       "decision": "defer",
       "reason": "deferred to next heavy scan (score 0.32)",
       "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T09:02:22.638Z",
+      "candidate": {
+        "title": "U.S. set to impose 50% tariffs on Canada after failed talks; Canada to match them \"dollar for dollar\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWVp1OXJCTUlOWC16bG1TeFdCVHVsRDgxenJhcGVuLVFSY3lvNm84VnZmd000WG5EMW52VTBPdE1PSnpUM1BpM3NTWl9sSnJsYUtrVVRLZXpfaHlDeHFfRDIwVGtJNWQ4NzI5QUtqREZIWk9tOFdHOW92enFsbjRYZ1JLbGxwQVBBYzk5VW5CcG9Dc1g5ZE0wWE4wcw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-23T09:02:20.744Z",
+        "matchedTracker": "world-cup-2026",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T09:02:22.639Z",
+      "candidate": {
+        "title": "Padres RHP Casey Mize exits vs. Twins with ankle sprain reut.rs/4wUDBH2",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtqfcm6m532s",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-23T08:40:07Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T09:02:22.639Z",
+      "candidate": {
+        "title": "The NHL is looking to award an expansion franchise to Texas by the end of the year.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtqggm4fsm25",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-23T09:00:15Z",
+        "matchedTracker": "brics",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-23T09:02:22.640Z",
+      "candidate": {
+        "title": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtqggcxzbu2t",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-23T09:00:06.207Z",
+        "matchedTracker": "israel-palestine",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
       "model": null,
       "scanType": "light"
     }
