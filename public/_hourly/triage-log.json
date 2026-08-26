@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-26T09:55:21.754Z",
+  "lastPruned": "2026-08-26T10:27:46.836Z",
   "entries": [
     {
       "timestamp": "2026-08-12T10:41:37.462Z",
@@ -146250,6 +146250,465 @@
       "decision": "defer",
       "reason": "deferred to next heavy scan (score 0.28)",
       "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.644Z",
+      "candidate": {
+        "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "ice-history",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.645Z",
+      "candidate": {
+        "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "covid-pandemic",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.646Z",
+      "candidate": {
+        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+        "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.646Z",
+      "candidate": {
+        "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+        "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.646Z",
+      "candidate": {
+        "title": "Trump says all mines cleared from Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "taiwan-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.647Z",
+      "candidate": {
+        "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "spacex-history",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "update",
+      "reason": "light-scan posted directly + queued for heavy scan (score 0.95)",
+      "confidence": 0.95,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.647Z",
+      "candidate": {
+        "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "south-korea",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.648Z",
+      "candidate": {
+        "title": "Canada's retaliation tests the limit of American power under Trump",
+        "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "world-cup-2026",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.648Z",
+      "candidate": {
+        "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+        "url": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.05)",
+      "confidence": 0.0475,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.649Z",
+      "candidate": {
+        "title": "Chinese teens are turning to mind-numbing drugs to 'run away from reality'",
+        "url": "https://www.bbc.co.uk/news/articles/c99d08j3kz1o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "calderon-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.649Z",
+      "candidate": {
+        "title": "India's sugar squeeze threatens its biggest season for sweets",
+        "url": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "india-pakistan-conflict",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.649Z",
+      "candidate": {
+        "title": "Why Tesla has been caught up in a massive car recall in China",
+        "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": "cancer-breakthroughs",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.650Z",
+      "candidate": {
+        "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+        "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T10:27:44.083Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.650Z",
+      "candidate": {
+        "title": "Graham, and Trump, Triumph: Six Takeaways From Runoffs in South Carolina and Oklahoma - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T10:27:44.148Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.651Z",
+      "candidate": {
+        "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDZFaTdpSWZyeEE4enZ6dXBXand2VjZua1ZvMUFKdl9HMVhTR1pFbjFlOVU5SGhvN1F3Ni1HWDV2VEk0LVJFUlI4YVNudTh5X2dtV2wtTDFZNWs1aGx2eTNpNzFWQTRGbUVuNkt4SmpSc1ZDQkdiTWhzTHF1cmI1X3JKUlhQZ3NOQnZtMFBub010V0loMWgtUmNuUDFzajhXMDZjeDhzWkdUX1VNTGpHcG53?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T10:27:44.148Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.651Z",
+      "candidate": {
+        "title": "‘Dead in the water’: Why Bessent should fear the bond market - Politico",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWUyMkJUVjBDUzNFbE4xT0Q5aVRLaHdHbDZydzZMcjh2MUtYSEVOcHQyU1VKdkppNnQ5SzFqT0ZSaUdXZVppc1BtbVBod1pZWFNYRmdwU21FajYxZGo5Umt5UEhVSEU0UWxWSnpPMmNqaVVuMDFmdXZxSlFBT0ZVTHdxMUdYV3RmS1lr?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T10:27:44.148Z",
+        "matchedTracker": "global-recession-risk",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.652Z",
+      "candidate": {
+        "title": "Bill Gates was an AI optimist. Now he’s scared of what could go wrong. - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T10:27:44.148Z",
+        "matchedTracker": "fox-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.653Z",
+      "candidate": {
+        "title": "Watch Jack White’s Emotional Cover ‘Jolene’ in Honor of Dolly Parton - Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2NDeDVMNEpsU3h1aXNrRkJwRnZYcnVzMkRNS2dRTXpHbGVoWk50TW8wbk02a3ZXWHZSUkVRcWd6MTRBQTFjeWt4V0tXX2lSY3VFZG9vNzN3NEFhOFhZSFhrczg5U245b3VZNGdDT3ZqZ0YxTlJTTlBCRGVQRWNCcmlhOWR3V3QwVnJvaEN3dmE4VGlTWlN2ckdlczUtcU9KcHpkMnA0VFlPR3M?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T10:27:44.148Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.653Z",
+      "candidate": {
+        "title": "EXCLUSIVE: US produce supplier Taylor Farms frequently fails to disclose workplace injury tallies, records show reut.rs/4qzn0GU",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty4lbo7lg25",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:25:12Z",
+        "matchedTracker": "bad-bunny",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.654Z",
+      "candidate": {
+        "title": "Earlier this year, Meta planned for AI to take over much of the daily work performed by thousands of human employees, and executives explored slashing the size of many teams by as much as 60%. But just hours before the first layoff wave, the CEO blinked reut.rs/3UkZ26n",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty4jxnces2y",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:24:29.128Z",
+        "matchedTracker": "chile-allende-pinochet",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.654Z",
+      "candidate": {
+        "title": "LIVE: Spain’s 'La Tomatina' festival\nwww.youtube.com/live/_b7c6rc...",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty4jwlr522e",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:24:28.028Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.655Z",
+      "candidate": {
+        "title": "As Cook case smolders, Trump has other paths to shape Fed policy team reut.rs/4cLEN8b",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty3zqfr242t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:15:24Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.655Z",
+      "candidate": {
+        "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow reut.rs/3UjW6a6",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty3qnupeo2c",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:10:19Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.655Z",
+      "candidate": {
+        "title": "Some oil companies to avoid ships on Iran blacklist, sources say reut.rs/4gon9Z2",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty3hl53ia2z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:05:14Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.656Z",
+      "candidate": {
+        "title": "US-Iran war sinks into energy trench warfare six months on reut.rs/3UVHaiz",
+        "url": "https://bsky.app/profile/reuters.com/post/3mty3alxzux2b",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T10:01:21Z",
+        "matchedTracker": "world-war-1",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.656Z",
+      "candidate": {
+        "title": "UN chief Guterres said the attack underscores 'the alarming security situation in Haiti' due to gangs.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mty36efdus2t",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T10:00:05.967Z",
+        "matchedTracker": "haiti-collapse",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T10:27:46.656Z",
+      "candidate": {
+        "title": "NEW - United States Capitol Police Arrests Driver with Guillotine in Truckbed   @insiderpaper",
+        "url": "https://t.me/insiderpaper/44156",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-26T10:27:45.768Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.57)",
+      "confidence": 0.5666666666666667,
       "model": null,
       "scanType": "light"
     }
