@@ -1,1945 +1,7 @@
 {
   "version": 1,
-  "lastPruned": "2026-08-26T20:26:38.281Z",
+  "lastPruned": "2026-08-26T23:55:49.380Z",
   "entries": [
-    {
-      "timestamp": "2026-08-12T20:35:54.558Z",
-      "candidate": {
-        "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-        "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-12T20:35:50.273Z",
-        "matchedTracker": "fox-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.559Z",
-      "candidate": {
-        "title": "Trump says Karoline Leavitt resigning as White House press secretary - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEc1SE5vWmdheWI2YVhzWmlkV2tNVkNWVHpFTlBkZDRKZ1pGSUdwUldwWVlRZG44ZFktanl0TzNKUnh6dFVrX1VvcGpRNVVVYnNnVFBTNVJmdFVHWU1DaTN5T1ptVmFRcVZheVliWWRxSUFxQzVmLVFPNWlPU2lTd3pyT1hwM2gzTVHSAY8BQVVfeXFMTlpUTVVSSHB6TVRZbFhxVkNadDR6TkZKVm16M2QwZFJZRm13bUFDS3IwTGRWazlMUHNlZDR3WEVpa20ybHphUWsyM085NGRiQmdTcVZacGczb0o4UFhFejJROVQwNy1ZV3B5X3A1eThJVGF2VVFqQkJ2Rk1DNHJ0cjJiN2s4dDVTZWJpZDlQZ0k?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.560Z",
-      "candidate": {
-        "title": "Trump’s justice department arrests expert on far right as part of SPLC crackdown - theguardian.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU3BnMEZScGwyaVdXV1pPLXFkbzh2WXFkVTZjdnBGX2tLbjJLM0pkOTJKZ1BmY1lZcl9rWGVvYjg4el92TE1IOE91akF2M3RDQ0pDQndOS2pCTUdIYklNQXJZdHl1T3pGdlQ5ZG44XzdFTld4MVJYajc5cmsybE1jSlQ3WGpHdnFR?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": "peace-processes",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.560Z",
-      "candidate": {
-        "title": "Hopkins daycare deaths: 3 dead including suspect - FOX 9 Minneapolis-St. Paul",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRkpyOHNuUDZSV0VUYXF2NUFqWi1fWXE0emVOaU04LWUwa2ZJY0tfVklld0ZVTG5CYTAzYUh4Zll1QmhwMDYyODRJRy03OXlyT19kME1qTE42WVJRS19PS19Qbk9SMF9tVk5hSWwxTUI0UdIBd0FVX3lxTE5qdmFwcmNSZGRqZ3J0TElQa0FtQ29feW1hNEdad0hia3ItRDVIWV91TlFpcENhSEV3RHNjT1EzLXVNVHFNQzV3YXdBSXNLUkRQY0E2emRLM3dtcmRQd1RmYjNoQlZYX21pNDlTRVQ1Ym12enFPMXU0?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": "fox-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.561Z",
-      "candidate": {
-        "title": "An overnight Ukrainian blitz damages Russia’s Black Sea naval stronghold, Zelenskyy says - AP News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbS1PZ202OFpxcUktZG9xalEwRG56WGQwZ0JUODVjbEFjRU0xaHhoaDMwUkYxS05OUzlFN01hdnc4R0xGMUtoMkVKTUk0OHF6S3AyRFRkWXREOGMzNlFVZl9Calh1SlJBNDdLRUpRWWg1VDZJdS1zdGhsaUtjU0FOTk0zTE82X2JhcGRkZGFUQktXYm1tM0E?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": "southeast-asia-escalation",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.562Z",
-      "candidate": {
-        "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV3Z2SnhPazVIQnhtS1Q4MnZZY0l4N0thOE9IMDVYdFJYYXRrQWxCellTNlowMnc5RDdqdmNzZEo4WHlKNjQ1OTRyTGR3TWxGTS1VdEdhRlZoWGdTeUF0MERkYnJiRFVoNFF4Rk1tMElRdFNHZnpyZ3VUby0xU2VLNXJaXzJ5YjRJZldiQTVXOWZONWpkTVpVbk94d3ZsVzlndmpGSUdpaWlMMUdsbFNEYWtvc9IBuAFBVV95cUxPNmM5RlF4c0I0VlZZTS1Sbmo2ejBFS3B4RnBsUUV5TVpSS3E5QnpFeUkzSlk0S29ZaEQzNWZESWRyVE5fWlUycVJmZDZYR0VGNVZTVzF6dFVMZ2ZIMmJKT2JHaURuMVZIYTNuMFY2MlZCMmdUMnZlQWxyOTRzNlUtTzc0SlZTUHkzV2ZzRHJzRlBGZVRCTkFJM2N1eWlsNFpxVm1UWFZrNF9TdzJUa2EzXzZfVUZQdDN6?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": "october-7-attack",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.562Z",
-      "candidate": {
-        "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro - finance.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONFZLVHp0eGgyWkFkU0dIcTcycXE5RWhfM0JMbHY4OWo2eG5ibk5qM19DYmdWVFhXYjk3MTE4NjYwVmFacVdWanlPeTZVbGxJZWNMQ0VXNlRqdV9halNKVmF5N3R6ZFVOUWEtMVM5cTIwdFUyWEhUelFIaTFOemx0cmg3UnFvVVVfQnVlOVFwRlliX251Tm50Zl90RndQOVF4X2lrMkxsZ3ViMkNsUExJaE5aeWNPRGkyLWJhdXdtTlNfR3IxTGt5RmJyMVJrNllP?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.562Z",
-      "candidate": {
-        "title": "Honor Launches Its Long-Awaited Robot Phone And Yes It Can Wiggle At You - Engadget",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWdxa0xhTGt6aVRLMVhsRGZrOHp1NnlwT01XaDkxZzZ5UVlwWFFvQ1BHelZQOEhDNzRYLXVEX0ZsUVQ4OWlvVG5reWMtaURkTnNOcXNHRDA5RG1qd19YS3NUd3VLOEF3eFpEMEViWTNrV0V2cGRaQk1KZlR5TExBQUE0YWlpb3NsT2xyMDl4eXd5Qk5meEE3SWJBcWY2ZGYza1gzNTV5OTFRUQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.563Z",
-      "candidate": {
-        "title": "Pixel Watch 5 gets Gemini Intelligence, At a Glance, and more - 9to5Google",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPRXBWT3c2TGVGbnRVelhxa1NSRXJjU1RwUENYbEVfUkZmcmpWcU0yTENPaVNid2QyeG51Y3NkOWFsb3pNT1lJbDBTWjNGNTBCV2UxRkZpbmRoVFMwblFuUFo1TjVkMWtzYXNUNC1IMktmSkZpamU0?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.563Z",
-      "candidate": {
-        "title": "Nick Reiner Indicted for Murders of Parents Rob and Michele Reiner - Variety",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblF2bkszd3FsOS05bEhpeXlGTHUwNG5vSDVwOUF0bHZ5RUhud0FJOHoyUFBJcVpkTWVZMWEycXM1TjlPZkNrYTQ3bHp1YzJmdjJzaEh4bkxpZkFmalFUYXRPMWczcV9xdmxFRDQ0M0t6RDZ4VU8tVEV0ejlESkVMcHU0ZUt0TUthc1V3RlAtTFVPRTMtU2NxYVlR?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T20:35:50.418Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.563Z",
-      "candidate": {
-        "title": "Inflación subyacente de EU se modera y reduce la presión sobre la Fed para subir tasa en septiembre - elfinanciero.com.mx",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMFpjb3RUQXU2MGVRampnTzdJU0tmWFlPR2RjdkNmQjd0V25HLXZYcTJFMzh3NFdyV1NQYzZ1VDM0WlpWTWdYcTVneWtsQTZQanllZDJkXzZUelZXRjlSQ2tiVGNkZkR6SjZqUDFKN0VDTDFaMHFlUzd3c3E1ZEs5bGEyZlhvYkdwempaRjNLU21rLW9iTEpMZmphcERIQV9rNW5fRzRlWGNMdENNbDhPbjM4dUxhWGc3c2RjUU9seV85WHM2WTZwWkx2ZHJNdVJBdnBuSkVOaHJSbXRuaXNoTk1scFBpV1E?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T20:35:50.799Z",
-        "matchedTracker": "global-recession-risk",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.564Z",
-      "candidate": {
-        "title": "Aspyr confirma que prepara más remasterizaciones de El Señor de los Anillos tras el regreso de War in the North - es.ign.com",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdFItc2J4VVNOaDFQcUc5UG9uRDNRbERZRlJPNE9KOVVUQUgwUnJvX1VQM1Z5TUNrM0c1UXZacVE5SWdFdHR2ck42aV94a2tud3VfcW5LcWx5VHBEczA4Zm9hYlhIdUNVakpHWG1jWk10WTlBYnNpWjdmcWZublFoQUxudW9VSWpQVWprdzY3WnVkUElEelE1SGpvNGxhU196YW1SYXN3NnZ2Y2pkX09rVmEwdVB3OHZ4alZkaTFBOEVqbGU5bFQ3a0FqcERTbVN5VmhYV0FqYU5YNWd4Mldoblc1UmFVT1QxWTFtNlpnUTJkVXp1NndfOA?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T20:35:50.799Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.564Z",
-      "candidate": {
-        "title": "Jenna Ortega preocupa a sus fans mexicanos tras radical cambio físico y actriz revela la verdad: “Ni un sorbo de agua” - Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOekpaMXFicS1VeWV0SXB1WnppMDlxZHFvYTZBQVozbE1SaHNxSXMwX0k3QjBfa29pYlNvazZxaTZFODZycjU1WGZDRXJ6Mk9sbElUV0xEZVNhelNJMUdtdTdQSXRkNHl3Q09yVnA4SkZMWjBSbVQxd193TEFnUHBQQi11QzNVV1BmbDFPZ3NPTnZmYWNPZ2xHT2c2UGpvRnhaXzZkcm9zSDRtdWdiWmlCLW9DTl9kd2ZBY2pRdEZyYUJRbjhrTDJldkE2WmJkSzVGMGJBN0hiTXRRVFNyd0V4amR3T3hMeC1LbzRFSWJrRdIBigJBVV95cUxPbW05Z0gtZ1BxVVRVRnpMcENEQ21wM0lPc1pmTXhvaWpoLXVuU2ZHVEdVb2xUNk8yMGxya2JrMTMwc0g4UmRHLVJBSldOTEFVR200eWRTTmhobThjYnBUQmN6S3VuV25PYVBaM2R2OTFybXprSExILXZyWlc0eUFwaEhyS0I2czJoZmVNUm04Z2FrdUoxR0NrdHBnLUhpRHNpWkZDZEx0TEZYbHVfalpPRXBjWW5jLUtFR2ZvUnFkbHlXRm92QkViQUI0b3pqVDdvMV9OSzlfS0JoYVhJa0dVS0c2dC1jMm1Pa0Vhc1RnZk5waFJFUVNoRnEyTlN6REFDSU45NDBZRHlzZw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T20:35:50.799Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.565Z",
-      "candidate": {
-        "title": "Canada unhappy with latest US offer to lower tariffs, CBC reports reut.rs/3UtJnl4",
-        "url": "https://bsky.app/profile/reuters.com/post/3msvxvgfniz25",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T20:30:53Z",
-        "matchedTracker": "world-cup-2026",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.565Z",
-      "candidate": {
-        "title": "Hegseth welcomes Colombia to counter-drug alliance after its election reut.rs/3TJh3et",
-        "url": "https://bsky.app/profile/reuters.com/post/3msvxlc7yhr2o",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T20:25:13Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.565Z",
-      "candidate": {
-        "title": "Jury selection began Wednesday in Meta's federal trial over claims its platforms have harmed youth mental health and track children in violation of federal law.",
-        "url": "https://bsky.app/profile/apnews.com/post/3msvw7bkhyu2q",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-12T20:00:36Z",
-        "matchedTracker": "germany",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.566Z",
-      "candidate": {
-        "title": "BREAKING: White House press secretary Karoline Leavitt, the youngest person to hold the role, will leave at the end of the month, President Trump says.",
-        "url": "https://bsky.app/profile/apnews.com/post/3msvvndzh4o2o",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-12T19:50:35Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.566Z",
-      "candidate": {
-        "title": "Leavitt is departing her role to spend more time with family after giving birth to a second child, according to Trump.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msvxtwxbmb2c",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T20:30:04.016Z",
-        "matchedTracker": "southeast-asia-escalation",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.567Z",
-      "candidate": {
-        "title": "Brazil orders Discord to suspend livestreams after teen’s death https://aje.news/yvze4n",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msvw6e5ved2d",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T20:00:05.814Z",
-        "matchedTracker": "brazil",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.567Z",
-      "candidate": {
-        "title": "BREAKING - NBA s Lakers to be sold to Josh Kushner and Bob Iger for  12.5 billion: ESPN",
-        "url": "https://t.me/insiderpaper/43869",
-        "source": "tg:insiderpaper",
-        "timestamp": "2026-08-12T20:35:52.662Z",
-        "matchedTracker": null,
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.568Z",
-      "candidate": {
-        "title": "BREAKING   🚨   Solar eclipse starts in Russian Arctic: space agency Roscosmos",
-        "url": "https://t.me/insiderpaper/43870",
-        "source": "tg:insiderpaper",
-        "timestamp": "2026-08-12T20:35:52.662Z",
-        "matchedTracker": null,
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T20:35:54.568Z",
-      "candidate": {
-        "title": "JUST IN - Netanyahu rejects a 15-point plan for Gaza by Trump s Board of Peace, says his military will not make  any withdrawal  from Palestinian territory until Hamas fully disarms, and warns as long as he is PM there will be no Palestinian state in Gaza or the West Bank.  Read ",
-        "url": "https://t.me/disclosetv/21684",
-        "source": "tg:disclosetv",
-        "timestamp": "2026-08-12T20:35:53.060Z",
-        "matchedTracker": "israel-palestine",
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.61)",
-      "confidence": 0.6091666666666666,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.622Z",
-      "candidate": {
-        "title": "White House press secretary Karoline Leavitt to step down - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFFaanpFNXExbFBaWlczZmkwR2FESDFYSlRjakRvUnVXbzl1NU1aR0VrNEt3d1VyTk0za0xGREQxcVktYjZNUzNORC1HeGFNWTQ1bGNqOEdjbzdIUWoyOVJXU0FCVDR0WGNKR0YzcWxIVWtzWGF3TG0xRGR6WWtLa3lhajNJSUhMQjZuM0NwTjhGR2h4Z2llSy1oeE1uZUJVcnNIbE9kU3V6M2JwM1h0dWFn?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.623Z",
-      "candidate": {
-        "title": "2 dead after military helicopter crashes in central Texas - CNN",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hU1dYNkpyWHpMVEpQcmZ1SWlsaURlcE11WGhDbS0wQ0NhY0g5aUVkU2daMnZoajUyY012aWZVYl80Y0tMemF4eWVYeE5nYXFuVV9VWUt6c0dvU1lkMXhDcmg0SEV6dHJLYUdwbU9McFFTUzJT?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": "mexico-us-conflict",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.623Z",
-      "candidate": {
-        "title": "Colombia declares three days of mourning after deadly earthquake - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1hkcHZYLUdQR29qaHlHdmtWTWpNLXBvY3A5M0NSd2hIRXNRbzJQaXkzXzhVSy12UEhWOF95VjZ4S0dNQ2xRcVY5ZC1tcXRsMWw5YzdWVnNTVXNRQ3RZbmRPQzI1dWtOSWluRi05OXpKdjl3YzFUTV9HdENvRmRZSVFDUm1XUFJldTNleGJ4UmQ0aEoxWWRyZUxDeUZBbUdwSDJvZW5VZWfSAa4BQVVfeXFMUG05MmQ0ZnNoTmRHSXVJa2FzWGEyQjRFZ1d0c2R0SFAxcDh5X2E4YnhFc2RibThfUThkd0lJZjIyRUVvZWp5QjEwaC1wUmRDYmRlVkhsMmJuRHI4RzlSYV9EbkVZSWRXZDhyOG5senRScFVqUWZIMjlYdkg2all1OWFCbGpCUWlfT1pvWm5IWGhPVlRjRlprcm1jcmlYd0VsU2tZVTd0SlI2ZHhQcXVn?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.624Z",
-      "candidate": {
-        "title": "Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVNVV2ZIQkJOUGVYY1AwdHBYVDhYVFBvVmlUd3VDeGM3bGlDR1B0aC1FX3RDeHNTdWIya0hMVlZyNkRoS0hxcTkwTUN1T2FpSzRIb3U0N01ScTBJY19EczllaG1fRmdiUGNTVEJZRjd2VWc4S05uTm5FMmljbU5hUUI4ZzFxdnEyUlJvekUxNm5SWWp6ZEdPMXJSa0VYU2hrVVU2ZDlxSzFZeWJOSFFmUUVqbW0tenZRbjlpYTVkc9IBxAFBVV95cUxOcUpmUWlyNEJLc2Z4dV82dnFyVEhuSkVILVM1ZXpPWXhJeVdmaWRNMTB4dWdNWlZEbGpGZ3gxcU1LOC1iUldLdjA1LUxzaWg5QVhMUWFVXzZTN1BZX1pveGlJSXdRWmNFSVNPWFdOZGZvc1lOS1ZwMzlDZi02aE9KcUhYQl95bVQ2dWZkNEpjeVpoTzV6Mld6VUUwTUtjWjFiYk1DYkF5YkdLYm1lUlFRQVNuWlhnNnIxbFR6YmtRekZDVGJa?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": "russia",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.66)",
-      "confidence": 0.6570833333333332,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.624Z",
-      "candidate": {
-        "title": "One dead, more than 200 rescued after Indonesian ferry from Bali catches fire - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUFnZEhmT3Q3SVBXT1ZWTVptZUZ0NjN4R1FfUUZuZlhQaDRnOXZ4cGF1R1drMldreldERUw2S2NJeXZwbEFDZWRwb09jVUpVTW1FR3gyU2xzOFRwX1BZTmoxV09vWmtVSnRWMWJnUVJleTVWNU5Qb2VLNS1MR2F3Yk5wXzRNdk5meGoyTE9RdlZPRFJ0NHZwTjhGN2xqVkJuSFpvUHc4R2x1N0xmdFI0N1pTU3JYOVZmZ2NWOEs5M1FzMEVGdUdz?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.625Z",
-      "candidate": {
-        "title": "Israel says Gaza drone strike targeted a Hamas commander, and other developments in the Mideast - AP News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWZuZFpUQ0JKbW5uc3dBdFd0WUxfSlpDR3FTUElnWXJ0YjE2WFc3SWFLM29sRi1hX2J5WU94WTBhS3RvWl9vMFFWbzd4bF81QnZ3X19Ic04yLXgzbzBlQVZuX0JrRzh3UUJ1V1pQdld1R1pHc1duSWlkWXNkb3BSOUhCRXJPMmhMSmJYYVdsbDlsaU42cnN6dkVCdzhITHdabEZJXy1UbmFsdE5ZNUE?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.05)",
-      "confidence": 0.0475,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.625Z",
-      "candidate": {
-        "title": "Trump sued over Truth Social's $100,000 early access service - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pVFBxU19pUEU5SWFqSDBhU2d4Sl9WMkdDRmlTVkg1XzFxWURVZmpyeDhJQmxhbW9zMzBqNWZTbFptSlQ0ZVBzSU5aNkJUVGVPX1pKRkxwQndmQQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": "bts",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.626Z",
-      "candidate": {
-        "title": "LA Lakers Owner Walter Seeks Cash to Pay Down Loans Amid DOJ Probe - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMVVYWXo0dnBVbXFwcGtaUjJXdENOV2pCM3VkTDdlQlZGUTZJNXprdm1TYjlueUJqajJwcm9kUEZVdndxMVVLYkJvUWtRMlplZUp1TDB1NF9VMEhicFZaemlXUWNYc0t4WWpicDAtdVIyZzFBSFlQUTN3TVQydldrMmR6Wkt2VzZoMlRQR2dHOGkwcFZwRHNfSXRsaVNQaGRIOGZ1SGZKeWtlaElGMGJKak9VUjU?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.626Z",
-      "candidate": {
-        "title": "It looks like Apple’s iPhone 18 really will skip the fall launch this year - The Verge",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmdzJ5WE9FN19PS1k1bGxpUkdhQ3ZmZlRlMzFiOFBSSnBDS2E5WVBBc2RMUnhoMmxhQzB4d2ExN29MUFJuUnF5SFROdzdERnM5RFVSaTMxSXo4a3UxTnpuVWl6eXU3U3RqSG1qNXNHMnJGTGFMb0NSX2l4NDg?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": "iran",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.626Z",
-      "candidate": {
-        "title": "Nick Reiner lay in wait before killing his parents, prosecutors allege - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdU9PNjBxRTBMT0dJX2VBc2JEdTJPejdTNXo0UXl4VGdOdXNUajN0ckxtX2dmdmFPN3oxZ3ZZb0s3TTlBTlItcExOMTIwekJ5UkEwUnJxT2pFNlBtX1g2UlI5R2hoVzFoNGFRcTM1eG9YS0NHY1BxYXE3MXVnREttZXNkSDRvYVdsMUhXcUJzN09pUDR0RnJuNWNLOA?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T21:27:09.287Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.627Z",
-      "candidate": {
-        "title": "EN VIVO Mira las mejores imágenes del eclipse solar total que se vivió en España - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoYkg2dmRYM1U2U3NfY3NnY2xMd0tEd0t4bkd2RVZCNlB0MWhmUmp3TzJ5cFR1VzZsUmRpVGlXWldwRzdGRFBFWkFBc2hmazFmTXJaZWxtdw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.627Z",
-      "candidate": {
-        "title": "Sheinbaum confirma envío de ayuda humanitaria para Colombia tras sismos: ‘Ayudamos en lo que necesiten’ - El Financiero",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXFaRVhnUnhVaGxMcFl6VGxWSURyRDYybWotb2ZUbzdqRktnUGRTM0dibm8wcnE2MFY5Uy1vbk94U0FuN2NLdmQyNWYtMFBZQXRnV1dKdXZSVzZZRGNSWkFpaGtXcFg5S19YU2g4VDNESjQxeEl0dmRoaHRfbll5NEV6NTA2ZFU4SDl0N084TGFKcU4xN0NNR0E1TzFybWM3ZTNmWVNuVkVKNG5hTWlGdmdEVVV2aHloQXc?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.628Z",
-      "candidate": {
-        "title": "Diputados Arturo Ávila y Carlos Gutiérrez Mancilla protagonizan pleito en la Permanente - eluniversal.com.mx",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc3JYUUZEQ20wNEhYdzhnT2xleHpBd0JlNU9hZWFjM2lRQXJDZjVmZHU1Y0gzVHQ3V0FsVUIzMTZjdzRjTEJvZzlEOVhLWGRhajdZbXQtWnhTaXcwam5ITWJfV2lZa0dMWGZDdW45RFhOZVQzcnQyYVFPYzM0VEdieWtGX3g4YXpDVnNDSEdOYnAyWTlpdlFjLTdqOGtFdFE1MzVxMzBaU2ZYb1pYOU9tX1NIYjVkVWJ4Y2Nral95YmVRZXdqQnhPNVMyblNKRTVvZ0wyaF82Rm9XUmxySThBazQ2Q3BQVWdEWXoxdw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.628Z",
-      "candidate": {
-        "title": "EE.UU. acusa de narcoterrorismo a cuatro miembros del CJNG - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3o4NDJXUEc5ZUhxVjR2bkhPRWhidTQxdHpzbGt6Mm5uSklBdkZlVU5DV2RCVEhmVncyYW9zakRsVm83UTRyUWpQV1NyU29qMVJpVWhrN0tNWnZlT1RSazlGSmI2eldpM2tIeU1vV01vTmxEMmtGdGpwVFAySlB1TmFDYmtUc3JhYVhlc1dhQlRJNDDSAZMBQVVfeXFMUHNrS3hIOERoZ2wweE5ETlp3ekVQUzJ2dy1MT3Z1aFBJVEhIN0d3b3loNFdEWG04ZUY5WlBJdzhlOHc3Q1A0MFJWM1l4TkY4b01EQzQ2dWI3VWVQbm43M3BCcXI5Tjl5bFNtNmhCV2ozTjMzLVdzQUhERlhmcnVjWkVKTDZuNG9ORkt3VHBybHFsWnln?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "mencho-cjng",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.628Z",
-      "candidate": {
-        "title": "Brasil ordena a Discord suspender los directos tras el suicidio de una adolescente de 13 años - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRjRLM2ktMHlKaVRTQ2t6UTRLd3BKQ2pqVmNYLWRLWVVhN2NIQ3llckZzZ3dEODlWemlXbkF3ZDlFamlDbUlqX1ZDMHU4MElXNUs4eWpkRVdGeUNxQVcyck5Nc09saGNsOThFQlBUMlNBT3JRbUdjQVVXTElCWlNhdXZZbnd6QUhpMEtCeEU4RnU4VWpjd2hoSnZfN29xLWFOT3BBUk5VYTgzWjZsb3RfSWh6QkFjVnNpQ0FCZ0F4SHA2d0k5RXdyblV3OXhuQl9OVkHSAeYBQVVfeXFMTVBZVDlubFY0a0o1Y2s0Q3dad3Z4VjlnU3c1VThoUnJIVVQ0STFjQUtPbnZqbzNWa2RLRkFZeldVcmQzSkpXY1pWSDFuZWRabV80Zk0yOVFYc09zY1l0ejlpV1FYbjRDOGc3YVlGUGY4S2lqUk5EamlSeVQwZ2dfbGNrcm1HUGh1UG91R1liMnhiaG5mU0VuWFUzRzNTRnlRWHJSc3AwTFphdFFUQVFOSnNLNzFGbGtaNExMQnh6OHZ1Nk5INmp0akVfRXNfdUIyM2c1N2MyLS14Y3QwU1NkWnNtREZSMnc?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.629Z",
-      "candidate": {
-        "title": "Terremoto en Colombia: El último acto de bondad de \"Lucho\", el héroe que dio su vida para salvar a otros - eluniversal.com.mx",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHZicDJka041TURPUThUbzhpaUJJN1U3VmtreTRhWHVqVTBwdlZnWUZacnZWYjgwQzZHSHh1VjVoMmxkWWdvMEI5cnJpdmxUYVZvSG43TnBlMkVDSXdJRVRfUGxDdWJubDRpVm9jUXNZdUVHOTRTV00zaVpLTVloZEZZMGs1UFktLTdncnFVYmJKZTdQXzM5MXdLSkh6WGYwYVp5QkdZRzNsV2hQdFNDTlBfMW9mSEowZjVqRDd4WHpzLUlPRU1TRTdCOFdOT0FKWnF1M9IB6AFBVV95cUxObFlySDRKM3dsOVktLVU0VW5QbHJJUEdKTUtudkFDNmtfRjNPVk5OSlJkd0VTSF9fdDI1TTJ3SjQ3RVNmcWExQjMxR3M1ZVYwUURTMEwtUDBBN0x2R0htaXVCck1nQUVvdHoySldoRS1LQkFSRzA0NG84Q2JGcWJtTzhUbmo3eUJsTjRjUnFhak95MlRCemZTdW9SUnNyWlZLZ2N5Z0c5SmhoTThocjFMNksxUFRPeEU1WjFTS1h4VjZTcGJGajlOQ2R2a2V2cWowOTk5aEt6V0U3bWVOT29YNXBSWUdYZkVE?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.630Z",
-      "candidate": {
-        "title": "El Volkswagen Taigun se renueva en México: llega con mejoras en mecánica, equipamiento y diseño. Este es su precio - Motorpasión México",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTYxOEF4c1lGdTI5VFZ2MVlKWi1Wa25nalY2WHE5LVdxdE41bUppWWNjWXRzcUV6cnQ4dmNHSDNpOFdhdVFzY3FwMWotZWZUUmRDaEZvX3dKMHZIUEJTak00MmFhV28zWU1VR2F2OEFqcTVnTFdvRXhOYzRUa2pXdTcyRHhyWF96eTNLc0RjRlphcXh1Yk1vb1Q2TVI2cVNlb0ZkcmJualFBM2ktZVdXVzZqcDNiWk43WWtYR2VudldVX0h0MzBfRDFpRE9vMWPSAdQBQVVfeXFMUGgzZlY1SDR5OGVDY3hBRVJfZkJRczhLQXc2VkRwaDVsaU4yVW9uNmVWaXU3aFF4aGlFNUstZDFoWWlTOEVnalh0ZDktS0RicWV4OE5IZ0NJYVhwT3NLVlhOM0llczFuM1hRNXg1SXVuNzZibDlRdnU1Y2VmUHlRZTBhNVVVVk0ycm9IbzJqSkMtVUo3WW1HZTdKalkyU21KN0h3clcyekx3R0t0X2ZsTi1CU3VpUUtaNzhubEE1RHUwUnlaU0VuN0JyZkRyWWlPV01ja2w?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.630Z",
-      "candidate": {
-        "title": "Muere a los 72 años el poeta y académico de la lengua Vicente Quirarte - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY2V4bW9WWnhwanFPLVBOV0x5MXBacUxEcG80ZEhQc3ZJem5QOVVLa185cUJwT1FKaVd6NXdsNm1nRGQxOUNsN3Zkb0RRQWllRmU4SW52V3JtRnQ2bUZvWndjeHFvN2xfSXI4bEFRbHJ2S2ItNXRKS1Y5Z2J1Zy16cm8wdVFBNldGLURMRVJHcDl3QjV1d0dfelpuZzVOSk5ENzFfTHBPRm9kcmdTYTkwUFpn0gHGAUFVX3lxTE9YLWxyTXRIZWQzZzBiZzVoSGFURV9uTEpCUHZzeTctc21ZNG1mWlJ5WC0yVnhLal9uYVVaSDRqWjZTdkY1U0hBcnh6bUVBU0VQamlaWmtKTVR1TWszTUxlS0ZTQld5RFgzQno3Ym5QZURnN2xGTlVWSzFFaTlqaGwwRnFWNlFualhUUTZDVlI2dGh2LS1xTHE4TTZzSGNSZ1J0aHN2dWRzdjdKV09GcURRR3YwRDBVZlJKZTBSeTg2My1xNmNGUQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "fox-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.631Z",
-      "candidate": {
-        "title": "Cristian Castro termina la prepa a los 51 años: ‘Me dan pase directo. Nos vemos en la UNAM’ - El Financiero",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN0xDcDJkTC0ydkd1VTBmbjBDMkcwYWZCSXltMTR6eThKOWd6a2hsbHNCX3pQU05ZN0dtcHJUN1lnVVdXTFpVblJkUE55WDd6WGQ5MktEd1piMXYzd3FXNERNdWFXdll2ZGVVLXFxMFFHYmd1RFRXc283djF3ajBidkUtTWNNQnY2dmhnYTdPUDAxMkhZRThzMkNjckZxN0NLd2hqdWgxUTM0bUxYYmJSVjVxUTFRM1RPZnhUZWFRLUx1anJ0MVdpRXVXS2UwN2xYZGdz?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T21:27:09.406Z",
-        "matchedTracker": "cuba-crises",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.631Z",
-      "candidate": {
-        "title": "US Justice Department charges former Southern Poverty Law Center executive in fraud scheme reut.rs/3TVOV7R",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw2wlym7f2t",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:25:14Z",
-        "matchedTracker": "peace-processes",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.632Z",
-      "candidate": {
-        "title": "⚡ Europe's multi-trillion euro energy gamble, on this week's Reuters Econ World podcast reut.rs/4cfW9d2",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw2hglmic2s",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:16:45.544Z",
-        "matchedTracker": "european-union",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.632Z",
-      "candidate": {
-        "title": "DEVELOPING STORY: A grand jury has indicted Nick Reiner in the December stabbing deaths of his parents, Hollywood filmmaker Rob Reiner and producer Michele Reiner, and added a ‌special circumstance of lying in wait, prosecutors said reut.rs/3S9HjxT",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw25miuhk2s",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:11:16.207Z",
-        "matchedTracker": "cuba-crises",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.633Z",
-      "candidate": {
-        "title": "Whole Foods recalls food containing jalapenos on potential salmonella contamination reut.rs/4x7ZZxa",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw2ewve4w2c",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:15:21Z",
-        "matchedTracker": "fukushima-disaster",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.633Z",
-      "candidate": {
-        "title": "'If I go, you go, right?': Traveling on the presidential plane - without Trump reut.rs/4hrwlhF",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw23x57yo25",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:10:20Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.633Z",
-      "candidate": {
-        "title": "American Airlines shakes up leadership as CEO faces pressure to close profit gap reut.rs/4x3pxMg",
-        "url": "https://bsky.app/profile/reuters.com/post/3msvzsvhn2625",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:05:16Z",
-        "matchedTracker": "mexico-us-conflict",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.633Z",
-      "candidate": {
-        "title": "Federal grand jury returns hate crime indictment in stabbing of Muslim man in Utah reut.rs/4wJmzeV",
-        "url": "https://bsky.app/profile/reuters.com/post/3msvzlhs6xq2s",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T21:01:07Z",
-        "matchedTracker": "germany",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.634Z",
-      "candidate": {
-        "title": "Los Angeles grand jury indicts Nick Reiner in murder of parents reut.rs/4wVeZhP",
-        "url": "https://bsky.app/profile/reuters.com/post/3msvypbfsz72z",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T20:45:21Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.634Z",
-      "candidate": {
-        "title": "RSF renews assault on Sudan's al-Obeid as drones strike capital, witnesses say reut.rs/4z9KtCt",
-        "url": "https://bsky.app/profile/reuters.com/post/3msvyghfycz2w",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T20:40:25Z",
-        "matchedTracker": "sudan-conflict",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.63)",
-      "confidence": 0.6333333333333333,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.634Z",
-      "candidate": {
-        "title": "Severe storms have wreaked havoc across the Midwest, causing tornadoes, heavy rains, and flash flooding.",
-        "url": "https://bsky.app/profile/apnews.com/post/3msvzk65emb2l",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-12T21:00:23Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.634Z",
-      "candidate": {
-        "title": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msvzjnt5mx2h",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T21:00:06.399Z",
-        "matchedTracker": "digital-inclusion",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.635Z",
-      "candidate": {
-        "title": "Two major earthquakes have struck Latin America in less than two months, killing hundreds so far in Colombia and thousands in Venezuela. They are the latest in a history of devastating earthquakes across the region.\n\n#Infograph",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msvywsq5bc24",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T20:49:34.093Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.635Z",
-      "candidate": {
-        "title": "Israeli Defence Minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops from security zones in Lebanon, Gaza and Syria. \n\nHis remarks come almost two months after a deal for Israeli forces to withdraw from southern Lebanon.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msvyibhmnk24",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T20:41:26.246Z",
-        "matchedTracker": "israel",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.636Z",
-      "candidate": {
-        "title": "JUST IN - Yemen s Houthis attack al-Mokha Red Sea port, saying they are targeting Saudi troop concentrations and ‌weapons depots, this follows the earlier attack on Saudi Aramco s Jazan refinery today.  Read here:  https://www.disclose.tv/id/k7zl9hoyh8/    @disclosetv",
-        "url": "https://t.me/disclosetv/21685",
-        "source": "tg:disclosetv",
-        "timestamp": "2026-08-12T21:27:26.163Z",
-        "matchedTracker": "saudi-arabia",
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "update",
-      "reason": "light-scan posted directly + queued for heavy scan (score 0.85)",
-      "confidence": 0.85,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.637Z",
-      "candidate": {
-        "title": "JUST IN - Trump:  Black and Brown Voters don’t want Communism or Socialism.   Source:  https://truthsocial.com/@realDonaldTrump/posts/117067614963933704    @disclosetv",
-        "url": "https://t.me/disclosetv/21686",
-        "source": "tg:disclosetv",
-        "timestamp": "2026-08-12T21:27:26.163Z",
-        "matchedTracker": null,
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02125,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T21:27:32.638Z",
-      "candidate": {
-        "title": "JUST IN - U.S. District Judge Nicholas Garaufis dismisses criminal ‌charges against Indian billionaire Gautam Adani, after the Justice Department said it had decided to abandon the fraud and bribery case.   @disclosetv",
-        "url": "https://t.me/disclosetv/21694",
-        "source": "tg:disclosetv",
-        "timestamp": "2026-08-12T21:27:26.163Z",
-        "matchedTracker": "ayotzinapa",
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.28)",
-      "confidence": 0.2833333333333333,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.727Z",
-      "candidate": {
-        "title": "Extremism expert charged in case targeting Southern Poverty Law Center’s use of informants - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaVB4VzZLa29BMnZpdXpmd1dKZHFJZmZNa2l0TlUySGlkU19yVE5VZU1XZFVXTWNqYVJjd3RiRWJfbnRuRG82M0ZMOGo2Vm5hWGs4aHk1aTlPbVRBWUFFekNDWnFZZzJIbmljR0xKaC1vMFRrUzF2RHVsaUlZYVRjX3VfUEVRSnZ6d3NVYmJjdF9YTWZFYzNlWDh6WmtBVUNuZ2ZJMWtFSEY0emJBREN2QzNNNlVWTkZoM2t4aDNIT0FMZ0tjZTUxdVRmSlRtUQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:09:51.592Z",
-        "matchedTracker": "ayotzinapa",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.728Z",
-      "candidate": {
-        "title": "Trump sued over service selling faster access to Truth Social posts - NPR",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUUxwVjhqVXhzR3BvYjZGR2QybzN1bHNyTGs1S2dLS1d6TUJZX2tzbC11MC1nV3JqM3V4c2YybnVQZ19qcWRTVGkyY3JaWE1MUjZHcW1VSklGWHVoT3ZacUJBaTViaXJ0NUFseWRKY240c2U2Q0ptYWpvcmdZTF9meQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:09:51.592Z",
-        "matchedTracker": "bts",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.729Z",
-      "candidate": {
-        "title": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down. - barrons.com",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb21yU3loblFUX3BncEZLbE1qYU96X0ZpVC1kbGdXYUd4NTNFNGpZX2ZxM085YTVfX0dsVzdEdjlhaWdLMllZQWc3THhJLTNTVUZJdUVBQV8tZldZLXFKaEVDMlo4dmxMUXF3NWlVOWcyajh0dVlsLTVrN3l5TUFac1FB?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:09:51.592Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.729Z",
-      "candidate": {
-        "title": "iPhone 18 Pro set to become Apple’s new default model - 9to5Mac",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1pzLThzSTQ0X0JYZlRMaXZLRW8ta19JYVpfMGtPY0NpLU9mMWV6Wk84SmlmaVdJR0hBTWpEMVhlUHhVNXhaRXNaSkNkS2d2Nm1aQ2phWGQ2d3pqTS1BSEd0aDlGX0tBSmtRMTVCdW9nUU0zRmJrZi1nOGRkUHdkSjBFY1BJWWJ0b0ZnWg?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:09:51.592Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.730Z",
-      "candidate": {
-        "title": "Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW45QkF6R1FhUkNlVzlBaU5XVG14WjFBWXFZNUp3QkdablFUYVhhdk5rNHZuNDNQRkF0cWt1WGpxUEJrWU1udm5hcTR1R2hKdXZjQmMybUZxTGE4dkxqc0tSTGh6bWNvRV9KZnJzREhWVy00T1dOTFp5UUdRc0JGb0NxcmpVNHF3TFMxcVFqOWJ6YThOVEFTZGkwQmhYQ3BIdGxJZHd4MFZKRkFLZ3phZnd5emRFcU5tekdJYWFWX1l2Y3dNTndmRkhMOUxOMlk?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:09:51.652Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.730Z",
-      "candidate": {
-        "title": "Juez concede suspensión definitiva a Gilda Lozoya contra vinculación a proceso por caso Agronitrogenados - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYXBQVU1DT3FHOG50VTE0RmZ6eEhIVjJ6ZjZkSFhPSzBhOHRsbUxWWHF1bnNQLVAxUkp2aWNBSnVIY29fNUpTRzJ3U1VEbzVlbUkzdGt3dlAwblZSYzZBamhTMklqRktuYWVLN21YbjJ3MGVBbDJtRFZRZ0hETTlqMUpUeTNXcnRIOGpESVNRWGM0NlF3NnpQQmc0N2x6N3NjdkVwOE9WT19lWWRPcjhhclVkR1dsdmNXejRpZmI5WXBGVXZvNkl3R0dpT2VXS2JPU1ZHcU9tTGVyRk91UG5mUzBIeXRxZVdSbmlCb09wWmM?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:09:51.652Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.730Z",
-      "candidate": {
-        "title": "Lo que la huida de Trump en un camión de catering revela sobre una guerra que no terminará - CNN en Español",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXhSNEs4RDZTZDFlaXVUaEloUmFKOEVxSjNmbGN3NHRaNjJWUlNnZ3dnNURpaHRCeHphMHgzNGt1SlNfd0ZPSGV6d2F5QTBNWl9UYVl4Y0VRY3d1Nk0wbm5FdlNrcDExVEJvbWNjcV82dFUxNUdSeVJMYTN6cWlqaW5qYUg2U1I2c0JUMnFrTWdTY1E?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:09:51.652Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.731Z",
-      "candidate": {
-        "title": "Guantes con descargas eléctricas para someter a migrantes: el nuevo equipo de un ICE cada vez más agresivo - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTUxESHR2VDRUdDVQTFV2ODNmQV8xc1JTTG9fbFItTWZXcWp1dDlEVXpiZldveEdaLWZhU2NYelNRMmlHeG1xb0JaalFrVWxBakw2ZFlHUXEyMm5pZVVHQ0NDeDVCc1Bvc1RJN0d3ZmhzY1IySFZRN3dzbHdMUFdLOVdXM0FLZzliVGY0bUhKOVk3LXBQUmZiM29HNUNITmpCbkZ6aHRhRlk1c3R2VXNJdGJjWU0ycnNseGtDbksydFVfczhWejJodHczSmllOFd6U2phdW5WMTJQc0dkTUUyZEt5M1dYNENO?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:09:51.652Z",
-        "matchedTracker": "ice-history",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.731Z",
-      "candidate": {
-        "title": "Austrian court convicts Belarusians over supplying Russian arms industry reut.rs/4xEboox",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw567cmu52n",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:05:16Z",
-        "matchedTracker": "united-states",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.732Z",
-      "candidate": {
-        "title": "Cerebras shares plummet 16% after results fail to impress investors reut.rs/4wvOT49",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw4xqjhtj2t",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:01:40Z",
-        "matchedTracker": "world-cup-2026",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.732Z",
-      "candidate": {
-        "title": "\"The End of Oak Street\" is a bonkers blast, writes Associated Press Film Writer Jake Coyle in his review.",
-        "url": "https://bsky.app/profile/apnews.com/post/3msw4vibhlv2b",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-12T22:00:24Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.733Z",
-      "candidate": {
-        "title": "Though the democratic socialist was defeated, the fight against the data centers she opposed isn’t going anywhere. interc.pt/4ggFCHg",
-        "url": "https://bsky.app/profile/theintercept.com/post/3msw3aw6nkl2k",
-        "source": "bsky:theintercept.com",
-        "timestamp": "2026-08-12T21:31:00.741Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.733Z",
-      "candidate": {
-        "title": "Morocco says working to prevent potential new Ceuta crossings surge https://aje.news/q3r69w",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msw4uw5pr42j",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T22:00:05.188Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:09:57.733Z",
-      "candidate": {
-        "title": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week ",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msw37djpcv2s",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T21:30:05.520Z",
-        "matchedTracker": "brazil",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.742Z",
-      "candidate": {
-        "title": "Why are 'human fridges' being sold in Japan?",
-        "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-12T22:59:07.230Z",
-        "matchedTracker": "chile-allende-pinochet",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.743Z",
-      "candidate": {
-        "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-        "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-12T22:59:07.230Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.744Z",
-      "candidate": {
-        "title": "Under strain, Australia's world-leading disability support faces major restructure ",
-        "url": "https://www.bbc.co.uk/news/articles/c20d8g0qze0o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-12T22:59:07.230Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.744Z",
-      "candidate": {
-        "title": "Karoline Leavitt will step down as White House press secretary, Trump says - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hcUFSYW9JTmFJNTBLR0FmMHdXb2pNeDFSaUxfREpPYjVwS3BtaVp3VjJzRE1Wcy1NdWZxSXpJMmtOQ25HM2NKWHZyeVJYaUh2LWRaWWkxSnR4VnZ5SGhaMWpQbzFtNVdmZ2huOVZmeEl0cVh4MWZtZkM1aUM?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.745Z",
-      "candidate": {
-        "title": "Police: 2 adults, 1 child dead in suspected murder-suicide at Hopkins daycare - 5 EYEWITNESS NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGxwNXRiR1dOSGdfZV9LU1JKX3RLUmlDbDlwRzVoQzFoeld0dkZCUnUteEM1ZmtRd2Y4THhoOWFXVF9JaTl4R3pzUnljeVZnMFU3QXprNUpxRnA5R293dmRvbUVxYmR5Mjg1RkxHLWg0cG91YkFLSHpqWG12eF80UXd2UnBHUzBmeGVLdHJNOXJOQXl6RUt3MG9NRnA1c2dySHR4UGNMc0dKS0U?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.745Z",
-      "candidate": {
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yMkhxMGxURF9FNDF6a1QtU1hsU01vdWN5bjBZYTFZd1k1SlU4Y2pqdkRMSGtxVF81Nm1naW01WnNlUWJ1WUJfbWgzVnRBZzdoQmN1V3RnNzdsZw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": "haiti-collapse",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.746Z",
-      "candidate": {
-        "title": "'Profoundly corrupt': Trump sued in federal court over selling early access to Truth Social posts - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTlNxLWhIR2xFeDYzZTRuQjU2RUZJcjVkSTVIbGJvN3NyX0Q3eTNvaWVXQndoT3BtRTNqWHlFQkFyb2RRaUZ4ZjFnQVV2bGpUbWxSVklMNlJiam9sdHR6em1GTHZxQmRWVm9XRzBzV3l5NHZGT0w4SmVfQTRzR3ptVmNqNURhZ1QxZ3E4VURyMTg1NHQwbklMbjRZcDJXRzI3MGZ2c3dJeGvSAa4BQVVfeXFMUDdGSHgweGtzWU5EZ3VDQ0E3ZVp3OUtIaVlZLU80dkZUckhXUWt5cXIyQ0h2ZGh4MzNRRUFDT2Z4OWN4RUp2TkZSLWxkaFFTamUxckM0dWgxQzBOZE05Wm52cHdtb1hWTWNsSGk3cHJkaHlLWnBlWGVyZTl6RVhjdEktaGpJQUtaczI1N0lRQkpBX1pqVjVUUVBCTFNyR1R3eVlpOW94Q0I1OWhMeXdB?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": "united-states",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.34)",
-      "confidence": 0.34041666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.746Z",
-      "candidate": {
-        "title": "Major Food Recall Expands To Trader Joe’s, Walmart, Target & More As 345 People Get Sick - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjA0eWlKUzFkVG81T21yZ2NHWUtvZDZ0RE9RWmsyVFpyWHlCS2twYkM4dFVxTVo5V2dYWDdvNk1LMmk1RVB5TE1MYU0zQUExVUdQX01mUWtId2Y0bnIxOWw1c2Q5QVgxZjBuSFUxSDNRMnpPV1h4LURGZDZtY3luTTVQNUswLU5aS25IeEUzNA?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.746Z",
-      "candidate": {
-        "title": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaGRSeTc4Ti02MC04UlFDZzdZV1NOd3NqdGRTNk82VXNVU0RTZ2g1dGUzcm9Dc3NHUm9BcC1OeE9hR1hiZERHMG84MTctLWZGSWJZV0xlZ0xoSUpqamFnZkxOUzlfeFhtem13TnVNQkpIbG5FY1lRNGk5dkdZc1pwS0lYQk9fV21fcWtWR1AxTnR2TXJRVXFjYkY4Qm1fYm90UWc?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.746Z",
-      "candidate": {
-        "title": "Travis Kelce Awakened His Inner Wife Guy - The Cut",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xbXB3QnEzeGU1STVUcGtuZ0ttc3hxclpHV0NfVWkyQUJrWEcydnEzbTFWMDY5bXdMY3A5aUVSXzh6a3Rtd29ucXdDaWxJb0twOFROMFJEZ1R4NjA2dWowT0ZJbU9QU3RsLXVTcndoWTNPS3lJV3Zz?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T22:59:07.456Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.747Z",
-      "candidate": {
-        "title": "Diputado priísta Carlos Mancilla agrede a Arturo Ávila por caso \"Alito\" Moreno - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdXhMa3VVUWNTVjJqNGhXb1BPXzBLMDRjQl9MVG5XMHpGWTFSejNoQmRNWUxOS1E2LUF3RHpBTWhUOGZvZl9pdmxYb0ZQWmpRNWNoYVJVYW5RYVhVNjYtM0lfSUN1ZENBSU1NNldiLUhuNkJwT0dKbE5fcS1WRWJkazJ1SHoxc3J2a0MtakRJTVpiczJSQzVHRG1WeWU4RTQzTDEyUlg0UWZKcWxFZHJ6Z004VmsyTGQteHBMM05hQkx2UzV2UGtCaHZWME1UMzlqNDFXb0xGQ0VlWE5mZzdndkZELWoybWVK?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:59:07.544Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.747Z",
-      "candidate": {
-        "title": "Hasta 23% de los convocados por la UNAM podrían no presentar la prueba de control - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenptUjJmaFRuaFlYRlphcVg5c3lRakYzNnFwdnBGRk51QXFDd21YNGtNTGViWXNqU1l6NzdJUmxWQ3NQWVRHbTFybTRYMTNvcUpXcFdZN01SeHRVb3ZPbDFIRGlzMXdQNWNvY0QtOGpvRHpuaUh2ekRyNEVqZXE4c1NleWoySU1kUFF5UGtSQWNQNmY0VDk3SW5HekZTMUJZVnpxcFp0ZmVjVkFWRE0wRUhRbjJJNGdVMTBOZldTaXlnYXhvWTh3?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:59:07.544Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.747Z",
-      "candidate": {
-        "title": "Entre desorganización oficial buscan sobrevivientes del sismo en Colombia - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFZzJIX1RqM01VUE9FeldBUkh6aEVPbUFsQ2xaZmt5c09adWdwcWRQZDFvbkk0aEp1RmhxRjd2NmUzRnVSaDNrT0hnUVVxMWRvRV9Nc1FTYm9VZkRqTkZ3UWZR?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:59:07.544Z",
-        "matchedTracker": "colombia",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.748Z",
-      "candidate": {
-        "title": "Deja Leavitt cargo de portavoz de Casa Blanca a final de mes - Reforma",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQm1FNjg1VUV3eEVLbmxYb2Jnd2F5ZjBlUHdiUWplMWJsUDhjUW5za2JIaDYyQnlNejJZZFpON3FCQ19hbUkwTWJTRGJVUURxZ3lvS3czMTd5TktDd3lVODRxS2otQnRkMWFOM1BWZ3ZXcWx2Qm5EbDVpWlNoUXI3V3ZQT3RlQWlDSmxhdEhVc2Fpbkp1SzUySUdB?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:59:07.544Z",
-        "matchedTracker": "pena-nieto-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.63)",
-      "confidence": 0.6333333333333333,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.748Z",
-      "candidate": {
-        "title": "Estados Unidos logró una leve baja de la inflación, que marcó un 3,4% interanual en julio - Radio Mitre",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQlI0X25laEJtRlRGV0diNmNOdVJuMnBKYUpUYjY5Nk5ubEV6YmV2T0VfUEZNei02QjZ5RWpab3FydmdxajFFYUtmTzhfQkx4Nk9pRTVqSU5LTk94X0ZRX295YWFfSHZEYVRyeHJNelhFUGNWMjJLeXZSU3V6aGhhSDBiQXhLcGtfd0NkRzlfR0tJV0FEamNBLUlXa0lHdVctWjk5RXluSmRuWjV1UzJ0aWljbWpQR0ROSlBnTDVHWVZFOXVJWVU2bEVn?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:59:07.544Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.748Z",
-      "candidate": {
-        "title": "Incorpora reloj de Google presión arterial y resistencia a la insulina - massinformacion.com.mx",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYW5PbktOV1c2YXpWcnI1a2NKM1NTRnNuS0dKdmgwQmxBaktYWWJiclZtbE1xX0RlSkhPTXkzNnVhRFFsME5UczVZeXRxckVJai1yVFNTaThLQnZtN0t2WThvM3BOQUlwc2FUWms5TkxQSTBHV0NuLU1SSTJfWllnYW9TUjM4Z25SR2VGNzdUam1hTGMxN1NHaDhNNG8wQWxkNlVQSw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T22:59:07.544Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.749Z",
-      "candidate": {
-        "title": "After Trump's Turkey ruse, a look at past secret presidential trips reut.rs/4bL16dR",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw7ftghps2w",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:45:20Z",
-        "matchedTracker": "turkey",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.749Z",
-      "candidate": {
-        "title": "EXCLUSIVE: Automaker Ford to move production of some Lincoln models from China to US reut.rs/4bL06X9",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw6lxvj5525",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:30:52Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.750Z",
-      "candidate": {
-        "title": "New Jersey ruling could imperil state law aimed at protecting judges' personal data reut.rs/4wl1Y01",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw6bzd7fi2d",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:25:18Z",
-        "matchedTracker": "battery-revolution",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.750Z",
-      "candidate": {
-        "title": "Trump sued over service that offers paid early access to Truth Social posts reut.rs/45qABXp",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw6bwtqfc2t",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:25:16Z",
-        "matchedTracker": "bts",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.751Z",
-      "candidate": {
-        "title": "Trump signed memo to allow use of cyber tools to target transnational criminal orgs, White House says reut.rs/4xAwxQr",
-        "url": "https://bsky.app/profile/reuters.com/post/3msw5ha6x7o2w",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T22:10:20Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.02)",
-      "confidence": 0.02375,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T22:59:09.751Z",
-      "candidate": {
-        "title": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition. ",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3msw6kidwnx2v",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T22:30:02.701Z",
-        "matchedTracker": "calderon-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.63)",
-      "confidence": 0.6333333333333333,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.178Z",
-      "candidate": {
-        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-        "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-12T23:45:32.414Z",
-        "matchedTracker": "nigeria",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.179Z",
-      "candidate": {
-        "title": "Why Japanese firms are being so slow to use AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-        "source": "bbc",
-        "timestamp": "2026-08-12T23:45:32.414Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.180Z",
-      "candidate": {
-        "title": "David Crowley's razor-thin primary win sets up Wisconsin governor's race against Trump's pick - AP News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUtYRlN0bXF1Zi1TYTJMNGJOaXRDWGhabnU5aVlmSUZOb3J3Y09XXzZiSUtuSTBsYW1OVFNjT0RhTk9VenVpdDQ3SEhySnBXZ2c3M3h2YVpOakt0ZVc2bi04Q3l3VDFMNERaT3B1ZlFiXzU5UDg0WDdaVEN2eUM3ZWhHcW8tVWJnckgyaUctUUdUbDBRaDZkRUNXLVlUT1hjUDRVRnNBUXJGZlJITi1tQw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T23:45:32.453Z",
-        "matchedTracker": "fusion-energy",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.180Z",
-      "candidate": {
-        "title": "Rubio, Bessent took decoy Air Force One, Hegseth flew on secret flight with Trump - cbsnews.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWYtTXBqNTZoeDlLU3o5dU9QU25OZ2NDSjFDb0V4VzVjSkVQZDRaMDhuLUZCNV84WUM2SlJtUlRIdFgzWG96bVpYTkhVQUo2dnJvWXB0dEtUWUcwbmk0SG9JZ3BZZTVJaHpXNmN4VGVuX2lxdzFiempxZUVwT2kwUXRHYWc5NzN2VG5aOHFJNFNON09zd3BlaWRMYw?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T23:45:32.453Z",
-        "matchedTracker": "mh17-shootdown",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.181Z",
-      "candidate": {
-        "title": "Clancy trial highlights postpartum psychosis and barriers to care for mothers - WBUR",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVczQlhMY1c0bURGYkd1ZWUyQS1XUmZaRmJsdmdGc3VPQjR1S19XbjVWQUZ5Y1dUTnVoT21MMjNiLU4teFFGOEN6eE5obHAtQkJ4VWkyVlFBUzhJX294XzFBaEF6dENpSFBDcG45WGZLMENkX1Vnb0F1MFZFajQzSWx4UXdPMmN0dEZ3bS0tRmg5cHJROGR1QWk1S2lRVUo1a1NpbDRTSVM?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T23:45:32.453Z",
-        "matchedTracker": "mh17-shootdown",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.181Z",
-      "candidate": {
-        "title": "2 killed after Apache helicopter from Fort Hood crashes in Salado, Texas - cbsnews.com",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzlzY2RNcW9SXzNETG5USENmeFMzS0ppYldkc21yWTVJMnhzT3ZvQVVLZnl1QUl6dmxiT3hKdHZ4dW5BcE1NMnRwNnh6cWYyT3lZZlFlV09TZG9DMUhfNGZ4LUFZYThibUxsWW5Sc2htZXRfbmwyLTVxbzQ1cWlTbVlB?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T23:45:32.453Z",
-        "matchedTracker": "mexico-us-conflict",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.181Z",
-      "candidate": {
-        "title": "Burnsville homicide connected to Hopkins daycare deaths, police say - FOX 9 Minneapolis-St. Paul",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRl8wMWpVZEtqdm95YlFwUUwzRzQxZGpFNFJmbGtMS3djN3h4MVVpenBpb3hZNnlyLWxzeTFrczhsd2xrNWZnbVFYYWVLOWMyS0ZXeHVzT19fZjk0ZjU1MkhKdWk4bHdLMWdkUHdtUXpYaTZjOWtrRE5PNG11RFdiLVJUalR0UGVBTm5Dd1IwM3lBWWM?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T23:45:32.453Z",
-        "matchedTracker": "fox-presidency",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.182Z",
-      "candidate": {
-        "title": "Beloved TV star says hit sitcom was ‘rightfully canceled’ after controversy - Cleveland.com",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDdLMVRGNmMzZWJIamp4QjhfdWVGbGxGOUtSRlROMTFPcTY1a2lhMmZjNTk2cWRsOUVyNzJqM3lBbnpQbl93SlhuMVF5UHRMejgzbFVyWHBBVU1XWHhmcURaWU9MVy1LZ2tXVVdjSWRGVm9GZmJuUUlxYWttR0tTU3M2Zkk4YmVzQXVyNTVfVWF0RzNGR0pLY0lPdWI0c1dldHk0eUUybV84S0pYalZSblUtZGgwRG8yMzB4Wks1NlgzNTJw0gHYAUFVX3lxTE9JUFk1TkNBSjBEeDB2YlMwd2VZWllSZmk4NXBQTDBNdm9oeGpBLVVGV0EyS1J1Y2pkalg1RkxFVEU0NnlBVmotbHBvRzMteHR4dDNzSzRnU3ZHSndFX0NfanljX2UzVkxWRW1DMXliRnRWLWx4SmVpX0xsRFROZzlTenF4SHFjelo2UHJUTV9FTTA4OExTNVc3dzc0YTZTWTJ5UzcxcF95cThGNFhGZnN6YVdWUmRGeWp0YzBCVnd6LXlhQWMwampRY1FVSlYwU3NTQ3BJSDhvUQ?oc=5",
-        "source": "google-news-en",
-        "timestamp": "2026-08-12T23:45:32.453Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.182Z",
-      "candidate": {
-        "title": "Sobre las ruinas del hotel que albergaba a los más pobres, cientos de manos cavan sin ayuda en Pereira - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTUlJYkVybzl0QlFweFhwSDU2Wjk1NFV2NTZrUlRDLTBvTzB0ZzBfbzJKOTJ6V0hPRVBaN3dudnVCT3NHOG1LQWxWV2N6bmZvVUFLbmlqNjBZOTlyLXNQNy1PUHNxemo1d0pBSmEzSjRMQ3pIb0NsQVREVWp3em56T2hFLUhJX1A3YzRKQmJGVWZmV19zaFE2MlRSVTlqVkJKN3dEaDJZeGNHZ1k3SVBlazlxM3Z4U3NHdTFtbG1oOVZkNE9TSVBwRElZay1qM2FhSVJqZFM2c1U3MGRDbndNMjBRNDlrd2RD0gH8AUFVX3lxTE1kZ2ZjeHJYZnpVbGtScTRac1FQOWplVkowWFNBUlY4b2JmZ1FHbzg3cTh0OXZzeTYxTXB0Rm9WcHAxdFpHTFdka0lvNTd2ODJFcUpmZGxGc3hxN1poRU9MQnJYeXdCS0szSlBKX2JxUlAwUUNmTWxmaU9UNFdsbUNLWHBvNk5mVE5FWU1aMm9xSWhfNmthT3owMWltZ3VyeVBFODRVUFMyRjkzV3lkMzF0TDN4QkRBU1haWklsLThYa3BRbnl5M2J0QWxFY0xSc3V0VkhYLTFFN2NwTVhuSUt3dG9PSEdXUWNIcjJXVVFTN1g0LUNBU2dPT0VVcw?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T23:45:32.511Z",
-        "matchedTracker": "tlatelolco-1968",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.183Z",
-      "candidate": {
-        "title": "Prisión preventiva para el exgobernador de Guerrero Ángel Aguirre por la desaparición forzada de los 43 estudiantes de Ayotzinapa - EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVXM0blRQU0NRdFRPd0RYa09vRVpKYWE2NFJwZmxwcHl2TTdmWDgwMktSOExnZkVsT0RHa2p5WHoyUWpHOVNVTS1ZSHRyN0lKTDlDN0d2bjZydGhqZEVyQkJYaGc4TXBZZHVzYS13S3dycGtwYVlPU3JmN3pRZ1B1bE9CTzJsV2c2eHRwdEpVS3BiNkxmWnBqbUNxeE9obzh3b2pUWTBmOTY4aDhsdXg5U3ZkOVYwdXVhWXliUGkzRERialdTT3RYNnlKT3pyYzRsejRpdzBUVlRPeTRENmtoT09TMVJfd2NFT3djV0hNZ2syX1lzS0RVcnJuejZDNnRa?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T23:45:32.511Z",
-        "matchedTracker": "ayotzinapa",
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.183Z",
-      "candidate": {
-        "title": "SCJN avala Fondo de Pensiones para el Bienestar: “no es expropiación” de recursos de trabajadores - La Jornada",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcHBXbVFYV2UyUmU1emV6QkJUbEI0TFhhbzJheGRXSmVSZXJUZEpTSmlUR1hDRmtQYk5hS0piWklCY1dQWFZVeXg3dGxidTlzSWR3UHNSS1hmT2xDdmpoOHlkclF3T09naHY1a1pGckw1dXJBNlhJc0RzbXNURm1UWkRLdGxRYVhwZjFhME05dmhfM1dfSDRFRGxVRzhjbjhYcVdsNlJCUjQxekt1LVU5ai1HOEsyU29qZEszUGZBVnBwRGdjaUdjXzUzYkpPLU1JX0gtcGFfSnZBU2ZYZnZocl9WQQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T23:45:32.511Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.184Z",
-      "candidate": {
-        "title": "Primer ‘apagón’ de celulares está cerca: ¿Qué líneas pueden ser suspendidas desde este sábado? - El Financiero",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYWVCakIyNDVTOGdMUlpIY0ltZ3dmbmpMa2pXLTk5V1pTZGwtYlFLWnBBaFdTYzZBVjFYUkVLa0cwTExNenhMSVZKUU9OSUY4dDhxbGRKY2dnNm5IaHFQWGRERzVKdnFKQWhLajdGMlFOMWU3OEVNNEhqdEZIMExtaEpqUFVKaFRBMFJ0enJ4RjRVZ2hNcVlmYkI1LWVtWmZjdWU5Z1NGbFk5LUs2V2Y1SExfeWw3eFY2VllXaTJvRFhGMVFFeDJRc05nRHBGdENuUk8xcU41VWRsUQ?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T23:45:32.511Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.184Z",
-      "candidate": {
-        "title": "Estados del Golfo buscan alternativa al estrecho de Ormuz - DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmdOaHJneURiNkM1SWFFblY1QzNqSU1GaWJRbVB5M0hMQnVBLUV5akZUd3VuX3RrZkhIcnRXdWVfVWQ5enpsc0xYRnA5YXlWb0EtOF9aUkJTc2lyRHBtRHBwVEhHYW84T243TTJkRHBPUEp4WnZXQldKd1R3SWp4QWp1TWlHUDZLLW5KeTk4cVByYUFa0gGUAUFVX3lxTFBYTXFyN09BWkxCWERhWHMzSTR1WkVJc01mSE5ZY2VVdFpLeG5vWUlicmtESXpOQWsyemlDc3pBX19qWjJIekw2a3dwaDFVRTdNZGxXZ3J0aTlqOWlLZnZWWTNZU0ZMN3NFTllzZW9jY19fdzdaT21IVFMweGxBSldfSUFNLWhCaGV3QnVTNnBFWDNfWWY?oc=5",
-        "source": "google-news-mx",
-        "timestamp": "2026-08-12T23:45:32.511Z",
-        "matchedTracker": null,
-        "feedOrigin": "rss",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.184Z",
-      "candidate": {
-        "title": "Travis Kelce says 'crazy' wedding to Taylor Swift was 'best night of my life' reut.rs/4wnqFsQ",
-        "url": "https://bsky.app/profile/reuters.com/post/3mswc722bo32o",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T23:35:13Z",
-        "matchedTracker": null,
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "discard",
-      "reason": "low score (0.00)",
-      "confidence": 0,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.185Z",
-      "candidate": {
-        "title": "Global EV sales rise in July as Europe offsets weakness in China and North America reut.rs/4zmjgNd",
-        "url": "https://bsky.app/profile/reuters.com/post/3mswbn7mcpl2p",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T23:25:15Z",
-        "matchedTracker": "france",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.185Z",
-      "candidate": {
-        "title": "Two US Army soldiers killed in Texas helicopter crash reut.rs/4zajqHr",
-        "url": "https://bsky.app/profile/reuters.com/post/3mswb3nc4c725",
-        "source": "bsky:reuters.com",
-        "timestamp": "2026-08-12T23:15:26Z",
-        "matchedTracker": "bts",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.186Z",
-      "candidate": {
-        "title": "Travis Kelce called his wedding to Taylor Swift \"the best night of my life\" at the Kansas City Chiefs training camp.\n\n#TravisKelce #TaylorSwift #TaylorSwiftWedding #Chiefs",
-        "url": "https://bsky.app/profile/apnews.com/post/3mswbcv5bif27",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-12T23:19:29Z",
-        "matchedTracker": "cdmx",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.187Z",
-      "candidate": {
-        "title": "Police in Minnesota say a man who killed his wife and their 7-year-old daughter at a daycare is also suspected of killing a 78-year-old relative in a separate attack.",
-        "url": "https://bsky.app/profile/apnews.com/post/3mswaard6vr2l",
-        "source": "bsky:apnews.com",
-        "timestamp": "2026-08-12T23:00:24Z",
-        "matchedTracker": "covid-pandemic",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.187Z",
-      "candidate": {
-        "title": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3mswbvsyi232d",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T23:30:04.399Z",
-        "matchedTracker": "sheinbaum-presidency",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.187Z",
-      "candidate": {
-        "title": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
-        "url": "https://bsky.app/profile/aljazeera.com/post/3mswaa6leet2g",
-        "source": "bsky:aljazeera.com",
-        "timestamp": "2026-08-12T23:00:04.650Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "bluesky",
-        "sourceTier": 2
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.32)",
-      "confidence": 0.31666666666666665,
-      "model": null,
-      "scanType": "light"
-    },
-    {
-      "timestamp": "2026-08-12T23:46:11.188Z",
-      "candidate": {
-        "title": "BREAKING   🚨   Solar eclipse start in several regions of Spain",
-        "url": "https://t.me/insiderpaper/43871",
-        "source": "tg:insiderpaper",
-        "timestamp": "2026-08-12T23:45:57.077Z",
-        "matchedTracker": "mexico",
-        "feedOrigin": "telegram",
-        "sourceTier": 3
-      },
-      "decision": "defer",
-      "reason": "deferred to next heavy scan (score 0.28)",
-      "confidence": 0.2833333333333333,
-      "model": null,
-      "scanType": "light"
-    },
     {
       "timestamp": "2026-08-13T01:19:58.795Z",
       "candidate": {
@@ -146924,6 +144986,1043 @@
         "source": "tg:disclosetv",
         "timestamp": "2026-08-26T20:26:37.242Z",
         "matchedTracker": "cancer-breakthroughs",
+        "feedOrigin": "telegram",
+        "sourceTier": 3
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.28)",
+      "confidence": 0.2833333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.055Z",
+      "candidate": {
+        "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+        "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T23:55:47.185Z",
+        "matchedTracker": "cancer-breakthroughs",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.056Z",
+      "candidate": {
+        "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+        "url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T23:55:47.185Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.057Z",
+      "candidate": {
+        "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T23:55:47.185Z",
+        "matchedTracker": "nigeria",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.057Z",
+      "candidate": {
+        "title": "The question dominating Indian politics: Is it worse when women swear?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
+        "source": "bbc",
+        "timestamp": "2026-08-26T23:55:47.185Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.057Z",
+      "candidate": {
+        "title": "States renew fight against Trump's mail-in voting rule - Axios",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVhfMS00VnpNa3EyQTEtSUtOUmRMLS1OeGEzVTJjMXh6anp1OHU0clhMUGplODZIVmRJU05JMDIycXp0UzVidmswUV9TZjVidnV4R1lHMy13Z2JKbXVjY3JxZkwydFNycGtPRkR2SENvTHhSLUgwRDZuRFl0MGMzVHpmUVNKYmF3TWJn?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "united-states",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.34)",
+      "confidence": 0.34041666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.058Z",
+      "candidate": {
+        "title": "Canada's tariffs target certain U.S. states. See which regions are most vulnerable. - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0dNVUZ0YWszc0J4UTZUQi1EWkh3RjNPSFZqaDRLaEliYVBSMGtlWEJvM2tWSUlLbFNqRkthV3A0OG05NWxpaVotWGxlVnpST1dZSnppWkdVWnRXQVFsTlhrbmpRaURUcENqMnpmNVJ3SURVWlV0dThXUHRuVFRjZFdnU2RJT3c?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "world-cup-2026",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.058Z",
+      "candidate": {
+        "title": "Judge Handling 9/11 Case Sets June 2028 Trial Date - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmM4S3djNFRyOHFibFB1ZlJuc1NKTWtGTXAzRUp5OUF5dEpnYllBVTExbDRsSThGNk05NkZnajBfMHJIeXVsc2lnNTRhdjRheHlQaUplanBnOEtYM0x2UHV6ZDV0VWNncmNBZ2doWlZzMU5JQ00tQnpfWi0tVW1XVXZrOA?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.059Z",
+      "candidate": {
+        "title": "Judge denies Minnesota bid to extradite ICE officer from Texas, paving way for his release from custordy - PBS",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2dEMUsyMnJqVTNlY29VajJBV1dYbEVKRW5DM3VCQWljdGpTcnZMVGV6VFZ1S2ZXVWlJLWg1eEpMaF9fNkJLcDdpcGx3UmZ5ZV9wSFlITzZNMWE1TTNDQ2Z2SWk3OXJyYzE1MDVOektyZTBTejZKbWduT0VjT3F1UUwta3lkSG5NeUFaODBaeVR5ak5ReUhRcWdFdEFNYWtxVzZ5SEhLOHVWQ3JpZWVmRDY2MVVSRWJhZnZiUWlxRHlPY3FJVzdsU2I0VWRjc1pLRnY2UmFR?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "ice-history",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.059Z",
+      "candidate": {
+        "title": "CIA chief used Moscow visit to warn Russia against attacks on NATO allies, helping Iran - Politico",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdXJmZzRqSjRoUUJ5VnRxdEJGRU83RWc5RjVhMjVZLWZEN2pKV25uVVIwalkwR2F0R3p1dmp3RWZSaUhwZUVZS2ZUd09CZWlJcFFtak5FcDNBeW1HTFFvc0hqOUxwcklITE9NSEtVZGRzeXVnLTFyLWZfR1dxV0tidDM1R3ROZUVTTHc?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "chile-allende-pinochet",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.059Z",
+      "candidate": {
+        "title": "Maryland Judge Blocks Democratic Redistricting Measure - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQnlWZE4yelowV0swWUhiV05lSWhWR2o0UzFaY0JEbDNTOXNCSGhYZkVKX1BoQWJVV3pma19WeGRwd2RPMzZwQVA0T2h5OWZfMHlBd2hRRUVLTllUWVFUNGZ2aG9ZX29IcGo1R0VXS1FIYkJSSmp0ZnJCdHJRZGNLVFJCTlRMZFUxdE9TZUFFMVpVMlNU?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.060Z",
+      "candidate": {
+        "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95dDFCVkJEWjdhV1dZUDN4SkktT0phdEloa3pqWl85YWxESXVQR1NRQzkyUTVpRl9DTnUzUVVfTUIwQjBwZ2U5elZqanVMc1U4a25WRHQ1WEJiYjNZdXdDVW41S3BhcnZCZXRydFZjNFBnZ0tfMWIwOGRR?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.060Z",
+      "candidate": {
+        "title": "NY sheriffs - including 3 from Central NY - sue to overturn new law that bans working with ICE - Syracuse.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmRRbVVYWGJ0d2s0UElTUlpZVXU0UnNtUWpsbGdMUkVkdHpTTXk1bUE1UjlxOWh3NHA3cDY4dEZkQ2p0WnlZNEJRZEVkbkxneXM5MzB6LWtpWW45VVFzdEhFdWNLVExOUGpPangwX1dwa2wxQ29IbXJsQVJod2Q3OHpaMi1rcnRBZWpnXzBzcUlvbjI0M3lHZlZVU2toMVhvTzd6ZUFiVVJSaWJxZXN6ZUxrNTl1UWhkM0ctNjFFbmhyRkFGT3NrZjRDQkdxd9IB4gFBVV95cUxOV2pla1RlalJWT2Q4NWpHVXBNRi1rNFJwVkdEeVFBbEd5QVBwc3pKaTM4RjBOOXg5OV9sNFh6RmlLY093eEhIcFBXRnhvR1poWTRKZDZLY1FTUW40SzU3NjdSck13VkZGX0pEcTVtbE5PZFY0Ry1kRzVoWXVkXzdWQm1QdkFwdkgyOVdtajVwRlM2aFgxUEtTbW93aW9hZWlKbGhScGtxcTVGTkxCRGlHQ2t5dGYwWTNqaXYxMlFwcVdSc0VOWW5oRmhGVmVGbEVDXzlOLXpCOG9iYXBlMnRvQi1n?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "hungary-transition",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.060Z",
+      "candidate": {
+        "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVVSbWExeHlUam9QVzg2SEtXNXEwcG4yYU9qTnBPVWxqZG44ckxpaFhETGRFRWpvY0RZM0MtRDZPR2s3dzZkWndfYW5CR1dSVmZxUVdkOWoxYWxVbkpXaE1vSEk3ZGFQYkltUVZBRjlqT2pPQS00VWNha2ZiUHdOX3RrRmZhTkpGZHNIRXhhdVRNbWRGb2t1RmgxTG9IWlJKQ3ZnUUJXRkJaLXPSAbABQVVfeXFMT3YwUFMxRXpwRnZZSnBfQ2I1UGdnRlBaaHpUV3kxLUVMbzRzZFV2N0k4Q2w2N2tmUEVqWHZiWjdncmdMMk9MUFFnWXJRbzZoVUNValF0S1NmRnR5ODFuMEdTVUlTUnhPZEpObS12cE1hbWtSeC1sZnVpY1VkcGtrREZ0S3ZzTU5LWS0ySGdMYXJUbnRydEtHZHlvVWRzRjJuWENBTmdxX2xOLXliRGVaQ1I?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "nigeria",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.061Z",
+      "candidate": {
+        "title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.061Z",
+      "candidate": {
+        "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.061Z",
+      "candidate": {
+        "title": "As Cook case smolders, Trump has other paths to shape Fed policy team - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNEJmbThtbExoV3BPMVVSOU9FMzNRSEVXX01palo1S2VHNExZYXpDSGFsUU5lU3c5UEo5X3M0TFpGSXR1RUNLZXY5X3BvN0Y0Rjg5dVhXYTc4V1Exb3c1M3pTUlNqT1NVSXNFc2tTQ19GbTUzU2RsUWF5bmFwR1dFN2NxaWlneEdUUk53ejVOc3NCQ19waFNVdlh3aG9VN3Z6WDVhR001bFVSZjQ?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "ayotzinapa",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.062Z",
+      "candidate": {
+        "title": "'GTA VI' Cyberleek update: Everything leaked Wednesday and earlier this week - Mashable",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0poMnJSa0Zfc1A2UEY1ZkVwR1hkUmptTmljUi1yUlVWaTNGY3BZNTZ6cHhrbGVrWkJNeDhZYk1fV1dyY1NOeW1QaER6U3prZ3VpaXhUSFVmUE1pNGhqQWJ2TDZ4Q3RSUW45eWlVS19rUlVYWXhldm0wQXJKQVFKSlN3dVdSSlk?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.062Z",
+      "candidate": {
+        "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’ - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vLXhKVjRXQnEtLXZyWGZGbkU1OEF3RU55dUJlYjVGbVZMQkJJblVrX2hINVNudjhXNHQ4dzNNS1o2T0d3S2xGMmFKMDJpejhmQ3ZubldHSXBPTUNQYkRtUEJLeVpYTkNzcmRrTS0zV2d3eVowNG8zTVNjb0hxMFE?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.063Z",
+      "candidate": {
+        "title": "Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80 - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YMjd2NzBVd0lBS3Nsd0RmOWJldzVWbGMwdjc2d1RJSjhjZ21JZGRoX2RtRDFraGo5a3lyVWpGWmNiMkMtUjdGa1FrcDZ3WkVWeW9Pa3BkaTBfZW9uaHlyQjZ3UjJaLUZFUEo5ZFRR?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.063Z",
+      "candidate": {
+        "title": "Rupert Grint to Reprise Ron Weasley Role in ‘Harry Potter and the Cursed Child’ on Broadway - Variety",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEx2RXc2UF9ST3RWUS1aOWYxd3ZFVHdYM0phamkyV3U4SUdjd3RNVmxEaUNxdU1UYTB5NG5uTmhvaUxtVzVJYUhYTjh5TEZkWkYtREUyZDJNck5fY25KSXFNejJMTlZQQmFpLVN1b3Nia2Z3cDFkUklNMGR5em90bjRHZnN0QXJQa2t1TF9nQTFTTGFBNmhkSHBPN3lkS3FqWEtDT3NaRm82WHhl?oc=5",
+        "source": "google-news-en",
+        "timestamp": "2026-08-26T23:55:47.284Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.064Z",
+      "candidate": {
+        "title": "En video: el impacto de una avalancha entre Nepal y Tíbet - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zUnZnTUlTdEozSDJpcjg1OVk5ZENScFRSX28xTEk1S0JSMjNOTnR5OExGdUJJRWJhTF9WbkV6NDlEVTJ1VTdzcE9SY1V5TksteDNSUEVScHNJT2vSAWBBVV95cUxQZFJxSlhoQkU3Y0xUeGt2M2MzVl9qaEtJMnR3ZHVtS3pSSmhHd2l3d1AtNzdzd293Tk9wVk5PZ3FQVWN2LUhFTkd6SEpIVzZrazEtYTEzZ19XZlhnNnEtV08?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.064Z",
+      "candidate": {
+        "title": "El senador Enrique Inzunza abandona la bancada de Morena tras la caída de Rocha Moya - EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTlplNXJ2QWFIOUpDTjNIczk2NGtvZy0yNEJ5eF9Qdk5rYkxhbmo4WVkzTHVMUUJPUW5MUDF6cC1DVnRwOE03eWQyZWJQNDBielZQMzd5TE5OSWpiR0JtbnZfY3lhQllTYTl5OXUzUmgzcWxDOGhGeERmWTdNUlphMHJCam1RZVV6UzFOZlU2VlhTVzVRLWpjOFd2anFDWXRRaWtLY3FaUlhDa0hwTkZIeGs2c2VLa01fWEptdEN0NlZqU2Iw0gHYAUFVX3lxTFBlT1ZRdVdxTkYxR3pEd1FndHctUEdnRURFeGdTamtzUHB2WHAtYTU5X2drTHlXWFRZbGdHUDhOUGdaUmtIdGg2NTFaOWZ0Q0dzRkNiNFNzSS0wZmJsc1ZEY1RvclZCN1Bvc0ZxRXpCYlpCWmNOaEdZN3JyOHZLX1JXdU1EbWhLaDJQRjVPMmFFRnhzZkEzMG5tMjg0bnRJSFY4NC1qM09pT0RSenhldW0tc0V1NVhkM0FzcENDMzZHSUVndHE0T2VEN2p5TEp0UUNtOVJSVUFQdQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "pena-nieto-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.064Z",
+      "candidate": {
+        "title": "Morena define coordinadores estatales en Sinaloa y Querétaro rumbo a las elecciones de 2027 - debate.com.mx",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb0YtOE1aVzIxYzJnS1lCVXZqUGJJVXRFcXBzM2l0cFRvYnI2WDlTcDRsRVBqd3VvZ0hwNjg2aTcxTndlR21MUDR0LXBXSFpZcnU5ZzJnbDI2UkRfUUtqT09CTFlCQ19IMUptNGRUd21VQ3pDVmwza1RoLXg5RGpMU0FfTnNWaUhrU1dLaXJwUXRUS1dMN0pFZkQ0TEtKS2N0dC1wRGpwZlFhaFBlRWJoVE5UZVJuQUNZbGE2dFhNdGFlV0JPZzZ3ejJTaHpTWkhRSm9CLTJOVkl2RHJMUUE?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "culiacanazo",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.064Z",
+      "candidate": {
+        "title": "García Cabeza de Vaca se destapa para 2030 y acusa persecución política - Aristegui Noticias",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXy02cVFzWEs4MTFTSTVSZDl6V3BsOC1WLTFZemhJbXFEaV9yY3dWSVlVc2lSc0thY3R3MTdFTWVEUDdyQm40V3JndEh4TTFzWlVvdFZoQU1Pa2xUTnJOV2dJcFNvX2xGOHpWZGNZSzZ0eWh3SjBnM2piVld0TkVWb041Vkh0aEV5azYzWDByVk9lOXNfdTZnQWRfUkF3eHVNaVdZOEZMcjAyQ2tmSW11Z21RdW0?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "saudi-arabia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.065Z",
+      "candidate": {
+        "title": "Claudia Sheinbaum le quita la Pensión del Bienestar a todos los mexicanos que hacen alguna de estas 5 cosas en septiembre 2026 - Ambito",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORUlGdGFJMEdXZ1YwQ0kxNUpCcUlOMmZaSXlXMHlITDdVNjJKeTZsQ2I0YmtBNU11RTZUVzBjQlh5NGpWQThOVG1HT0p2ZUNOUzdtcko0eGxPMnNrNGZfTVNYd2pSZUd2UGVfV1o2cHJ2c1M3d0JybG1UVm03TGdEbFdnV0RZdVZ6V0NydTF0RTN6bHFkaG1UZHlGRlRXOWFWMDMxZ1NPdXh4SUYzTTc4bzBCWnFkVWtrN2UyNzJ3OE9weVhYX2tYa1ZCZHBxY0J1a0NQQjJ4d2g3UkNIMEllWUpIbVlraWlNWGw1SE9vUWxYemtuRzRwMWxR0gH_AUFVX3lxTE0tTFZTXzBvVnVtY3NockpWNV9xZndydS1OY2VLVnBkZHBTT3JyMzVVM2N3TzJycHhqUW41czRVNU8wVjZ6TTlTc2J1QTh6TkV1b3VYZzJqYTJNTkZkT3ZNOEpDbklSODZESUNvNTlpY21GSWktUTgwUG80X2g2dUJ3ZXNycnMzaUl1ZjdaRmtxVjhIbkJ5Ym5ycVNpczRCOXJ0RHVocDF6UEhpel9scDhTMWM2YjVsYkpfNU9idGQtMjRYa25BckZhSktNRXBSaXhNQ2ZjRmRweXJXanJmWW02aFVEMXVVRC04N2FxeFhTRkEtMkVNQjFlYkVKR0hGTQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.065Z",
+      "candidate": {
+        "title": "TEPJF: Partido Somos México debe cambiar nombre, emblema y colores antes del 31 de agosto - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNai1rUnRaUWFqQ3Vna0NydW9iaU9SSWJnT28tUUhYQ3FTVUxwQU12U1gxZFhORHBvTksyZkszdnVQZ1VsN0hRNVZhQTNST1g2Y0lidDB6eVg1SjN4QkZvOFBuY2RTQjc2OFFJa18tRzBlT3lkNTNJZ2ZoLW95djk2TThLXzBwRkxPbm1tZ1Vrb0dKMy1EYnYxdVBKRm9xR1RydDRPZWowS0JWdUhmYVV3NzdSNE84dXhvSWJqbHVPWVd1TjFiZml3?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.065Z",
+      "candidate": {
+        "title": "García Harfuch anuncia captura de \"El Koki\", líder del grupo delictivo Pueblo Unido y ex operador de 'La Barredora' - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzFOejVDblRmSkk3WW12Q1ctc1ZFV1dNU1VEWDR3eHRtSWJkUHJGanlBckdBWTVSSC1tcDl4aDV1UzNRNk5ZSUN3Q2dxRkM0WkZaTG5GODM2bWl2aUE4MF9fMGw1MUpvSllkeVRfM2RCR0NjLXB2dE1XS2dQSjlFeTc0Qjg0TnQzTUVZa2cyaHVtVFVnNnZfejVpYUczMzVaLUwxcTQyZ1lFYl81OGR3TTNpVHctSk5VaHdQRDlnUG9BUm5lWTREcmM5b2NnOHhY?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.065Z",
+      "candidate": {
+        "title": "Canciller Velasco tendrá reunión este miércoles con Marco Rubio; dialogarán “temas prioritarios” - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ3QwS3ZjcEN5SEJRd3hMWm1mZmRHWms3ZkdKR0pZSlVsbE1JVE9hb0tQMEdKQkFCX3oxcERtQjN0Q0dRWlZDVy14dHNQNV9iTW5vRi1Wd25VMkJfV3V4dlN6QmR6QWxCT216UWVJV3pPUWVCVWg2ZjhaWFFlSEp2YTBYdXBWSkNOOVl4YmZ5U3BXekZtTlhCUl9jcksyVzlUYzFaSnZNVElGcDBESEFwYjU0Z3ZNalo3TGRmWmVmVnRTMlVySWZhMlVYd01pNzBqWW9yUVNCTnZ6OXRjUkZfX2tR?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.066Z",
+      "candidate": {
+        "title": "Meta acuerda pagar hasta US$18.000 millones para cerrar el juicio por las fallas en la protección a menores de edad - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NWU5lZHNCeElDbUZhUk14c3JSeENwaW1SblZmWVBELWZkNm9TU3JfSTNBM05valRCZF9rUlYxTmtvUmRnOUlSSWV1UEdSQ1MzV0lqZC1iU2NrZUHSAWBBVV95cUxPUkM2dm0zZWdzTVo3eHVmaVpGY182Skx4T1FzUEdGVVdtbUVNLUZPSW12cUxCaW55SmdJS2Z0Wndsc2k0Q2NLc2ZWMnkwT2NzbkpkUXR2MFBoLWtCU3VReXE?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "tlatelolco-1968",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.066Z",
+      "candidate": {
+        "title": "Sismo de 5.1 sacude Colombia; evacúan edificios en la capital Bogotá - El Economista",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5DNkJFZ0tPcjQ4WWlFaGU0OHRfdUk2YUlpT3JVbng0bkQ0QVJXQWUwMlpNSU9oWTFSYy1EX1VsTDdjaTZwRjkzYjN1N2xJQVMyRDBSQ3FuNnZYTC1hc0wtWHpvODE3YnNDN19DUXJ0UURnOFhiV252eXRkSnpndUJ5c0Y0TjRCU2dLS2hFa1lHdXdXUXRKNF9uM3Y3bURGZXdLZ2J6UmhDYWlueVlENzExazlCZ2F5U2g3cVdnTi1ycjY4S0HSAcsBQVVfeXFMTkx5eWtzalhVNWNJWTRvdWpkZUYtUldWdVdCeVp5UDFLOUNrQnNNYkhzdHFnZFRtMldsYlMxMzJJTlZLcXB0S1g1UWdaQl85andBU01rNVdURG9OVkRKTEtObHRtenVUaDZjT0czbmRRVGtvbnIxdTdScmhCSEJ3WENUMmFocmZBbWlIVVl3aVRCZE5tdHlUU3JlNHFjdFdtdXA4TjFXdnZzZE15WTNDTkhqTGU5eG9fNTJHWUY2U19uaXpVTHdXWEhRczQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "colombia",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.066Z",
+      "candidate": {
+        "title": "Cuatro muertos en ataque de EEUU a narcolancha en el Caribe - DW.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMGVmRTR0eUFjN2ZLRTBTWklsTDQ2c05ocklseTBzSlVSMHdnOVdycGpQTnl2MUx5WjlMS3NCVTdTNmctekVmdEhKVzI1SWg5c0VudWF3Smw0VTdDakJMLWNlZW9UR0xlOTdjR3psNF9VSHpWb3JLb3J5aXA4dmFraDdwNVFmTlFpZjZLWjlkSkxJaXo1SGdyMHo0TjQ2ZEhNZTZoUNIBpAFBVV95cUxOTGVHUm81NWV2VWdOMGJ5eExNblVHVzV3RFg1ZThLM0JnUjJ4dW1aTXItWFpKVVo1UUQzVENpYkJjc0dnUUlJSWpvTWNCYTY1a1BLZHZTbXNRbWpidEdTTGk0T3JONGkwV28walVPb2xIMFZZbGlMaVAzNll0TnR4VjhKc09vR1N6VGNaNmRyNlo3LUZ2RnlKYTFQNzBlMTJMa0pGRA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.066Z",
+      "candidate": {
+        "title": "Canadá responde e impone aranceles a cientos de productos de EE. UU. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWXZscUpOazI2WkZBa2d1bE1nTnJpWG1sQjMyZmJxaFI4cGZMU2xOS2tyWl9ROUpEYkNyWW5TME5ieHhnbkpDaEFUTnZaZzRsX2RjeWxUR0xqenN4V1dfNFQyazJBVXJUVDB0eDZWMXVLSGdDamZ4THB6Rk95dzFRU3cteFJuRTRfZVQ4RU4tbWk5MVRFdmRfNTMzTWQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "mexico",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.066Z",
+      "candidate": {
+        "title": "Economía: entre buenas y malas // Informalidad gana la carrera // Ultraderecha: certamen feroz - México SA - La Jornada",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVExiVXU3YzctaDVMa211cWR2OHYyUTFweUpVVFZsUVVXZTVkQXZYTnVfMDI4Rk55c1VlVFJhX2c2MXltY19VbEE0eERPZUo3dk92M3haVTVEUE5HUnM3aTNCQmttSnJHbkI4Rm1wbWVFdk40V3VDRlI3eEpwRjAwY2pnN2R4czNxRG03UEpZYzM3QWc1VTNfM0M1R253N1FZallidHNiVnNyZUNmb2FBd3B3MGNTRzNSWXBfSmFQUi1FaEZQYXczZlZYcWxNeWNLQWNLUWc0bTV3ejNIU3EwcTV2YWNTQQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "cdmx",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.067Z",
+      "candidate": {
+        "title": "Microsoft te permitirá convertir tus juegos físicos de Xbox en digitales. Y eso abre una puerta clave: su preservación - Xataka",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2xXSHRYendMa3ZwblRlZTgtb3BfVEdxSHVqOE9oS1hsSW5sdWxoZkpzMXhlQ05wMy1vQzlfLXZJa01aR1JGSUptVVZ0S0JQQkhuWFR1b29TNmpVTTlHd244QkpJSXlpdkFxQkZRWHh5dHZhWGZPZkJvTGJaYTZsT3lnYkExVUhIaWdUT0lENERaUHBEaFhPZnYyMmVHUmJSM0Rmc2hDTWVNZ0N1SlBzLVBUaUpuWUtkbnNwSm9zSk9oeDJyQUpFNGwxYzZZVU10a21ubS1xSVQzQjDSAeABQVVfeXFMT2JYaExOVTJYVzZZUzNXQzI5SHVkeWhYSDg5NlRwcmwtVnpaU1l5Wjg4U3JSb2luRUh4Y1poTXp3NWJKNG9LbTdjVUZBYkV5Q09kdVp5VVQ0dlQyVG5DeVJjOTJhUm45RmxwMXZNVmdMWWZGcWcwYkVSR21ET2JaSGdRT1U5MU5uOXBuamhKR2lWVldzb0N5bFVWNGpKYUswc3ZqN0RNZWlqemVPemFDSHpPdGxOb1BTOEJhSGozYk9odlhDd3RrYjh1Tm9peVd1TnpXRnBXTDZSREpvYkRoRkQ?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.067Z",
+      "candidate": {
+        "title": "The Witcher 3 regresará remasterizado en septiembre con una actualización gratuita - Fantasymundo",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhTWQ3Szd4SWVLRHROUEo4Ty1MVFJhd0dXZS1lVmk1ZzFLVFYwT0hvWUJIQkh3dHNaeGZTVVowVnhUS21LUEg1YklyTHI4X2NSZDBUa1RPTjNkR1I0Ym5tSmgwdXUyZENnQS1KR1BBWlV0TGVVcUE?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.067Z",
+      "candidate": {
+        "title": "Muere a los 80 años Tim Curry, estrella de \"Rocky Horror Picture Show\" y \"Clue\" - CNN en Español",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpWXgzb294VXJHRVhBU3FQT1JSMnFzSHpsQzNnSXR3UFVXNVhJVTkxaVVsMFpmcWpqRDFDRzA2NFhmVmwtT0lpUlFOcWZCNElyTTl4b2laRE1lakI5c3dQMnNGaGJNZFR5c1Nza1pwV3RfNVNBX3llTmJaakoxWWc?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": null,
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.067Z",
+      "candidate": {
+        "title": "\"El bótox ya le está afectando la memoria\": José Manuel Figueroa cuenta su verdad ante las acusaciones de Ninel Conde - Yahoo en Español Vida y Estilo",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2Y2cWlqWTZzSDdqQXlqZjQxOGVvc2ZVcTA2emp6UTBtaG1iZE5BdVhSTTU3MXo5Q01XUjRWV2k0emNmMWhlVmlhNjMtX09TWko2cHdPWTJOV2JYNC1xNmZjcHI2OHJjaVlMZVBQU2tjb2VDc3l4Mnc5bEtNN0NadjVKR0VJSm4zSDJOUHR0Yjl6TzJsVG5DZ05SeWcwSHJ6eHRkYzIza0N6SFBocWhiMEdFVEpaN0Z4NUVldDRqYWVodVRKZzZpbmMyOXYxZVBQcG1MYWhKYWRHY2VOb3dJcmdSTFRkNThweW9CUW9KbmFSaFNNSGVHVA?oc=5",
+        "source": "google-news-mx",
+        "timestamp": "2026-08-26T23:55:47.313Z",
+        "matchedTracker": "tlatelolco-1968",
+        "feedOrigin": "rss",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.068Z",
+      "candidate": {
+        "title": "Advisers launch committee in push to organize Venezuela commercial creditors reut.rs/4xrsdmW",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzizctyeh2z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:40:28Z",
+        "matchedTracker": "fusion-energy",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.068Z",
+      "candidate": {
+        "title": "Lawyer for Fed's Cook, targeted by Trump, says there is no grounds for dismissal reut.rs/4gh4gso",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzipurxyx2n",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:35:11Z",
+        "matchedTracker": "global-recession-risk",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.068Z",
+      "candidate": {
+        "title": "Nvidia stock jumps after early dip following results; AI fever is unabated reut.rs/4qGWH1G",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzii425v22t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:30:51Z",
+        "matchedTracker": "cancer-breakthroughs",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.068Z",
+      "candidate": {
+        "title": "Qatar PM to visit Tehran to pursue mediation efforts reut.rs/4zHvgJb",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzi625fhd2w",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:25:13Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.068Z",
+      "candidate": {
+        "title": "EXCLUSIVE: Puck in advanced talks for investment by RedBird Capital Partners at $250 million valuation reut.rs/3UoT6cw",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzhmhg3q72b",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:15:23Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.069Z",
+      "candidate": {
+        "title": "Prudential posts 8% rise in first-half new business profit, expands share buyback reut.rs/45LZNYG",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzhdflwb22c",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:10:19Z",
+        "matchedTracker": "sheinbaum-presidency",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.069Z",
+      "candidate": {
+        "title": "Anthropic to rent AI computing power from Nscale for $45 billion, source says reut.rs/4wUnCIT",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzh2bjd7v2t",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:05:13Z",
+        "matchedTracker": "quantum-theory",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.069Z",
+      "candidate": {
+        "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find reut.rs/3UfhTQl",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzgukiki72b",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:02:01Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.069Z",
+      "candidate": {
+        "title": "Salesforce raises annual revenue forecasts, expands AI partnership with Anthropic reut.rs/3SuBcEK",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzgtj6h442z",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T23:01:26Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.069Z",
+      "candidate": {
+        "title": "NEWSLETTER: How Meta’s AI layoff plans went kaput reut.rs/4cgqUPg",
+        "url": "https://bsky.app/profile/reuters.com/post/3mtzg7nefle25",
+        "source": "bsky:reuters.com",
+        "timestamp": "2026-08-26T22:50:19Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.070Z",
+      "candidate": {
+        "title": "Sandra Bullock and Nicole Kidman pay tribute to Dolly Parton: \"Everything she did was extraordinary.\" They star in \"Practical Magic 2.\"\n\n#SandraBullock #NicoleKidman #PracticalMagic2",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtzgwafssg2u",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-26T23:02:58Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.070Z",
+      "candidate": {
+        "title": "An investigation is underway after police shot and killed a 22-year-old college student in Pennsylvania.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtzgror3cs2u",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-26T23:00:25Z",
+        "matchedTracker": "iran",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.070Z",
+      "candidate": {
+        "title": "President Volodymyr Zelenskyy has awarded Elon Musk Ukraine's Order of Freedom for his role in supporting the country.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtzdheihfa2u",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-26T22:00:57Z",
+        "matchedTracker": "spacex-history",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.070Z",
+      "candidate": {
+        "title": "Here's why Dolly Parton was embraced by fans across gender, sexuality, race and class lines.\n\n#DollyParton",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtzbpmhttt2m",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-26T21:29:47Z",
+        "matchedTracker": "fusion-energy",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.071Z",
+      "candidate": {
+        "title": "The Indiana Fever-Chicago Sky game Sunday averaged 3.31 million viewers on NBC and Peacock to make it the most-watched regular-season WNBA game since the league's inaugural season in 1997.",
+        "url": "https://bsky.app/profile/apnews.com/post/3mtza463sq42u",
+        "source": "bsky:apnews.com",
+        "timestamp": "2026-08-26T21:01:00Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.00)",
+      "confidence": 0,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.071Z",
+      "candidate": {
+        "title": "While U.S. casualties from the Iran War tick up, the Pentagon has been quietly seeking mortuary services. interc.pt/3UCvmSd",
+        "url": "https://bsky.app/profile/theintercept.com/post/3mtzbrtuaem2e",
+        "source": "bsky:theintercept.com",
+        "timestamp": "2026-08-26T21:31:01.347Z",
+        "matchedTracker": "iran-conflict",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.071Z",
+      "candidate": {
+        "title": "The Tohono O'odham people have sued the US government to stop construction of a border wall through their reservation.",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtzigq3f2z2s",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T23:30:05.044Z",
+        "matchedTracker": "reforestation",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.071Z",
+      "candidate": {
+        "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers https://aje.news/znnda6",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtzgr4hich2h",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T23:00:06.090Z",
+        "matchedTracker": "nigeria",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.072Z",
+      "candidate": {
+        "title": "Brazil’s Flavio Bolsonaro to institute debt ceiling if elected president https://aje.news/znrugz",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtzf3gyk3u2d",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T22:30:05.124Z",
+        "matchedTracker": "brazil",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.63)",
+      "confidence": 0.6333333333333333,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.072Z",
+      "candidate": {
+        "title": "Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights. ",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtzdft54i42u",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T22:00:05.978Z",
+        "matchedTracker": null,
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "discard",
+      "reason": "low score (0.02)",
+      "confidence": 0.02375,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.072Z",
+      "candidate": {
+        "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies https://aje.news/ej7tl7",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtzbq5magj2u",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T21:30:04.962Z",
+        "matchedTracker": "artemis-2",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.072Z",
+      "candidate": {
+        "title": "German airport workers die from malaria caught from plane-riding mosquito https://aje.news/vkmxb6",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtza2k64b52h",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T21:00:06.094Z",
+        "matchedTracker": "mrna-revolution",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.073Z",
+      "candidate": {
+        "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military? https://aje.news/pkr824",
+        "url": "https://bsky.app/profile/aljazeera.com/post/3mtz6eucv7s2c",
+        "source": "bsky:aljazeera.com",
+        "timestamp": "2026-08-26T20:30:04.849Z",
+        "matchedTracker": "syria",
+        "feedOrigin": "bluesky",
+        "sourceTier": 2
+      },
+      "decision": "defer",
+      "reason": "deferred to next heavy scan (score 0.32)",
+      "confidence": 0.31666666666666665,
+      "model": null,
+      "scanType": "light"
+    },
+    {
+      "timestamp": "2026-08-26T23:55:49.073Z",
+      "candidate": {
+        "title": "BREAKING - US designates UK-based Palestine Action as foreign ‘terrorist group’  bit.ly/4gksYYT   Follow  @InsiderPaper  for more news",
+        "url": "https://t.me/insiderpaper/44184",
+        "source": "tg:insiderpaper",
+        "timestamp": "2026-08-26T23:55:48.299Z",
+        "matchedTracker": "israel-palestine",
         "feedOrigin": "telegram",
         "sourceTier": 3
       },
